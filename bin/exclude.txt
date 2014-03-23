@@ -1,0 +1,6 @@
+.DS_Store
+bin/
+.gitignore
+.git
+npm-debug.log
+bower.json

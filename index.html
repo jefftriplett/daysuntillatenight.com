@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" ng-app="latenightApp"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Days until Late Night in the Phog</title>
+        <meta name="description" content="Countdown the days until KU Basketball's Late Night in the Phog">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:400,800' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/daysuntillatenight.css">
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+        Less than IE 7 is not supported. Have a nice day.
+        <![endif]-->
+        <div id="container">
+            <h1><span id="heading-days"></span> Days Until Late Night</h1>
+
+            <div id="date" class="when">
+                October 3, 2014 @ 6:30pm<br>
+            </div>
+            <div id="countdown">
+                <div id="numbers"></div>
+            </div>
+            <div id="roster">
+                <h3 id="heading-roster">2014-15 Roster</h3>
+                <table id="players">
+                    <tbody>
+                        <tr>
+                            <td><img src="images/players/wiggins.jpeg"></td>
+                            <td class="player-name">
+                                Andrew Wiggins
+                                <span class="status">Undecided (Probable NBA)</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/embiid.jpeg"></td>
+                            <td class="player-name">
+                                Joel Embiid
+                                <span class="status">Undecided (So)</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/selden.jpeg"></td>
+                            <td class="player-name">
+                                Wayne Selden, Jr.
+                                <span class="status">Undecided (So)</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/ellis.jpeg"></td>
+                            <td class="player-name">
+                                Perry Ellis
+                                <span class="status">Undecided (Jr)</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/alexander.jpeg"></td>
+                            <td class="player-name">
+                                Cliff Alexander
+                                <span class="status">Signed (Fr) <a href="http://www.kuathletics.com/news/2014/3/7/MBB_0307143323.aspx">Source</a></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/oubre.jpeg"></td>
+                            <td class="player-name">
+                                Kelly Paul Oubre Jr.
+                                <span class="status">Signed (Fr) <a href="http://bleacherreport.com/articles/1803192-kelly-oubre-to-kansas-jayhawks-land-5-star-sg-prospect">Source</a></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/mickelson.jpeg"></td>
+                            <td class="player-name">
+                                Hunter Mickelson
+                                <span class="status">Incoming Transfer (Jr) <a href="http://espn.go.com/blog/collegebasketballnation/post/_/id/83965/kansas-picks-up-hunter-mickelson">Source</a></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/tharpe.jpeg"></td>
+                            <td class="player-name">
+                                Naadir Tharpe
+                                <span class="status">Returning (Sr)</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/garrett.jpeg"></td>
+                            <td class="player-name">
+                                Christian Garrett
+                                <span class="status">Returning (Sr)</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/traylor.jpeg"></td>
+                            <td class="player-name">
+                                Jamari Traylor
+                                <span class="status">Returning (Jr)</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/white.jpeg"></td>
+                            <td class="player-name">
+                                Andrew White III
+                                <span class="status">Returning (Jr)</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/manning.jpeg"></td>
+                            <td class="player-name">
+                                Evan Manning
+                                <span class="status">Returning (Jr)</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/self.jpeg"></td>
+                            <td class="player-name">
+                                Tyler Self
+                                <span class="status">Returning (Jr)</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/mason.jpeg"></td>
+                            <td class="player-name">
+                                Frank Mason
+                                <span class="status">Returning (So)</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/greene.jpeg"></td>
+                            <td class="player-name">
+                                Brannen Greene
+                                <span class="status">Returning (So)</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/frankamp.jpeg"></td>
+                            <td class="player-name">
+                                Conner Frankamp
+                                <span class="status">Returning (So)</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="images/players/lucas.jpeg"></td>
+                            <td class="player-name">
+                                Landen Lucas
+                                <span class="status">Returning (So)</span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div id="copyright">
+            Created by <a href="http://twitter.com/johnkary">John Kary</a><br>
+            Not affiliated with the University of Kansas or KU Athletics.
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="bower_components/jquery/dist/jquery.min.js"><\/script>')</script>
+        <script src="js/main.js"></script>
+        <script src="js/ga.js"></script>
+    </body>
+</html>
