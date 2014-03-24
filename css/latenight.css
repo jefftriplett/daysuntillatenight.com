@@ -1,6 +1,12 @@
 html {
     background: #002de5;
 }
+a {
+    color:#fff;
+}
+a:hover {
+    text-decoration:none;
+}
 body {
     text-align:center;
     color:#fff;
@@ -16,16 +22,17 @@ body {
     background: linear-gradient(to bottom,  #0022b4 0%,#002de5 100%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0022b4', endColorstr='#002de5',GradientType=0 ); /* IE6-8 */
 }
-#container {
-    width:100%;
-    margin:0 auto;
-    font-family: 'Alegreya Sans', sans-serif;
-}
 h1 {
     font-weight:800;
     font-size:6em;
     margin: 0 0 0.4em;
     padding-top: 0.3em;
+    line-height: 1em;
+}
+#container {
+    width:100%;
+    margin:0 auto;
+    font-family: 'Alegreya Sans', sans-serif;
 }
 #countdown, #date, #heading-roster {
     font-size:3em;

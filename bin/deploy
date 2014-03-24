@@ -6,5 +6,6 @@
 # a shared SSH keypair setup between your local machine and the remote host
 # to do password-less deployment.
 
-rsync -avz --exclude-from=bin/exclude.txt --delete ./ daysuntillatenightdeploy:/var/www/daysuntillatenight.com/web
-echo "\nDeployed site to remote host\n"
+grunt deploy
+rsync -avz --exclude-from=bin/exclude.txt --delete ./build/ daysuntillatenightdeploy:/var/www/daysuntillatenight.com/web
+echo "Deployed site to remote host"
