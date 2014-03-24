@@ -89,3 +89,17 @@ h1 {
     font-size:0.7em;
     margin-top:6em;
 }
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    h1 {
+        font-size:5em;
+        padding-top: 0.1em;
+    }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {
+    h1 {
+        font-size:5em;
+        padding-top: 0.1em;
+    }
+}
