@@ -27,9 +27,4 @@ function showNumbers() {
     numbers.innerHTML = '<div class="number">'+days+'</div> days<br><div class="number">'+hours+'</div> hours<br><div class="number">'+minutes+'</div> minutes<br><div class="number">'+seconds+'</div> seconds';
 }
 
-// function showCountdown() {
-//     $('#countdown').fadeIn(200);
-// }
-
 timer = setInterval(showNumbers, 1000);
-// setInterval(showCountdown, 1500);
