@@ -63,6 +63,10 @@ h1 {
     text-align:right;
 }
 
+#tweet {
+    height:0.9em;
+}
+
 #players {
     font-size:2em;
     text-align:left;
