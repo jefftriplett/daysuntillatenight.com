@@ -19,12 +19,14 @@ function showNumbers() {
         return;
     }
 
-    var days = Math.floor(distance / _day),
-        hours = Math.floor((distance % _day) / _hour),
-        minutes = Math.floor((distance % _hour) / _minute),
-        seconds = Math.floor((distance % _minute) / _second);
+    var tilLateNight = {
+        days: Math.floor(distance / _day),
+        hours: Math.floor((distance % _day) / _hour),
+        minutes: Math.floor((distance % _hour) / _minute),
+        seconds: Math.floor((distance % _minute) / _second)
+    };
 
-    numbers.innerHTML = '<div class="number">'+days+'</div> days<br><div class="number">'+hours+'</div> hours<br><div class="number">'+minutes+'</div> minutes<br><div class="number">'+seconds+'</div> seconds';
+    numbers.innerHTML = '<div class="number">'+tilLateNight.days+'</div> days<br><div class="number">'+tilLateNight.hours+'</div> hours<br><div class="number">'+tilLateNight.minutes+'</div> minutes<br><div class="number">'+tilLateNight.seconds+'</div> seconds';
 }
 
 timer = setInterval(showNumbers, 1000);
