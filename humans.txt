@@ -12,5 +12,6 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
-    AngularJS
+    Normalize.css
+    Grunt
+    Nothing fancy
