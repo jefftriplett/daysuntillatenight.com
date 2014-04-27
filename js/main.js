@@ -73,7 +73,7 @@ document.addEventListener("tick", function(e) {
 
 // Handle expired countdown
 document.addEventListener("expired", function(e) {
-    document.getElementById('numbers').innerHTML = 'Get to the Fieldhouse!';
+    document.getElementById('countdown').innerHTML = 'Late Night has begun!';
 }, false);
 
 timer = setInterval(recalculateCountdown, 1000);
