@@ -37,20 +37,19 @@ function getRemaining(now) {
  * Recalculate countdown on recurring basis
  *
  * Fires the following events:
- *  - "tick" on <body>
+ *  - "tick" on <body> when time remains until Late Night
+ *  - "expired" on <body> when Late Night has begun
  */
 function recalculateCountdown() {
-    var remaining = getRemaining(new Date());
+    var remaining = getRemaining(new Date()),
+        eventName = 'tick';
 
     if (remaining.isExpired) {
+        eventName = 'expired';
         clearInterval(timer);
-        // TODO: Expired event
-        numbers.innerHTML = 'Get to the Fieldhouse!';
-
-        return;
     }
 
-    var event = new CustomEvent("tick", {
+    var event = new CustomEvent(eventName, {
         detail: {
             remaining: remaining
         },
@@ -66,6 +65,11 @@ document.addEventListener("tick", function(e) {
         html = '<div class="number">'+r.days+'</div> days<br><div class="number">'+r.hours+'</div> hours<br><div class="number">'+r.minutes+'</div> minutes<br><div class="number">'+r.seconds+'</div> seconds';
 
     document.getElementById('numbers').innerHTML = html;
+}, false);
+
+// Handle expired countdown
+document.addEventListener("expired", function(e) {
+    document.getElementById('numbers').innerHTML = 'Get to the Fieldhouse!';
 }, false);
 
 timer = setInterval(recalculateCountdown, 1000);
