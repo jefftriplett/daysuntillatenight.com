@@ -3,30 +3,69 @@ var latenight = new Date('10/03/2014 6:30 PM'),
     _minute = _second * 60,
     _hour = _minute * 60,
     _day = _hour * 24,
-    timer;
+    timer,
+    initialRemaining = getRemaining(new Date());
 
-document.getElementById('heading-days').innerText = Math.floor((latenight-new Date()) / _day);
+// Setup title with remaining days
+document.getElementById('heading-days').innerText = initialRemaining.days;
 
-function showNumbers() {
-    var numbers = document.getElementById('numbers'),
-        now = new Date(),
-        distance = latenight - now;
+// Setup tweet button text
+tweetText = initialRemaining.days+' days, '+initialRemaining.hours+' hours, '+initialRemaining.minutes+' minutes, '+initialRemaining.seconds+' seconds until Late Night in the Phog! DaysUntilLateNight.com';
+document.getElementById('tweet-button').setAttribute('data-text', tweetText);
 
-    if (distance < 0) {
-        clearInterval(timer);
-        numbers.innerHTML = 'Get to the Fieldhouse!';
+// Initialize Twitter button
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
 
-        return;
-    }
+/**
+ * Get remaining time
+ * @param Date now
+ * @return object
+ */
+function getRemaining(now) {
+    var distance = latenight - now;
 
-    var tilLateNight = {
+    return {
+        isExpired: distance < 0,
         days: Math.floor(distance / _day),
         hours: Math.floor((distance % _day) / _hour),
         minutes: Math.floor((distance % _hour) / _minute),
         seconds: Math.floor((distance % _minute) / _second)
     };
-
-    numbers.innerHTML = '<div class="number">'+tilLateNight.days+'</div> days<br><div class="number">'+tilLateNight.hours+'</div> hours<br><div class="number">'+tilLateNight.minutes+'</div> minutes<br><div class="number">'+tilLateNight.seconds+'</div> seconds';
 }
 
-timer = setInterval(showNumbers, 1000);
+/**
+ * Recalculate countdown on recurring basis
+ *
+ * Fires the following events:
+ *  - "tick" on <body>
+ */
+function recalculateCountdown() {
+    var remaining = getRemaining(new Date());
+
+    if (remaining.isExpired) {
+        clearInterval(timer);
+        // TODO: Expired event
+        numbers.innerHTML = 'Get to the Fieldhouse!';
+
+        return;
+    }
+
+    var event = new CustomEvent("tick", {
+        detail: {
+            remaining: remaining
+        },
+        bubbles: true,
+        cancelable: true
+    });
+    document.getElementsByTagName("body")[0].dispatchEvent(event);
+}
+
+// Repopulate countdown
+document.addEventListener("tick", function(e) {
+    var r = e.detail.remaining,
+        html = '<div class="number">'+r.days+'</div> days<br><div class="number">'+r.hours+'</div> hours<br><div class="number">'+r.minutes+'</div> minutes<br><div class="number">'+r.seconds+'</div> seconds';
+
+    document.getElementById('numbers').innerHTML = html;
+}, false);
+
+timer = setInterval(recalculateCountdown, 1000);
