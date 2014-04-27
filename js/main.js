@@ -6,8 +6,7 @@ var latenight = new Date('10/03/2014 6:30 PM'),
     timer,
     initialRemaining = getRemaining(new Date());
 
-// Setup title with remaining days
-document.getElementById('heading-days').innerText = initialRemaining.days;
+recalculateCountdown();
 
 // Setup tweet button text
 tweetText = initialRemaining.days+' days, '+initialRemaining.hours+' hours, '+initialRemaining.minutes+' minutes, '+initialRemaining.seconds+' seconds until Late Night in the Phog! DaysUntilLateNight.com';
@@ -58,6 +57,11 @@ function recalculateCountdown() {
     });
     document.getElementsByTagName("body")[0].dispatchEvent(event);
 }
+
+// Repopulate days left in title
+document.addEventListener('tick', function(e) {
+    document.getElementById('heading-days').innerText = e.detail.remaining.days;
+});
 
 // Repopulate countdown
 document.addEventListener("tick", function(e) {
