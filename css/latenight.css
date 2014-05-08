@@ -87,6 +87,9 @@ h1 {
 .player {
     font-size:1em;
 }
+.player-name {
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.50);
+}
 .status {
     color:#fff;
     display:block;
