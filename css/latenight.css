@@ -81,10 +81,14 @@ h1 {
     height:200px;
     border:1px solid #000;
 }
-.player-name {
+.leaving img, .leaving .player-name {
+    opacity:0.6;
+}
+.player {
     font-size:1em;
 }
 .status {
+    color:#fff;
     display:block;
     font-size:0.6em;
 }
