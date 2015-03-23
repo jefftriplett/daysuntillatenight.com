@@ -9,7 +9,7 @@ var latenight = new Date('10/09/2015 6:30 PM'),
 recalculateCountdown();
 
 // Setup tweet button text
-tweetText = initialRemaining.days+' days, '+initialRemaining.hours+' hours, '+initialRemaining.minutes+' minutes, '+initialRemaining.seconds+' seconds until Late Night in the Phog! DaysUntilLateNight.com';
+tweetText = initialRemaining.days+' days, '+initialRemaining.hours+' hours, '+initialRemaining.minutes+' minutes, '+initialRemaining.seconds+' seconds until Late Night in the Phog 2015-16 DaysUntilLateNight.com';
 document.getElementById('tweet-button').setAttribute('data-text', tweetText);
 
 // Initialize Twitter button
