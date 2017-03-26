@@ -1,4 +1,4 @@
-var latenight = new Date('10/01/2016 6:30 PM'),
+var latenight = new Date('09/30/2017 6:30 PM'),
     _second = 1000,
     _minute = _second * 60,
     _hour = _minute * 60,
