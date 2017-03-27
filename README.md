@@ -2,19 +2,16 @@
 
 # Development
 
-The site can be built and seen by running the following command:
+The site may be served using any local webserver. For example using Python:
 
-    $ grunt
+    $ open http://0.0.0.0:8000 && python -m SimpleHTTPServer 8000
 
 # Updating for the next year
 
 1. Edit index.html to replace the hardcoded date.
 2. Edit js/main.js with the new date.
-3. `$ grunt`
 
 # Deployment
 
-Deployment is done by a basic shell script that builds the site and
-deploys the built directory to the server:
-
-    $ bash bin/deploy
+This website is hosted from GitHub Pages and linked to the `master`
+branch. Any new commits will be available on the site.
