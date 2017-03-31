@@ -2,9 +2,9 @@
 
 # Development
 
-The site may be served using any local webserver. For example using Python:
+The site may be served using any local webserver. The default serve script uses Python:
 
-    $ open http://0.0.0.0:8000 && python -m SimpleHTTPServer 8000
+    $ ./serve
 
 # Updating for the next year
 
