@@ -1,4 +1,7 @@
-var latenight = new Date('09/30/2017 6:30 PM'),
+var latenight = new Date('09/29/2018 6:30 PM'),
+    _yyyy = latenight.getFullYear()+'',
+    _yy = latenight.getFullYear()-1999+'',
+    _yearspan = _yyyy+'-'+_yy,
     _second = 1000,
     _minute = _second * 60,
     _hour = _minute * 60,
@@ -9,7 +12,7 @@ var latenight = new Date('09/30/2017 6:30 PM'),
 recalculateCountdown();
 
 // Setup tweet button text
-tweetText = initialRemaining.days+' days, '+initialRemaining.hours+' hours, '+initialRemaining.minutes+' minutes, '+initialRemaining.seconds+' seconds until Late Night in the Phog 2015-16 DaysUntilLateNight.com';
+tweetText = initialRemaining.days+' days, '+initialRemaining.hours+' hours, '+initialRemaining.minutes+' minutes, '+initialRemaining.seconds+' seconds until Late Night in the Phog '+_yearspan+' DaysUntilLateNight.com';
 document.getElementById('tweet-button').setAttribute('data-text', tweetText);
 
 // Initialize Twitter button
