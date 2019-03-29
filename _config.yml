@@ -50,6 +50,7 @@ collections:  # process the _data folder
     permalink: /:collection/:name/
 
 exclude:
+  - build
   - CNAME
   - Gemfile*
   - Procfile
