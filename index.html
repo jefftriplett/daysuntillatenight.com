@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -27,7 +29,7 @@
                 <h1><span id="heading-days"></span> Days Until Late Night</h1>
 
                 <div id="date" class="when">
-                    September 28, 2018 @ 6:30pm<br>
+                    September 27, 2019 @ 6:30pm<br>
                 </div>
                 <div id="countdown">
                     <div id="numbers"></div>
@@ -37,111 +39,22 @@
                 </div>
             </div>
             <div id="roster">
-                <h3 id="heading-roster">2017-18 Roster</h3>
+                <h3 id="heading-roster">2019-20 Roster</h3>
                 <table id="players">
                     <tbody>
                         <!-- leaving / declaring players -->
 
                         <!-- returning players -->
-
+                        {% assign players = site.players | where: "year", "2019" %}
+                        {% for player in players %}
                         <tr>
-                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="images/players/graham4.jpeg"></td>
+                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="{{ player.image }}"></td>
                             <td class="player">
-                                <span class="player-name">Devonte' Graham</span>
-                                <span class="status">Senior</span>
+                                <span class="player-name">{{ player.name }}</span>
+                                <span class="status">{{ player.status }}</span>
                             </td>
                         </tr>
-                        <tr>
-                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="images/players/mykhailiuk4.jpeg"></td>
-                            <td class="player">
-                                <span class="player-name">Sviatoslav Mykhailiuk</span>
-                                <span class="status">Senior</span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="images/players/young.jpeg"></td>
-                            <td class="player">
-                                <span class="player-name">Clay Young</span>
-                                <span class="status">Senior (redshirt)</span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="images/players/vick.jpeg"></td>
-                            <td class="player">
-                                <span class="player-name">Lagerald Vick</span>
-                                <span class="status">Junior</span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="images/players/dlawson.jpeg"></td>
-                            <td class="player">
-                                <span class="player-name">Dedric Lawson</span>
-                                <span class="status"><a href="http://www.commercialappeal.com/story/sports/columnists/geoff-calkins/2017/04/10/calkins-lawsons-kansas----and-keelon-lawson-explain-why/100291042/">Junior, Transfer from Memphis</a><br>Eligible Fall 2018</span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="images/players/newman2.jpeg"></td>
-                            <td class="player">
-                                <span class="player-name">Malik Newman</span>
-                                <span class="status"><a href="http://www.kuathletics.com/news/2016/7/1/mens-basketball-malik-newman-transfers-to-kansas.aspx">Sophomore (redshirt), Transfer from Mississippi State</a></span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="images/players/azubuike2.jpeg"></td>
-                            <td class="player">
-                                <span class="player-name">Udoka Azubuike</span>
-                                <span class="status">Sophomore</span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="images/players/lightfoot2.jpeg"></td>
-                            <td class="player">
-                                <span class="player-name">Mitch Lightfoot</span>
-                                <span class="status">Sophomore</span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="images/players/---------.jpeg"></td>
-                            <td class="player">
-                                <span class="player-name">Charlie Moore</span>
-                                <span class="status">Sophomore, Transfer from Cal<br>Eligible Fall 2018</span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="images/players/cunliffe.jpeg"></td>
-                            <td class="player">
-                                <span class="player-name">Sam Cunliffe</span>
-                                <span class="status"><a href="http://www.kansascity.com/sports/college/big-12/university-of-kansas/article125174569.html">Sophomore (redshirt), Transfer from Arizona State</a><br>Eligible January 2018</span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="images/players/preston.jpeg"></td>
-                            <td class="player">
-                                <span class="player-name">Billy Preston</span>
-                                <span class="status">Freshman<br><a href="https://n.rivals.com/content/prospects/1232">Rivals.com #10 Ranked Player</a></span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="images/players/kjlawson.jpeg"></td>
-                            <td class="player">
-                                <span class="player-name">K.J. Lawson</span>
-                                <span class="status"><a href="http://www.commercialappeal.com/story/sports/columnists/geoff-calkins/2017/04/10/calkins-lawsons-kansas----and-keelon-lawson-explain-why/100291042/">Sophomore, Transfer from Memphis</a><br>Eligible Fall 2018</span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="images/players/-------------.jpeg"></td>
-                            <td class="player">
-                                <span class="player-name">Marcus Garrett</span>
-                                <span class="status">Freshman</span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="images/players/-------------.jpeg"></td>
-                            <td class="player">
-                                <span class="player-name">Chris Teahan</span>
-                                <span class="status">Freshman</span>
-                            </td>
-                        </tr>
+                        {% endfor %}
                     </tbody>
                 </table>
             </div>
