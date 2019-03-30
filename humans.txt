@@ -3,11 +3,11 @@
 
 # TEAM
 
-    John Kary -- @johnkary
+    John Kary -- @johnkary (original creator)
+    Jeff Triplett -- @webology / @istheleadsafe (current maintainer)
 
 # THANKS
 
-    Jeff Triplett -- @webology / @istheleadsafe
     You
 
 # TECHNOLOGY COLOPHON
@@ -15,4 +15,6 @@
     HTML5, CSS3
     Normalize.css
     Grunt
+    GitHug Pages for hosting
+    CloudFlare for SSL / Caching
     Nothing fancy

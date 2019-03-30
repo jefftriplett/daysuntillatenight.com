@@ -39,13 +39,13 @@
                 </div>
             </div>
             <div id="roster">
-                <h3 id="heading-roster">2019-20 Roster</h3>
+                <h3 id="heading-roster">2018-19 Roster</h3>
                 <table id="players">
                     <tbody>
                         <!-- leaving / declaring players -->
 
                         <!-- returning players -->
-                        {% assign players = site.players | where: "year", "2019" %}
+                        {% assign players = site.players | where: "year", "2018" %}
                         {% for player in players %}
                         <tr>
                             <td><img class="lazy" src="images/blank.gif" width="150" height="200" data-src="{{ player.image }}"></td>

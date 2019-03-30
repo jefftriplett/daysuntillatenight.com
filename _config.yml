@@ -46,7 +46,7 @@ collections:  # process the _data folder
   components:
     output: false
   players:
-    output: true
+    output: false
     permalink: /:collection/:name/
 
 exclude:
