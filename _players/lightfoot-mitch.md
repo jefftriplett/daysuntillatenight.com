@@ -3,6 +3,8 @@ first_name: Mitch
 last_name: Lightfoot
 image: "https://kuathletics.com/images/2018/6/27/Lightfoot_Mitch_06252018.jpg?width=182&height=250&mode=crop&anchor=topcenter"
 number: 44
+position: F
+hometown: Gilbert, AZ
 years:
   - year: 2016
     class: Freshman

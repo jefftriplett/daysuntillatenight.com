@@ -51,12 +51,9 @@
                                 <tr>
                                     <td><img class="lazy" src="/images/blank.gif" width="150" height="200" data-src="{{ player.image }}"></td>
                                     <td class="player">
-                                        {% if player.name %}
-                                            <span class="player-name">{{ player.name }}</span>
-                                        {% else %}
-                                            <span class="player-name">{{ player.first_name }} {{ player.last_name }}</span>
-                                        {% endif %}
+                                        <span class="player-name">{{ player.first_name }} {{ player.last_name }} <small>{{ player.number }}</small></span>
                                         <span class="status">{{ current_season.class }}</span>
+                                        <span class="status">{{ player.hometown }}</span>
                                         <span class="status">{{ current_season.status }}</span>
                                     </td>
                                 </tr>
