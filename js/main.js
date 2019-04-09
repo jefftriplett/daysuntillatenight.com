@@ -1,4 +1,4 @@
-var latenight = new Date('09/27/2019 6:30 PM'),
+var latenight = new Date('09/28/2018 6:30 PM'),
     _yyyy = latenight.getFullYear()+'',
     _yy = latenight.getFullYear()-1999+'',
     _yearspan = _yyyy+'-'+_yy,
@@ -8,6 +8,21 @@ var latenight = new Date('09/27/2019 6:30 PM'),
     _day = _hour * 24,
     timer,
     initialRemaining = getRemaining(new Date());
+
+$( document ).ready(function() {
+
+    // latenight = new Date('09/27/2019 6:30 PM');
+    // _yyyy = latenight.getFullYear()+'';
+    // _yy = latenight.getFullYear()-1999+'';
+    // _yearspan = _yyyy+'-'+_yy;
+    // _second = 1000;
+    // _minute = _second * 60;
+    // _hour = _minute * 60;
+    // _day = _hour * 24;
+    // initialRemaining = getRemaining(new Date());
+
+    console.log( "ready!" );
+});
 
 recalculateCountdown();
 
