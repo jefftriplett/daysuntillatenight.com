@@ -1,7 +1,15 @@
 ---
-name: TheirName
-image: "images/blank.gif"
+first_name: FirstName
+first_name: LastName
+image: "/images/blank.gif"
 number: 0
-status: Freshman
-year: [2019]
+years:
+  - year: 2019
+    class: Freshman
+  - year: 2020
+    class: Sophomore
+  - year: 2021
+    class: Junior
+  - year: 2022
+    class: Senior
 ---

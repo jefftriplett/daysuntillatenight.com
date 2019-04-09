@@ -56,3 +56,11 @@ exclude:
   - Procfile
   - README.md
   - serve
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap

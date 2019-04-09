@@ -1,7 +1,7 @@
 ---
-first_name: Devonte'
-last_name: Graham
-image: "/images/players/graham4.jpeg"
+first_name: Sviatoslav
+last_name: Mykhailiuk
+image: "/images/players/mykhailiuk4.jpeg"
 years:
   - year: 2014
     class: Freshman
