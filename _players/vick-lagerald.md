@@ -27,5 +27,5 @@ years:
       - active
       - departing
     departing: true
-    departing_reason: Left for personal reasons
+    departing_reason: <a href="http://www.espn.com/mens-college-basketball/story/_/id/26230048/vick-leave-absence-return-ku">Leave of absence</a>
 ---

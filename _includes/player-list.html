@@ -1,6 +1,7 @@
+{% assign players = site.players | sort: "last_name", "first" %}
+
 <table id="players">
     <tbody>
-        {% assign players = site.players | sort: "last_name", "first" %}
         {% for player in players %}
             {% assign current_season = player.years | where: "year", include.current_year | first %}
             {% if current_season %}
@@ -15,7 +16,11 @@
                         </span>
                         <span class="status">{{ current_season.class }}</span>
                         <span class="status">{{ player.hometown }}</span>
-                        <span class="status">{{ current_season.status_reason }}</span>
+                        {% if include.status == "active" %}
+                            <span class="status">{{ current_season.status_reason }}</span>
+                        {% else %}
+                            <span class="status">{{ current_season.departing_reason }}</span>
+                        {% endif %}
                     </td>
                 </tr>
                 {% endif %}

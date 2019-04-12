@@ -13,7 +13,7 @@ years:
     class: Sophomore
     number: 22
     position: F
-    departing_reason: Awaiting NCAA appeal
+    departing_reason: Awaiting <a href="http://www.espn.com/mens-college-basketball/story/_/id/25902687/ncaa-rules-silvio-de-sousa-kansas-jayhawks-ineligible-2019-20-season">NCAA appeal</a>
     status: 
       - inactive
       - unknown

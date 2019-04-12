@@ -15,5 +15,5 @@ years:
     status: 
       - active
       - departing
-    departing_reason: Transferring
+    departing_reason: <a href="http://www.espn.com/espn/wire/_/section/ncb/id/26447671">Transferring</a>
 ---

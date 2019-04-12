@@ -11,5 +11,5 @@ years:
     status: 
       - active
       - departing
-    departing_reason: Declared for the NBA Draft
+    departing_reason: Declared for the <a href="http://www.espn.com/mens-college-basketball/story/_/id/26491034/kansas-freshman-grimes-declares-draft">2019 NBA Draft</a>
 ---

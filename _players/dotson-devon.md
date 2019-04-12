@@ -8,10 +8,8 @@ years:
     class: Freshman
     number: 11
     position: G
-    status: active
-  - year: 2019
-    class: Sophomore
-    number: 11
-    position: G
-    status: active
+    status: 
+      - active
+      - departing
+    departing_reason: Declared eligibility for the <a href="http://www.espn.com/nba/story/_/id/26469638/kansas-guard-devon-dotson-declaring-nba-draft">2019 NBA Draft</a>
 ---

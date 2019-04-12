@@ -15,5 +15,5 @@ years:
     status: 
       - active
       - departing
-    departing_reason: Transferring
+    departing_reason: <a href="http://www.espn.com/mens-college-basketball/story/_/id/26399386/kansas-moore-decides-transfer-closer-home">Transferring to be closer to his family</a>
 ---
