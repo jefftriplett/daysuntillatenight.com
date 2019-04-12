@@ -24,10 +24,10 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
 exclude:
   - build
   - CNAME
@@ -61,11 +61,3 @@ defaults:
       type: "latenights"
     values:
       layout: "latenights"
-
-include:
-  - _pages
-
-plugins:
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
