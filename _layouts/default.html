@@ -39,20 +39,7 @@
                 </div>
             </div>
             <div id="roster">
-                <!-- leaving / declaring players -->
-
-                <!-- returning players -->
-                <h3 id="heading-roster">{{ page.season }} Roster</h3>
-
-                {% include player-list.html current_year=page.current_year status="active" %}
-
-                <h3 id="heading-roster">Departing</h3>
-
-                {% include player-list.html current_year=page.current_year status="departing" %}
-
-                <h3 id="heading-roster">Unknown</h3>
-
-                {% include player-list.html current_year=page.current_year status="unknown" %}
+{{ content }}
             </div>
         </div>
         <div id="copyright">

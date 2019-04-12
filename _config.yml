@@ -60,7 +60,7 @@ defaults:
       path: ""
       type: "latenights"
     values:
-      layout: "default"
+      layout: "latenights"
 
 include:
   - _pages

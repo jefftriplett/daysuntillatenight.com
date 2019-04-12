@@ -21,6 +21,7 @@ years:
     position: C
     departing_reason: Projected <a href="https://www.nbadraft.net/2019mock_draft">52nd pick</a> in the NBA draft
     status: 
+      - active
       - unknown
   - year: 2019
     class: Senior
