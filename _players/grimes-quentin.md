@@ -8,8 +8,8 @@ years:
     class: Freshman
     number: 5
     position: G
-  - year: 2019
-    class: Sophomore
-    number: 5
-    position: G
+    status: 
+      - active
+      - departing
+    departing_reason: Declared for the NBA Draft
 ---

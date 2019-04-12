@@ -5,15 +5,21 @@ image: "https://kuathletics.com/images/2018/6/27/De_Sousa_Silvio_06252018.jpg?wi
 hometown: Luanda, Angola
 years:
   - year: 2017
-    class: Freshman, ineligible
+    class: Freshman
     number: 22
     position: F
+    status: active
   - year: 2018
-    class: Sophomore, ineligible
+    class: Sophomore
     number: 22
     position: F
+    departing_reason: Awaiting NCAA appeal
+    status: 
+      - inactive
+      - unknown
   - year: 2019
-    class: Junior, ineligible
+    class: Junior
     number: 22
     position: F
+    status: unknown
 ---

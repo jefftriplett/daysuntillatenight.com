@@ -8,12 +8,15 @@ years:
     class: Freshman
     number: 0
     position: G
+    status: active
   - year: 2018
     class: Sophomore
     number: 0
     position: G
+    status: active
   - year: 2019
     class: Junior
     number: 0
     position: G
+    status: active
 ---

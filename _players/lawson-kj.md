@@ -7,12 +7,13 @@ years:
   - year: 2017
     class: <a href="http://www.commercialappeal.com/story/sports/columnists/geoff-calkins/2017/04/10/calkins-lawsons-kansas----and-keelon-lawson-explain-why/100291042/">Sophomore, Transfer from Memphis</a><br>Eligible Fall 2018
     position: G
+    status: active
   - year: 2018
     class: <a href="http://www.commercialappeal.com/story/sports/columnists/geoff-calkins/2017/04/10/calkins-lawsons-kansas----and-keelon-lawson-explain-why/100291042/">Sophomore, Transfer from Memphis</a>
     number: 13
     position: G
-  - year: 2019
-    class: Junior
-    status: Transferring away
-    position: G
+    status: 
+      - active
+      - departing
+    departing_reason: Transferring
 ---

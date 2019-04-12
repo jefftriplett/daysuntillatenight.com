@@ -8,8 +8,10 @@ years:
     class: Freshman
     position: F
     number: 10
+    status: active
   - year: 2019
     class: Sophomore
     position: F
     number: 10
+    status: active
 ---

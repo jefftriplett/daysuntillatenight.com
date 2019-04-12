@@ -7,11 +7,13 @@ years:
   - year: 2017
     class: Sophomore, Transfer from Cal<br>Eligible Fall 2018
     position: G
+    status: active
   - year: 2018
     class: Sophomore, Transfer from Cal
     number: 2
     position: G
-  - year: 2019
-    class: Junior, Transfer out
-    position: G
+    status: 
+      - active
+      - departing
+    departing_reason: Transferring
 ---

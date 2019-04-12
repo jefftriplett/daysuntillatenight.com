@@ -39,31 +39,20 @@
                 </div>
             </div>
             <div id="roster">
-                <h3 id="heading-roster">{{ page.season }} Roster</h3>
-                <table id="players">
-                    <tbody>
-                        <!-- leaving / declaring players -->
+                <!-- leaving / declaring players -->
 
-                        <!-- returning players -->
-                        {% assign players = site.players | sort: "last_name", "first" %}
-                        {% for player in players %}
-                            {% assign current_season = player.years | where: "year", page.current_year | first %}
-                            {% if current_season %}
-                                <tr>
-                                    <td><img class="lazy" src="/images/blank.gif" width="150" height="200" data-src="{{ player.image }}"></td>
-                                    <td class="player">
-                                        <span class="player-name">{{ player.first_name }} {{ player.last_name }}
-                                            {% if current_season.number %}<small>#{{ current_season.number }}</small>{% endif %}
-                                        </span>
-                                        <span class="status">{{ current_season.class }}</span>
-                                        <span class="status">{{ player.hometown }}</span>
-                                        <span class="status">{{ current_season.status }}</span>
-                                    </td>
-                                </tr>
-                            {% endif %}
-                        {% endfor %}
-                    </tbody>
-                </table>
+                <!-- returning players -->
+                <h3 id="heading-roster">{{ page.season }} Roster</h3>
+
+                {% include player-list.html current_year=page.current_year status="active" %}
+
+                <h3 id="heading-roster">Departing</h3>
+
+                {% include player-list.html current_year=page.current_year status="departing" %}
+
+                <h3 id="heading-roster">Unknown</h3>
+
+                {% include player-list.html current_year=page.current_year status="unknown" %}
             </div>
         </div>
         <div id="copyright">

@@ -8,17 +8,23 @@ years:
     class: Freshman
     number: 35
     position: C
+    status: active
   - year: 2017
     class: Sophomore
     number: 35
     position: C
+    status: active
   - year: 2018
     class: Junior
     projected: https://www.nbadraft.net/2019mock_draft
     number: 35
     position: C
+    departing_reason: Projected <a href="https://www.nbadraft.net/2019mock_draft">52nd pick</a> in the NBA draft
+    status: 
+      - unknown
   - year: 2019
     class: Senior
     number: 35
     position: C
+    status: unknown
 ---

@@ -8,4 +8,5 @@ years:
     class: Freshman
     position: G
     number: tbd
+    status: active
 ---

@@ -8,16 +8,20 @@ years:
     class: Freshman
     number: 44
     position: F
+    status: active
   - year: 2017
     class: Sophomore
     number: 44
     position: F
+    status: active
   - year: 2018
     class: Junior
     number: 44
     position: F
+    status: active
   - year: 2019
     class: Senior
     number: 44
     position: F
+    status: active
 ---
