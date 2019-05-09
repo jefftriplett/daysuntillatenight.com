@@ -1,0 +1,35 @@
+---
+label: Player
+hide_body: true
+fields:
+- type: text
+  name: first_name
+  label: first_name
+- type: text
+  name: last_name
+  label: last_name
+- type: textarea
+  name: image
+  label: image
+- type: text
+  name: hometown
+  label: hometown
+- type: field_group_list
+  name: years
+  label: years
+  fields:
+  - type: number
+    name: year
+    label: year
+  - type: text
+    name: class
+    label: class
+  - type: number
+    name: number
+    label: number
+  - type: text
+    name: position
+    label: position
+  - type: text
+    name: status
+    label: status
