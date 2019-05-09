@@ -30,12 +30,21 @@ fields:
   - type: text
     name: class
     label: class
+    config:
+      required: true
+    default: Freshman
   - type: number
     name: number
     label: number
+    config:
+      min: '00'
+      max: '99'
+      required: true
   - type: text
     name: position
     label: position
+    config:
+      required: true
   - type: text
     name: status
     label: status
