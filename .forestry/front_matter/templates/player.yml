@@ -39,7 +39,7 @@ fields:
     config:
       min: '00'
       max: '99'
-      required: true
+      required: false
   - type: text
     name: position
     label: position
