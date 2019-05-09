@@ -64,7 +64,7 @@ fields:
         format: html
     label: departing_reason
   config:
-    labelField: class
+    labelField: ''
 pages:
 - _players/lawson-dedric.md
 - _players/young-clay.md
