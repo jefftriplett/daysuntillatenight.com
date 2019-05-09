@@ -13,9 +13,9 @@ fields:
   name: when
   label: when
 pages:
-- _latenights/2014.md
-- _latenights/2015.md
-- _latenights/2016.md
-- _latenights/2017.md
-- _latenights/2018.md
 - _latenights/2019.md
+- _latenights/2018.md
+- _latenights/2017.md
+- _latenights/2016.md
+- _latenights/2015.md
+- _latenights/2014.md

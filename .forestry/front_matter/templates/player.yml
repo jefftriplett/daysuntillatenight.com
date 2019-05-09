@@ -51,28 +51,40 @@ fields:
     default: active
     config:
       required: true
+  - name: departing
+    type: boolean
+    label: departing
+  - name: departing_reason
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html
+    label: departing_reason
 pages:
-- _players/agbaji-ochai.md
-- _players/azubuike-udoka.md
-- _players/braun-christian.md
-- _players/cunliffe-sam.md
-- _players/de-sousa-silvio.md
-- _players/devonte-graham.md
-- _players/dotson-devon.md
-- _players/elliott-elijah.md
-- _players/enaruna-tristan.md
-- _players/garrett-marcus.md
-- _players/grimes-quentin.md
-- _players/lawson-dedric.md
-- _players/lawson-kj.md
-- _players/lightfoot-mitch.md
-- _players/luinstra-garrett.md
-- _players/mcbride-issac.md
-- _players/mccormack-david.md
-- _players/moore-charlie.md
-- _players/mykhailiuk-sviatoslav.md
-- _players/newman-malik.md
-- _players/preston-billy.md
-- _players/teahan-chris.md
-- _players/vick-lagerald.md
 - _players/young-clay.md
+- _players/vick-lagerald.md
+- _players/teahan-chris.md
+- _players/preston-billy.md
+- _players/newman-malik.md
+- _players/mykhailiuk-sviatoslav.md
+- _players/moore-charlie.md
+- _players/mccormack-david.md
+- _players/mcbride-issac.md
+- _players/luinstra-garrett.md
+- _players/lightfoot-mitch.md
+- _players/lawson-kj.md
+- _players/lawson-dedric.md
+- _players/grimes-quentin.md
+- _players/garrett-marcus.md
+- _players/elliott-elijah.md
+- _players/dotson-devon.md
+- _players/devonte-graham.md
+- _players/de-sousa-silvio.md
+- _players/cunliffe-sam.md
+- _players/braun-christian.md
+- _players/azubuike-udoka.md
+- _players/agbaji-ochai.md
+- _players/enaruna-tristan.md
