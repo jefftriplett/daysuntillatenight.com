@@ -63,6 +63,8 @@ fields:
       schema:
         format: html
     label: departing_reason
+  config:
+    labelField: class
 pages:
 - _players/young-clay.md
 - _players/vick-lagerald.md
