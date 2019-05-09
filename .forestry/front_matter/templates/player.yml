@@ -21,6 +21,12 @@ fields:
   - type: number
     name: year
     label: year
+    config:
+      min: '2008'
+      max: '2022'
+      step: '1'
+      required: true
+    default: '2019'
   - type: text
     name: class
     label: class
@@ -36,17 +42,5 @@ fields:
     default: active
     config:
       required: true
-- name: testing
-  type: select
-  default: _latenights/2019.md
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: latenights
-      file: _latenights/2018.md
-      path: 
-  label: Testing
 pages:
 - _players/enaruna-tristan.md
