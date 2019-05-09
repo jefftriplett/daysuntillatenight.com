@@ -52,4 +52,5 @@ fields:
     config:
       required: true
 pages:
+- _players/agbaji-ochai.md
 - _players/enaruna-tristan.md
