@@ -1,6 +1,7 @@
 ---
 label: Late Nights
 hide_body: true
+display_field: season
 fields:
 - type: number
   name: current_year
