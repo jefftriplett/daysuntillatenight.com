@@ -1,0 +1,13 @@
+---
+label: Late Nights
+hide_body: true
+fields:
+- type: number
+  name: current_year
+  label: current_year
+- type: text
+  name: season
+  label: season
+- type: text
+  name: when
+  label: when
