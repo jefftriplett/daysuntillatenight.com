@@ -36,5 +36,17 @@ fields:
     default: active
     config:
       required: true
+- name: testing
+  type: select
+  default: _latenights/2019.md
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: latenights
+      file: _latenights/2018.md
+      path: 
+  label: Testing
 pages:
 - _players/enaruna-tristan.md
