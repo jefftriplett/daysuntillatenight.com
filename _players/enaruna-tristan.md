@@ -9,6 +9,5 @@ years:
   number: 
   position: Forward
   status: active
-published: false
 
 ---
