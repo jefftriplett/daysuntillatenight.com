@@ -66,6 +66,7 @@ fields:
   config:
     labelField: year
 pages:
+- _players/grimes-quentin.md
 - _players/lawson-dedric.md
 - _players/young-clay.md
 - _players/vick-lagerald.md
@@ -79,7 +80,6 @@ pages:
 - _players/luinstra-garrett.md
 - _players/lightfoot-mitch.md
 - _players/lawson-kj.md
-- _players/grimes-quentin.md
 - _players/garrett-marcus.md
 - _players/elliott-elijah.md
 - _players/dotson-devon.md
