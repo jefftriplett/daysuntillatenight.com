@@ -15,10 +15,11 @@ years:
     position: F
     departing_reason: "Declares <a href='https://www.kansascity.com/sports/spt-columns-blogs/sam-mellinger/article229434124.html'>Silvio De Sousa declares for NBA draft but wants to stay at Kansas: 'I have a chance'</a>"
     status: 
-      - departing
+      - active
   - year: 2019
     class: Junior
     number: 22
     position: F
-    status: unknown
+    status:
+      - active
 ---
