@@ -1,8 +1,9 @@
 ---
 first_name: Devon
 last_name: Dotson
-image: "https://kuathletics.com/images/2018/6/27/Dotson_Devon_06252018.jpg?width=182&height=250&mode=crop&anchor=topcenter"
+image: "https://kuathletics.com/wp-content/uploads/2018/06/Dotson_Devon_06252018-1024x853.jpg"
 hometown: Charlotte, NC
+number: 1
 years:
   - year: 2018
     class: Freshman
@@ -12,8 +13,7 @@ years:
       - active
   - year: 2019
     class: Sophomore
-    number: 11
+    number: 1
     position: G
-    status:
-      - active
+    status: active
 ---

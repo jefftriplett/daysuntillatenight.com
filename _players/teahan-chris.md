@@ -1,8 +1,9 @@
 ---
 first_name: Chris
 last_name: Teahan
-image: "https://kuathletics.com//images/2018/6/27/Teahan_Chris_06252018.jpg?width=182&height=250&mode=crop&anchor=topcenter"
+image: https://kuathletics.com/wp-content/uploads/2017/09/Teahan_Chris-745x1024.jpg
 hometown: Leawood, KS
+number: 12
 years:
   - year: 2017
     class: Freshman

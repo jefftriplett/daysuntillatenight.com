@@ -1,8 +1,9 @@
 ---
 first_name: Udoka
 last_name: Azubuike
-image: "https://kuathletics.com/images/2018/6/27/Azubuike_Udoka_06252018.jpg?width=182&height=250&mode=crop&anchor=topcenter"
+image: https://kuathletics.com/wp-content/uploads/2017/09/Azubuike_Udoka-745x1024.jpg
 hometown: Delta, Nigeria
+number: 35
 years:
   - year: 2016
     class: Freshman
@@ -20,12 +21,10 @@ years:
     number: 35
     position: C
     departing_reason: Projected <a href="https://www.nbadraft.net/2019mock_draft">52nd pick</a> in the NBA draft
-    status: 
-      - active
+    status: active
   - year: 2019
     class: Senior
     number: 35
     position: C
-    status: 
-      - active
+    status: active
 ---

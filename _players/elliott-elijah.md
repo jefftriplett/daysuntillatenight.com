@@ -1,17 +1,18 @@
 ---
 first_name: Elijah
 last_name: Elliott
-image: "https://kuathletics.com/images/2018/6/27/Elliott_Elijah_06252018.jpg?width=182&height=250&mode=crop&anchor=topcenter"
+image: "https://kuathletics.com/wp-content/uploads/2018/06/Elliott_Elijah_06252018-1024x853.jpg"
 hometown: Southlake, TX
+number: 5
 years:
   - year: 2018
     class: Freshman
-    position: F
+    position: G
     number: 10
     status: active
   - year: 2019
-    class: Sophomore
-    position: F
-    number: 10
+    class: RS-Freshman
+    position: G
+    number: 5
     status: active
 ---

@@ -1,8 +1,9 @@
 ---
 first_name: Silvio
 last_name: De Sousa
-image: "https://kuathletics.com/images/2018/6/27/De_Sousa_Silvio_06252018.jpg?width=182&height=250&mode=crop&anchor=topcenter"
+image: https://kuathletics.com//wp-content/uploads/2017/12/De_Sousa_Silvio-768x1024.jpg
 hometown: Luanda, Angola
+number: 22
 years:
   - year: 2017
     class: Freshman
@@ -14,12 +15,10 @@ years:
     number: 22
     position: F
     departing_reason: "Declares <a href='https://www.kansascity.com/sports/spt-columns-blogs/sam-mellinger/article229434124.html'>Silvio De Sousa declares for NBA draft but wants to stay at Kansas: 'I have a chance'</a>"
-    status: 
-      - active
+    status: active
   - year: 2019
     class: Junior
     number: 22
     position: F
-    status:
-      - active
+    status: active
 ---

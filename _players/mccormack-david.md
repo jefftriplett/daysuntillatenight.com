@@ -1,8 +1,9 @@
 ---
 first_name: David
 last_name: McCormack
-image: "https://kuathletics.com/images/2018/6/27/McCormack_David_06252018.jpg?width=182&height=250&mode=crop&anchor=topcenter"
+image: https://kuathletics.com/wp-content/uploads/2018/06/McCormack_David_06252018-1024x853.jpg
 hometown: Norfolk, VA
+number: 33
 years:
   - year: 2018
     class: Freshman
