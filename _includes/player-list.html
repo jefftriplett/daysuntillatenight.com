@@ -1,4 +1,4 @@
-{% assign players = site.players | sort: "last_name", "first" %}
+{% assign players = site.players | sort: "number", "first" %}
 
 <table id="players">
     <tbody>
@@ -11,8 +11,9 @@
                         <img class="lazy" src="/images/blank.gif" width="150" height="200" data-src="{{ player.image }}">
                     </td>
                     <td class="player">
-                        <span class="player-name">{{ player.first_name }} {{ player.last_name }}
-                            {% if current_season.number %}<small>#{{ current_season.number }}</small>{% endif %}
+                        <span class="player-name">
+                            {% if current_season.number %}#{{ current_season.number }}{% endif %}
+                            {{ player.first_name }} {{ player.last_name }}
                         </span>
                         <span class="status">{{ current_season.class }}</span>
                         <span class="status">{{ player.hometown }}</span>
