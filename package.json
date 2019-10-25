@@ -1,0 +1,23 @@
+{
+  "name": "daysuntillatenight.com-git",
+  "version": "0.1.0",
+  "description": "# Development",
+  "main": "index.js",
+  "dependencies": {
+    "dayjs": "^1.8.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefftriplett/daysuntillatenight.com.git"
+  },
+  "author": "Jeff Triplett <jeff.triplett@gmail.com> (https://jefftriplett.com)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/jefftriplett/daysuntillatenight.com/issues"
+  },
+  "homepage": "https://github.com/jefftriplett/daysuntillatenight.com#readme"
+}
