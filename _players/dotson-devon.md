@@ -20,4 +20,9 @@ years:
     number: 1
     position: G
     status: departing
+  - year: 2021
+    class: Senior
+    number: 1
+    position: G
+    status: departing
 ---

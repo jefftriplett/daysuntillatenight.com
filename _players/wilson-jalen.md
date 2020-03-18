@@ -15,4 +15,19 @@ years:
     position: F
     number: 10
     status: active
+  - year: 2021
+    class: Sophomore
+    position: F
+    number: 10
+    status: active
+  - year: 2022
+    class: Junior
+    position: F
+    number: 10
+    status: active
+  - year: 2023
+    class: Senior
+    position: F
+    number: 10
+    status: active
 ---

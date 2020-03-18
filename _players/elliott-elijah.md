@@ -11,7 +11,22 @@ years:
     number: 5
     status: redshirt
   - year: 2020
+    class: Freshman
+    position: G
+    number: 5
+    status: active
+  - year: 2021
     class: Sophomore
+    position: G
+    number: 5
+    status: active
+  - year: 2022
+    class: Junior
+    position: G
+    number: 5
+    status: active
+  - year: 2023
+    class: Senior
     position: G
     number: 5
     status: active

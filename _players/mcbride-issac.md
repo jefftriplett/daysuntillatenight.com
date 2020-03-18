@@ -9,4 +9,19 @@ years:
     position: G
     number: tbd
     status: false
+  - year: 2020
+    class: Sophomore
+    position: G
+    number: tbd
+    status: false
+  - year: 2021
+    class: Junior
+    position: G
+    number: tbd
+    status: false
+  - year: 2022
+    class: Senior
+    position: G
+    number: tbd
+    status: false
 ---

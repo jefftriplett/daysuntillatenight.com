@@ -10,4 +10,9 @@ years:
     number: 99
     position: F
     status: active
+  - year: 2021
+    class: Senior
+    number: 99
+    position: F
+    status: active
 ---

@@ -15,4 +15,14 @@ years:
     number: 20
     position: G
     status: false
+  - year: 2020
+    class: Junior
+    number: 20
+    position: G
+    status: false
+  - year: 2021
+    class: Senior
+    number: 20
+    position: G
+    status: false
 ---

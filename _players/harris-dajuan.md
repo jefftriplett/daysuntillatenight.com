@@ -15,4 +15,14 @@ years:
     position: G
     number: 3
     status: active
+  - year: 2021
+    class: Junior
+    position: G
+    number: 3
+    status: active
+  - year: 2022
+    class: Senior
+    position: G
+    number: 3
+    status: active
 ---

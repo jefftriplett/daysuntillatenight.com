@@ -15,4 +15,14 @@ years:
   number: 13
   position: Forward
   status: active
+- year: 2021
+  class: Junior
+  number: 13
+  position: Forward
+  status: active
+- year: 2022
+  class: Senior
+  number: 13
+  position: Forward
+  status: active
 ---

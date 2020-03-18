@@ -15,4 +15,14 @@ years:
   number: 20
   position: Guard
   status: active
+- year: 2021
+  class: Junior
+  number: 20
+  position: Guard
+  status: active
+- year: 2022
+  class: Senior
+  number: 20
+  position: Guard
+  status: active
 ---
