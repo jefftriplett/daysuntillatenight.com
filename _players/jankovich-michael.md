@@ -10,4 +10,9 @@ years:
   number: 20
   position: Guard
   status: active
+- year: 2020
+  class: Sophomore
+  number: 20
+  position: Guard
+  status: active
 ---

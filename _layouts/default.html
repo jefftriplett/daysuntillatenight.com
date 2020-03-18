@@ -12,23 +12,29 @@
         <meta name="description" content="Countdown the days until KU Jayhawk Basketball's Late Night in the Phog">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400,800">
+        <link rel="preload" as="style" href="/css/tailwind.css">
         <link rel="preload" as="style" href="/css/latenight.css">
+        <!--
+        -->
         <link rel="preload" as="script" href="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
         <link rel="preload" as="script" href="/js/plugins.js">
         <link rel="preload" as="script" href="/js/main.js">
         <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400,800">
+        <link rel="stylesheet" href="/css/tailwind.css">
         <link rel="stylesheet" href="/css/latenight.css">
-        <link type="text/plain" rel="author" href="http://daysuntillatenight.com/humans.txt" />
+        <!--
+        -->
+        <link type="text/plain" rel="author" href="/humans.txt" />
     </head>
-    <body>
+    <body class="border-2">
         <!--[if lt IE 7]>
         You will have a better experience using this site if you use Firefox or Chrome.
         <![endif]-->
-        <div id="container">
+        <div id="container" class="container mx-auto border-2">
             <div id="gradient">
-                <h1><span id="heading-days"></span> Days Until Late Night</h1>
+                <h1 class="text-5xl"><span id="heading-days"></span> Days Until Late Night</h1>
 
-                <div id="date" class="when">
+                <div id="date" class="when text-4xl">
                     {{ page.when | default:"TBD" }}
                 </div>
                 <div id="countdown">
@@ -38,11 +44,11 @@
                     </div>
                 </div>
             </div>
-            <div id="roster">
+            <div id="roster" class="border-2">
 {{ content }}
             </div>
         </div>
-        <div id="copyright">
+        <div id="copyright" class="container mx-auto">
             Maintained/updated by <a href="https://twitter.com/webology">Jeff Triplett</a><br>
             Originally created by <a href="https://twitter.com/johnkary">John Kary</a><br>
             <a href="https://github.com/jefftriplett/daysuntillatenight.com">Source available on GitHub</a><br>

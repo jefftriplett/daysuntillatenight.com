@@ -9,5 +9,10 @@ years:
     class: Freshman
     position: F
     number: 10
+    status: redshirt
+  - year: 2020
+    class: Freshman
+    position: F
+    number: 10
     status: active
 ---

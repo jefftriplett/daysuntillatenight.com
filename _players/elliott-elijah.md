@@ -5,13 +5,13 @@ image: "https://kuathletics.com/wp-content/uploads/2018/06/Elliott_Elijah_062520
 hometown: Southlake, TX
 number: 5
 years:
-  - year: 2018
+  - year: 2019
     class: Freshman
     position: G
-    number: 10
-    status: active
-  - year: 2019
-    class: RS-Freshman
+    number: 5
+    status: redshirt
+  - year: 2020
+    class: Sophomore
     position: G
     number: 5
     status: active

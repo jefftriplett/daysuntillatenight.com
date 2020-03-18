@@ -15,4 +15,9 @@ years:
     number: 33
     position: F
     status: active
+  - year: 2020
+    class: Sophomore
+    number: 33
+    position: F
+    status: active
 ---

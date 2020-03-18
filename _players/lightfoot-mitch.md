@@ -18,11 +18,16 @@ years:
   - year: 2018
     class: Junior
     number: 44
-    position: F
+    position: C
     status: active
   - year: 2019
     class: Senior
     number: 44
-    position: F
+    position: C
+    status: redshirt
+  - year: 2020
+    class: Senior
+    number: 44
+    position: C
     status: active
 ---

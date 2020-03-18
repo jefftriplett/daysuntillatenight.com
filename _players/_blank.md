@@ -1,15 +1,28 @@
 ---
 first_name: FirstName
-first_name: LastName
+last_name: LastName
+hometown: ""
 image: "/images/blank.gif"
-number: 0
+number: 99
 years:
-  - year: 2019
-    class: Freshman
   - year: 2020
-    class: Sophomore
+    class: Freshman
+    number: 99
+    position: F
+    status: active
   - year: 2021
-    class: Junior
+    class: Sophomore
+    number: 99
+    position: F
+    status: active
   - year: 2022
+    class: Junior
+    number: 99
+    position: F
+    status: active
+  - year: 2023
     class: Senior
+    number: 99
+    position: F
+    status: active
 ---

@@ -9,11 +9,15 @@ years:
     class: Freshman
     number: 11
     position: G
-    status: 
-      - active
+    status: active
   - year: 2019
     class: Sophomore
     number: 1
     position: G
     status: active
+  - year: 2020
+    class: Junior
+    number: 1
+    position: G
+    status: departing
 ---

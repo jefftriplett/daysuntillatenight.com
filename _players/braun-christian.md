@@ -10,4 +10,9 @@ years:
     position: G
     number: 2
     status: active
+  - year: 2020
+    class: Sophomore
+    position: G
+    number: 2
+    status: active
 ---

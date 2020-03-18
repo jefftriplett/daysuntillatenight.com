@@ -21,4 +21,9 @@ years:
     number: 22
     position: F
     status: active
+  - year: 2020
+    class: Senior
+    number: 22
+    position: F
+    status: active
 ---

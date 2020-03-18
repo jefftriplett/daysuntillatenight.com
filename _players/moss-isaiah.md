@@ -10,4 +10,9 @@ years:
     position: G
     number: 4
     status: active
+  - year: 2020
+    class: Senior
+    position: G
+    number: 4
+    status: departing
 ---

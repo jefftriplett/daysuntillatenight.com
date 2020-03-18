@@ -20,4 +20,9 @@ years:
     number: 0
     position: G
     status: active
+  - year: 2020
+    class: Senior
+    number: 0
+    position: G
+    status: active
 ---

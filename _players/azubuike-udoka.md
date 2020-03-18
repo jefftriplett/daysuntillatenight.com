@@ -27,4 +27,9 @@ years:
     number: 35
     position: C
     status: active
+  - year: 2020
+    class: Senior
+    number: 35
+    position: C
+    status: departing
 ---

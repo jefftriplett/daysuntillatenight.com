@@ -10,4 +10,9 @@ years:
   number: 13
   position: Forward
   status: active
+- year: 2020
+  class: Sophomore
+  number: 13
+  position: Forward
+  status: active
 ---
