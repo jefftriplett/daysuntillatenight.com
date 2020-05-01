@@ -14,5 +14,10 @@ years:
     class: Sophomore
     number: 1
     position: G
+    status: active
+  - year: 2020
+    class: Sophomore
+    number: 1
+    position: G
     status: departing
 ---

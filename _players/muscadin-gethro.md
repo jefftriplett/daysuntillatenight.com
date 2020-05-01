@@ -2,7 +2,7 @@
 first_name: Gethro
 last_name: Muscadin
 hometown: "Haiti"
-image: "/images/blank.gif"
+image: "/images/players/muscadin-gethro.jpg"
 number: 99
 years:
   - year: 2020

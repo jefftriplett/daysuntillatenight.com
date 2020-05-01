@@ -2,7 +2,7 @@
 first_name: Latrell
 last_name: Jossell
 hometown: "Dallas, TX"
-image: "/images/blank.gif"
+image: "/images/players/jossell-latrell.jpg"
 number: 99
 years:
   - year: 2020

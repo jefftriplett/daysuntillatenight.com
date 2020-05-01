@@ -2,7 +2,7 @@
 first_name: Bryce 
 last_name: Thompson
 hometown: "Tulsa, OK"
-image: "/images/blank.gif"
+image: "/images/players/thompson-bryce.jpg"
 number: 99
 years:
   - year: 2020
