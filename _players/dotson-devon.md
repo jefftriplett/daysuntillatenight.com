@@ -14,15 +14,5 @@ years:
     class: Sophomore
     number: 1
     position: G
-    status: active
-  - year: 2020
-    class: Junior
-    number: 1
-    position: G
-    status: active
-  - year: 2021
-    class: Senior
-    number: 1
-    position: G
     status: departing
 ---
