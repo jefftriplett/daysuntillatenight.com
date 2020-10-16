@@ -27,5 +27,5 @@ years:
     position: F
     status: departing
     departing_reason: |
-        Leaves citing <a href="http://www2.kusports.com/news/2020/oct/16/senior-forward-silvio-de-sousa-leaving-kansas-bask/">personal issues."</a>
+        Leaves citing <a href="http://www2.kusports.com/news/2020/oct/16/senior-forward-silvio-de-sousa-leaving-kansas-bask/">"personal issues"</a>
 ---
