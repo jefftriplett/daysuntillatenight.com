@@ -25,5 +25,7 @@ years:
     class: Senior
     number: 22
     position: F
-    status: active
+    status: departing
+    departing_reason: |
+        Leaves citing <a href="http://www2.kusports.com/news/2020/oct/16/senior-forward-silvio-de-sousa-leaving-kansas-bask/">personal issues."</a>
 ---
