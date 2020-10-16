@@ -13,5 +13,5 @@ The site may be served using any local webserver. The default serve script uses 
 
 # Deployment
 
-This website is hosted from GitHub Pages and linked to the `master`
+This website is hosted from GitHub Pages and linked to the `main`
 branch. Any new commits will be available on the site.
