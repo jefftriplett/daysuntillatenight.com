@@ -13,6 +13,8 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+    TailwindCSS
+    Jekyll
     Normalize.css
     Grunt
     GitHug Pages for hosting
