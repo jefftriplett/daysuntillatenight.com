@@ -11,22 +11,22 @@ years:
     number: 10
     status: redshirt
   - year: 2020
-    class: Freshman
+    class: RS Freshman
     position: F
     number: 10
     status: active
   - year: 2021
-    class: Sophomore
+    class: RS Sophomore
     position: F
     number: 10
     status: active
   - year: 2022
-    class: Junior
+    class: RS Junior
     position: F
     number: 10
     status: active
   - year: 2023
-    class: Senior
+    class: RS Senior
     position: F
     number: 10
     status: active

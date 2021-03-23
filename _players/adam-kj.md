@@ -1,7 +1,7 @@
 ---
 first_name: KJ
 last_name: Adams
-image: 
+image: "/images/players/adams-kj.jpg"
 hometown: Austin, TX
 number: 99
 years:

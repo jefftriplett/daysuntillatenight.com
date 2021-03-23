@@ -1,7 +1,7 @@
 ---
 first_name: Zach
 last_name: Clemence
-image: 
+image: "/images/players/clemence-zach.jpg"
 hometown: San Antonio, TX
 number: 99
 years:

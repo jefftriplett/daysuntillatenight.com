@@ -26,12 +26,12 @@ years:
     position: C
     status: redshirt
   - year: 2020
-    class: Senior
+    class: RS Senior
     number: 44
     position: C
     status: active
   - year: 2021
-    class: Senior (Fifth Year)
+    class: RS Senior (Fifth Year)
     number: 44
     position: C
     status: active

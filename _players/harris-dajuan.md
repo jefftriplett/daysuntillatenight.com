@@ -11,17 +11,17 @@ years:
     number: 3
     status: redshirt
   - year: 2020
-    class: Sophomore
+    class: RS Sophomore
     position: G
     number: 3
     status: active
   - year: 2021
-    class: Junior
+    class: RS Junior
     position: G
     number: 3
     status: active
   - year: 2022
-    class: Senior
+    class: RS Senior
     position: G
     number: 3
     status: active

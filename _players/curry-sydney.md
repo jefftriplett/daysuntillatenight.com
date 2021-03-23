@@ -1,7 +1,7 @@
 ---
 first_name: Sydney
 last_name: Curry
-image: 
+image: "/images/players/curry-sydney.jpg"
 hometown: Fort Wayne, IN
 number: 99
 years:

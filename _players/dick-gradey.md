@@ -1,7 +1,7 @@
 ---
 first_name: Gradey
 last_name: Dick
-image: 
+image: "/images/blank.gif"
 hometown: Wichita, KS
 number: 99
 years:
