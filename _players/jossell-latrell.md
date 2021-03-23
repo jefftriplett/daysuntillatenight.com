@@ -2,7 +2,7 @@
 first_name: Latrell
 last_name: Jossell
 hometown: "Dallas, TX"
-image: "/images/players/jossell-latrell.jpg"
+image: "https://kuathletics.com/wp-content/uploads/2020/09/Jossell_Latrell_09082020-600x500.jpg"
 number: 4
 years:
   - year: 2020

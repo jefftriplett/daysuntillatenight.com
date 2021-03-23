@@ -2,7 +2,7 @@
 first_name: Tyon
 last_name: Grant-Foster
 hometown: "Kansas City, KS"
-image: "/images/players/grant-foster-tyon.png"
+image: "https://kuathletics.com/wp-content/uploads/2020/09/Grant-Foster_Tyon_09082020-600x500.jpg"
 number: 1
 years:
   - year: 2020

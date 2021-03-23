@@ -1,7 +1,7 @@
 ---
 first_name: Marcus
 last_name: Garrett
-image: "https://kuathletics.com/wp-content/uploads/2017/06/Garrett_Marcus_06232017-745x1024.jpg"
+image: "https://kuathletics.com/wp-content/uploads/2020/09/Garrett_Marcus_09082020-600x500.jpg"
 hometown: Dallas, TX
 number: 0
 years:

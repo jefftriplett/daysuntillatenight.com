@@ -2,7 +2,7 @@
 first_name: Gethro
 last_name: Muscadin
 hometown: "Haiti"
-image: "/images/players/muscadin-gethro.jpg"
+image: "https://kuathletics.com/wp-content//uploads/2020/09/Muscadin_Gethro_09082020-600x500.jpg"
 number: 35
 years:
   - year: 2020

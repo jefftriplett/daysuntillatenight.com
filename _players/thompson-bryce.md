@@ -2,7 +2,7 @@
 first_name: Bryce 
 last_name: Thompson
 hometown: "Tulsa, OK"
-image: "/images/players/thompson-bryce.jpg"
+image: "https://kuathletics.com/wp-content/uploads/2020/09/Thompson_Bryce_09082020-600x500.jpg"
 number: 24
 years:
   - year: 2020

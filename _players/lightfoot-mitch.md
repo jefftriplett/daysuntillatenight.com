@@ -1,7 +1,7 @@
 ---
 first_name: Mitch
 last_name: Lightfoot
-image: https://kuathletics.com//wp-content/uploads/2017/09/Lightfoot_Mitch-745x1024.jpg
+image: https://kuathletics.com/wp-content/uploads/2020/09/Lightfoot_Mitch_09082020-600x500.jpg
 hometown: Gilbert, AZ
 number: 44
 years:
