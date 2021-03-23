@@ -25,4 +25,9 @@ years:
     number: 0
     position: G
     status: active
+  - year: 2021
+    class: Senior
+    number: 0
+    position: G
+    status: departing
 ---
