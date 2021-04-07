@@ -14,15 +14,6 @@ years:
     class: Sophomore
     number: 35
     position: F
-    status: active
-  - year: 2022
-    class: Junior
-    number: 35
-    position: F
-    status: active
-  - year: 2023
-    class: Senior
-    number: 35
-    position: F
-    status: active
+    status: departing
+    departing_reason: Entered the transfer portal.
 ---

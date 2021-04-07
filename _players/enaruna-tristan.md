@@ -5,24 +5,20 @@ image: https://kuathletics.com/wp-content/uploads/2019/07/Enurana_Tristen_061320
 hometown: Almere, Flevoland, Netherlands
 number: 13
 years:
-- year: 2019
-  class: Freshman
-  number: 13
-  position: Forward
-  status: active
-- year: 2020
-  class: Sophomore
-  number: 13
-  position: Forward
-  status: active
-- year: 2021
-  class: Junior
-  number: 13
-  position: Forward
-  status: active
-- year: 2022
-  class: Senior
-  number: 13
-  position: Forward
-  status: active
+  - year: 2019
+    class: Freshman
+    number: 13
+    position: Forward
+    status: active
+  - year: 2020
+    class: Sophomore
+    number: 13
+    position: Forward
+    status: active
+  - year: 2021
+    class: Junior
+    number: 13
+    position: Forward
+    status: departing
+    departing_reason: Entered the transfer portal.
 ---
