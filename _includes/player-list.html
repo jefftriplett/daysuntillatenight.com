@@ -1,4 +1,4 @@
-{% assign players = site.players | sort: "number", "first" %}
+{% assign players = site.players | sort_natural: "last_name" %}
 
 <table id="players">
     <tbody>
