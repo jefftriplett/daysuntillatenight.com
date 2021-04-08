@@ -1,0 +1,14 @@
+---
+class: Freshman
+departing_reason: ''
+first_name: Gethro
+hometown: Haiti
+image: https://kuathletics.com/wp-content//uploads/2020/09/Muscadin_Gethro_09082020-600x500.jpg
+last_name: Muscadin
+notes: ''
+number: 35
+position: F
+projected: ''
+status: active
+year: 2020
+---

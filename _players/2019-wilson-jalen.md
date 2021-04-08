@@ -1,0 +1,14 @@
+---
+class: Freshman
+departing_reason: ''
+first_name: Jalen
+hometown: Denton, TX
+image: https://kuathletics.com/wp-content/uploads/2019/07/Wilson_Jalen_07182019-1024x853.jpg
+last_name: Wilson
+notes: ''
+number: 10
+position: F
+projected: ''
+status: redshirt
+year: 2019
+---

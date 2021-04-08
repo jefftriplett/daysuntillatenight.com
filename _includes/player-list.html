@@ -3,24 +3,23 @@
 <table id="players">
     <tbody>
         {% for player in players %}
-            {% assign current_season = player.years | where: "year", include.current_year | first %}
-            {% if current_season %}
-                {% if current_season.status contains include.status %}
-                <tr>
+            {% if player.year == include.current_year AND player.status == include.status %}
+                {% if player.status contains include.status %}
+                  <tr>
                     <td>
                         <img class="lazy" src="/images/blank.gif" width="150" height="200" data-src="{{ player.image }}">
                     </td>
                     <td class="player">
                         <span class="player-name">
-                            {% if current_season.number %}#{{ current_season.number }}{% endif %}
+                            {% if player.number %}#{{ player.number }}{% endif %}
                             {{ player.first_name }} {{ player.last_name }}
                         </span>
-                        <span class="status">{{ current_season.class }}</span>
+                        <span class="status">{{ player.class }}</span>
                         <span class="status">{{ player.hometown }}</span>
                         {% if include.status == "active" %}
-                            <span class="status">{{ current_season.status_reason }}</span>
+                            <span class="status">{{ player.status_reason }}</span>
                         {% else %}
-                            <span class="status">{{ current_season.departing_reason }}</span>
+                            <span class="status">{{ player.departing_reason }}</span>
                         {% endif %}
                     </td>
                 </tr>

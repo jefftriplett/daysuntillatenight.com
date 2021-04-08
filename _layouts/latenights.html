@@ -7,12 +7,17 @@ layout: default
 
 {% include player-list.html current_year=page.current_year status="active" %}
 
-<!-- leaving / declaring players -->
+<!-- redshirt players -->
 <h2 class="text-4xl" id="heading-roster">Redshirt</h2>
 
 {% include player-list.html current_year=page.current_year status="redshirt" %}
 
 <!-- leaving / declaring players -->
+<h2 class="text-4xl" id="heading-roster">Declaring for the NBA Draft</h2>
+
+{% include player-list.html current_year=page.current_year status="declaring" %}
+
+<!-- leaving / transferring players -->
 <h2 class="text-4xl" id="heading-roster">Departing</h2>
 
 {% include player-list.html current_year=page.current_year status="departing" %}
