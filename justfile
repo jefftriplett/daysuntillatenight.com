@@ -3,6 +3,9 @@ TAILWIND_CSS_VERSION := "2.1.1"
 @_default:
     just --list
 
+@build:
+    bundle exec jekyll build
+
 @lint:
 	-black --check .
 	-curlylint _includes/ _layouts/
@@ -24,3 +27,9 @@ TAILWIND_CSS_VERSION := "2.1.1"
 		./src/styles.css \
 		--config ./tailwind.config.js \
 		--output ./css/development.css
+
+@update +YEAR="2021":
+    python main.py sync --sheet-name={{YEAR}}
+
+@update-all-sheets:
+    python main.py sync --all-sheets
