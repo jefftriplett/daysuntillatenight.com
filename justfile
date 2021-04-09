@@ -11,7 +11,7 @@ TAILWIND_CSS_VERSION := "2.1.1"
     pip-compile
 
 @serve:
-	bundle exec jekyll serve --drafts --watch --port 8000
+    modd --file=modd.conf
 
 @static:
 	JEKYLL_ENV=production \
