@@ -14,9 +14,11 @@ indent_style = space
 
 [*.py]
 line_length=120
+known_first_party=app
 multi_line_output=3
+default_section=THIRDPARTY
 
-[*.{conf,css,html,js,json,sass,scss,yml,yaml}]
+[*.{css,html,js,json,sass,scss,yml,yaml}]
 indent_size = 2
 indent_style = space
 
@@ -29,5 +31,5 @@ trim_trailing_whitespace = false
 indent_size = 4
 indent_style = space
 
-[Makefile]
+[{Makefile,modd.conf}]
 indent_style = tab
