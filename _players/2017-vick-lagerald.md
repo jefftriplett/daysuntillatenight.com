@@ -9,6 +9,7 @@ notes: ''
 number: 2
 position: G
 projected: ''
+slug: 2017-vick-lagerald
 status: active
 year: 2017
 ---

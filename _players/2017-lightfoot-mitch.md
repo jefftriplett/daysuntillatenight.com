@@ -9,6 +9,7 @@ notes: ''
 number: 44
 position: F
 projected: ''
+slug: 2017-lightfoot-mitch
 status: active
 year: 2017
 ---

@@ -6,9 +6,10 @@ hometown: ''
 image: /images/blank.gif
 last_name: Martin
 notes: ''
-number: ''
+number: null
 position: F
 projected: ''
+slug: 2021-martin-cam
 status: active
 year: 2021
 ---

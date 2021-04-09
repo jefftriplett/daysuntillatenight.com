@@ -9,6 +9,7 @@ notes: ''
 number: 20
 position: G
 projected: ''
+slug: 2018-luinstra-garrett
 status: active
 year: 2018
 ---

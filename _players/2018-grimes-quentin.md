@@ -9,6 +9,7 @@ notes: ''
 number: 5
 position: G
 projected: ''
+slug: 2018-grimes-quentin
 status: departing
 year: 2018
 ---

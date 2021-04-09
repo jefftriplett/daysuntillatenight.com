@@ -10,6 +10,7 @@ notes: ''
 number: 24
 position: G
 projected: ''
+slug: 2018-vick-lagerald
 status: departing
 year: 2018
 ---

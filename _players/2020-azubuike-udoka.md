@@ -9,6 +9,7 @@ notes: ''
 number: 35
 position: C
 projected: ''
+slug: 2020-azubuike-udoka
 status: declaring
 year: 2020
 ---

@@ -9,6 +9,7 @@ notes: ''
 number: 44
 position: C
 projected: ''
+slug: 2019-lightfoot-mitch
 status: redshirt
 year: 2019
 ---

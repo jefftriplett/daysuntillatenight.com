@@ -10,6 +10,7 @@ notes: <a href="http://www.kuathletics.com/news/2016/7/1/mens-basketball-malik-n
 number: 14
 position: G
 projected: ''
+slug: 2016-newman-malik
 status: redshirt
 year: 2016
 ---

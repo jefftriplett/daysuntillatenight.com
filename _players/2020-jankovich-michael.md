@@ -9,6 +9,7 @@ notes: ''
 number: 20
 position: G
 projected: ''
+slug: 2020-jankovich-michael
 status: active
 year: 2020
 ---

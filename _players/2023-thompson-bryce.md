@@ -9,6 +9,7 @@ notes: ''
 number: 24
 position: G
 projected: ''
+slug: 2023-thompson-bryce
 status: active
 year: 2023
 ---

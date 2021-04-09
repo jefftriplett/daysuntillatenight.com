@@ -1,5 +1,5 @@
 ---
-class: Sophomore
+class: Junior
 departing_reason: ''
 first_name: Sam
 hometown: Seattle, WA
@@ -10,7 +10,7 @@ notes: <a href="http://www.kansascity.com/sports/college/big-12/university-of-ka
 number: 3
 position: G
 projected: ''
-slug: 2017-cunliffe-sam
-status: active
-year: 2017
+slug: 2018-cunliffe-sam
+status: departing
+year: 2018
 ---

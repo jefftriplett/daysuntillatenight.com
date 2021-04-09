@@ -9,6 +9,7 @@ notes: ''
 number: 5
 position: G
 projected: ''
+slug: 2023-elliott-elijah
 status: active
 year: 2023
 ---

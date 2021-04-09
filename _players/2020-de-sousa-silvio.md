@@ -10,6 +10,7 @@ notes: ''
 number: 22
 position: F
 projected: ''
+slug: 2020-de-sousa-silvio
 status: departing
 year: 2020
 ---

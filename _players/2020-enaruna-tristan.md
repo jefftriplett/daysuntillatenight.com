@@ -9,6 +9,7 @@ notes: ''
 number: 13
 position: F
 projected: ''
+slug: 2020-enaruna-tristan
 status: active
 year: 2020
 ---

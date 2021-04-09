@@ -9,6 +9,7 @@ notes: ''
 number: 20
 position: G
 projected: ''
+slug: 2020-luinstra-garrett
 status: departing
 year: 2020
 ---

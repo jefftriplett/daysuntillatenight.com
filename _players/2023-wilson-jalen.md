@@ -9,6 +9,7 @@ notes: ''
 number: 10
 position: F
 projected: ''
+slug: 2023-wilson-jalen
 status: active
 year: 2023
 ---

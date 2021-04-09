@@ -9,6 +9,7 @@ notes: ''
 number: 5
 position: G
 projected: ''
+slug: 2019-elliott-elijah
 status: redshirt
 year: 2019
 ---

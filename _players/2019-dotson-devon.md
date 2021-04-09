@@ -9,6 +9,7 @@ notes: ''
 number: 1
 position: G
 projected: ''
+slug: 2019-dotson-devon
 status: active
 year: 2019
 ---

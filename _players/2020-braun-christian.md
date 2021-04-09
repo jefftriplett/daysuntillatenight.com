@@ -9,6 +9,7 @@ notes: ''
 number: 2
 position: G
 projected: ''
+slug: 2020-braun-christian
 status: active
 year: 2020
 ---

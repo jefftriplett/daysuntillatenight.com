@@ -9,6 +9,7 @@ notes: ''
 number: 10
 position: F
 projected: ''
+slug: 2019-wilson-jalen
 status: redshirt
 year: 2019
 ---

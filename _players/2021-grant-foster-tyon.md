@@ -9,6 +9,7 @@ notes: ''
 number: 1
 position: F
 projected: ''
+slug: 2021-grant-foster-tyon
 status: departing
 year: 2021
 ---

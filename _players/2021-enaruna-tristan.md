@@ -9,6 +9,7 @@ notes: ''
 number: 13
 position: F
 projected: ''
+slug: 2021-enaruna-tristan
 status: departing
 year: 2021
 ---

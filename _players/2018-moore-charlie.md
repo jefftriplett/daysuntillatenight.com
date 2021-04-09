@@ -10,6 +10,7 @@ notes: ''
 number: 2
 position: G
 projected: ''
+slug: 2018-moore-charlie
 status: active
 year: 2018
 ---

@@ -9,6 +9,7 @@ notes: ''
 number: 22
 position: F
 projected: ''
+slug: 2019-de-sousa-silvio
 status: active
 year: 2019
 ---

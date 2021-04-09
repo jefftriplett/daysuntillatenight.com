@@ -9,6 +9,7 @@ notes: ''
 number: 33
 position: F
 projected: ''
+slug: 2021-mccormack-david
 status: active
 year: 2021
 ---

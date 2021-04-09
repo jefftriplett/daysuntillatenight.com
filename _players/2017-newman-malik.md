@@ -9,6 +9,7 @@ notes: ''
 number: 14
 position: G
 projected: ''
+slug: 2017-newman-malik
 status: active
 year: 2017
 ---

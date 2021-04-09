@@ -9,6 +9,7 @@ notes: ''
 number: 4
 position: G
 projected: ''
+slug: 2018-mykhailiuk-sviatoslav
 status: declaring
 year: 2018
 ---

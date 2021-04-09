@@ -10,6 +10,7 @@ notes: ''
 number: 35
 position: C
 projected: https://www.nbadraft.net/2019mock_draft
+slug: 2018-azubuike-udoka
 status: active
 year: 2018
 ---

@@ -1,5 +1,5 @@
 ---
-class: Freshman (redshirt)
+class: RS Freshman
 departing_reason: ''
 first_name: Clay
 hometown: Lansing, KS
@@ -9,6 +9,7 @@ notes: ''
 number: 21
 position: G
 projected: ''
+slug: 2014-young-clay
 status: active
 year: 2014
 ---

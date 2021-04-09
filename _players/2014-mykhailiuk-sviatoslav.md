@@ -9,6 +9,7 @@ notes: ''
 number: 4
 position: G
 projected: ''
+slug: 2014-mykhailiuk-sviatoslav
 status: active
 year: 2014
 ---

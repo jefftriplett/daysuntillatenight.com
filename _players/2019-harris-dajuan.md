@@ -9,6 +9,7 @@ notes: ''
 number: 3
 position: G
 projected: ''
+slug: 2019-harris-dajuan
 status: redshirt
 year: 2019
 ---

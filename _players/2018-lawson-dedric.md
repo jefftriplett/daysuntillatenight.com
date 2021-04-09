@@ -10,6 +10,7 @@ notes: Transfer from Memphis
 number: 1
 position: F
 projected: ''
+slug: 2018-lawson-dedric
 status: active
 year: 2018
 ---

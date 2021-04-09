@@ -10,6 +10,7 @@ notes: ''
 number: 2
 position: G
 projected: ''
+slug: 2019-moore-charlie
 status: departing
 year: 2019
 ---

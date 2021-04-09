@@ -9,6 +9,7 @@ notes: ''
 number: 0
 position: G
 projected: ''
+slug: 2021-garrett-marcus
 status: declaring
 year: 2021
 ---

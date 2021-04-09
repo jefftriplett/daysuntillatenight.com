@@ -9,6 +9,7 @@ notes: ''
 number: 0
 position: G
 projected: ''
+slug: 2019-garrett-marcus
 status: active
 year: 2019
 ---

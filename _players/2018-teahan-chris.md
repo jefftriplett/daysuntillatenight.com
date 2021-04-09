@@ -9,6 +9,7 @@ notes: ''
 number: 12
 position: G
 projected: ''
+slug: 2018-teahan-chris
 status: active
 year: 2018
 ---

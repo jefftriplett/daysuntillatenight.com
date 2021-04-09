@@ -9,6 +9,7 @@ notes: ''
 number: 3
 position: G
 projected: ''
+slug: 2022-harris-dajuan
 status: active
 year: 2022
 ---

@@ -9,6 +9,7 @@ notes: ''
 number: 4
 position: G
 projected: ''
+slug: 2019-moss-isaiah
 status: active
 year: 2019
 ---

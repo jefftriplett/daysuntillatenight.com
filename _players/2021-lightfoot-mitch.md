@@ -9,6 +9,7 @@ notes: ''
 number: 44
 position: C
 projected: ''
+slug: 2021-lightfoot-mitch
 status: covid
 year: 2021
 ---

@@ -9,6 +9,7 @@ notes: ''
 number: 1
 position: F
 projected: ''
+slug: 2020-grant-foster-tyon
 status: active
 year: 2020
 ---

@@ -6,9 +6,10 @@ hometown: Austin, TX
 image: /images/players/adams-kj.jpg
 last_name: Adams
 notes: ''
-number: ''
+number: null
 position: PF
 projected: ''
+slug: 2021-adams-kj
 status: active
 year: 2021
 ---

@@ -9,6 +9,7 @@ notes: ''
 number: 4
 position: F
 projected: ''
+slug: 2021-jossell-latrell
 status: active
 year: 2021
 ---

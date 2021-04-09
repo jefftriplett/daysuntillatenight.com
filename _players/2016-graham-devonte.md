@@ -9,6 +9,7 @@ notes: ''
 number: 4
 position: G
 projected: ''
+slug: 2016-graham-devonte
 status: active
 year: 2016
 ---

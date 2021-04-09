@@ -9,6 +9,7 @@ notes: ''
 number: 35
 position: F
 projected: ''
+slug: 2021-muscadin-gethro
 status: departing
 year: 2021
 ---

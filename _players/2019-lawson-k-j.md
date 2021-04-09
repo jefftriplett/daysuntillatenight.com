@@ -10,6 +10,7 @@ notes: <a href="http://www.commercialappeal.com/story/sports/columnists/geoff-ca
 number: 13
 position: G
 projected: ''
+slug: 2019-lawson-k-j
 status: departing
 year: 2019
 ---

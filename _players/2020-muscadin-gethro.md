@@ -9,6 +9,7 @@ notes: ''
 number: 35
 position: F
 projected: ''
+slug: 2020-muscadin-gethro
 status: active
 year: 2020
 ---

@@ -1,6 +1,6 @@
 ---
-class: Freshman
-departing_reason: ''
+class: Sophomore
+departing_reason: Declared for the NBA Draft
 first_name: Billy
 hometown: Los Angeles, CA
 image: /images/players/preston.jpeg
@@ -9,7 +9,7 @@ notes: <br><a href="https://n.rivals.com/content/prospects/1232">Rivals.com
 number: 23
 position: F
 projected: ''
-slug: 2017-preston-billy
-status: active
-year: 2017
+slug: 2018-preston-billy
+status: declaring
+year: 2018
 ---

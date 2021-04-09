@@ -9,6 +9,7 @@ notes: ''
 number: 4
 position: G
 projected: ''
+slug: 2020-moss-isaiah
 status: departing
 year: 2020
 ---

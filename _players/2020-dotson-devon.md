@@ -9,6 +9,7 @@ notes: ''
 number: 1
 position: G
 projected: ''
+slug: 2020-dotson-devon
 status: declaring
 year: 2020
 ---

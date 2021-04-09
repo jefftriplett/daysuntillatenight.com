@@ -6,9 +6,10 @@ hometown: Fort Wayne, IN
 image: /images/players/curry-sydney.jpg
 last_name: Curry
 notes: ''
-number: ''
+number: null
 position: PF
 projected: ''
+slug: 2021-curry-sydney
 status: active
 year: 2021
 ---

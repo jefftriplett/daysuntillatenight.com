@@ -9,6 +9,7 @@ notes: ''
 number: 14
 position: G
 projected: ''
+slug: 2018-newman-malik
 status: departing
 year: 2018
 ---
