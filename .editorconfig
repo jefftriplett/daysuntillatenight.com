@@ -14,9 +14,7 @@ indent_style = space
 
 [*.py]
 line_length=120
-known_first_party=app
 multi_line_output=3
-default_section=THIRDPARTY
 
 [*.{css,html,js,json,sass,scss,yml,yaml}]
 indent_size = 2
