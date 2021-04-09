@@ -1,4 +1,4 @@
-{% assign players = site.players | sort_natural: "last_name" %}
+{% assign players = site.players | sort: "number" %}
 
 <table id="players">
     <tbody>
@@ -11,7 +11,7 @@
                     </td>
                     <td class="player">
                         <span class="player-name">
-                            {% if player.number %}#{{ player.number }}{% endif %}
+                            {% if player.number and player.number != 99 %}{{ player.number }}{% endif %}
                             {{ player.first_name }} {{ player.last_name }}
                         </span>
                         <span class="status">{{ player.class }}</span>
