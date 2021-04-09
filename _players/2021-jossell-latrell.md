@@ -1,6 +1,7 @@
 ---
 class: Sophomore
-departing_reason: ''
+departing_reason: <a href="https://kuathletics.com/latrell-jossell-to-enter-transfer-portal/">Entered
+  the transfer portal.</a>
 first_name: Latrell
 hometown: Dallas, TX
 image: https://kuathletics.com/wp-content/uploads/2020/09/Jossell_Latrell_09082020-600x500.jpg
@@ -10,6 +11,6 @@ number: 4
 position: F
 projected: ''
 slug: 2021-jossell-latrell
-status: active
+status: departing
 year: 2021
 ---
