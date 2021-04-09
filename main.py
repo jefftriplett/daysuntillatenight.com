@@ -3,8 +3,10 @@ import frontmatter
 import typer
 
 from pathlib import Path
+from pydantic import BaseModel, Field, validator
 from sheetfu import SpreadsheetApp, Table
 from slugify import slugify
+from typing import List, Optional
 
 
 # Don't customize these
@@ -21,6 +23,59 @@ EXPECTED_ENV_VARS = [
     "SHEETFU_CONFIG_TOKEN_URI",
     "SHEETFU_CONFIG_TYPE",
 ]
+
+
+class Page(BaseModel):
+    current_year: int
+    layout: Optional[str] = "latenights"
+    permalink: Optional[str] = None
+    season: Optional[str] = None
+    when: Optional[str] = "TBD"
+
+    # def __init__(self, **data):
+    #     super().__init__(**data)
+    #     self.season = f"{self.current_year}-{self.current_year+1}"
+
+
+class Player(BaseModel):
+    year: int
+    last_name: str
+    first_name: str
+    number: Optional[int] = None  # TODO: Fix to integer
+    class_: Optional[str] = Field(None, alias="class")
+    departing_reason: Optional[str] = None
+    hometown: Optional[str] = None
+    image: Optional[str] = "/images/blank.gif"
+    notes: Optional[str] = None
+    position: Optional[str] = None
+    projected: Optional[str] = None
+    slug: Optional[str] = None
+    status: Optional[str] = None
+
+    def __init__(self, **data):
+        super().__init__(**data)
+        self.slug = slugify(
+            " ".join(
+                [
+                    f"{self.year}",
+                    f"{self.last_name}",
+                    f"{self.first_name}",
+                ]
+            )
+        )
+
+    @validator("number", pre=True)
+    def number_is_never_empty(cls, v: Optional[str]) -> Optional[int]:
+        if v == "":
+            return None
+        return v
+
+
+class Year(BaseModel):
+    current_year: int
+    season: str
+    when: Optional[str] = None
+
 
 app = typer.Typer()
 
@@ -123,27 +178,18 @@ def sync(
             value = item.get_field_value(key)
             metadata[key] = value
 
-        slug = slugify(
-            " ".join(
-                [
-                    f"{metadata['year']}",
-                    "-",
-                    f"{metadata['last_name']}" "-",
-                    f"{metadata['first_name']}",
-                ]
-            )
-        )
+        player = Player(**metadata)
 
         if not Path(output_folder).exists():
             Path(output_folder).mkdir()
 
-        player_filename = Path(output_folder, f"{slug}.md")
+        player_filename = Path(output_folder, f"{player.slug}.md")
         if player_filename.exists():
             post = frontmatter.loads(player_filename.read_text())
         else:
             post = frontmatter.loads("")
 
-        post.metadata.update(metadata)
+        post.metadata.update(player.dict(by_alias=True))
 
         player_filename.write_text(frontmatter.dumps(post))
 
