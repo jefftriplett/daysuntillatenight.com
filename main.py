@@ -109,9 +109,7 @@ def main():
     data = []
     for filename in filenames:
         if not str(filename.name).startswith("_"):
-            # print(filename.name)
             post = frontmatter.load(filename)
-            # print(post.metadata)
             years = post.metadata["years"]
             for year in years:
                 data.append(
@@ -139,9 +137,10 @@ def main():
 
 @app.command()
 def sync(
+    all_sheets: bool = False,
     output_folder: str = "_players",
-    sheet_app_id: str = typer.Argument(envvar="GOOGLE_SHEET_APP_ID", default=""),
-    sheet_name: str = typer.Argument(envvar="SHEET_NAME", default="Sheet1"),
+    sheet_app_id: str = typer.Option(envvar="GOOGLE_SHEET_APP_ID", default=""),
+    sheet_name: str = typer.Option(envvar="GOOGLE_SHEET_NAME", default="Sheet1"),
 ):
     typer.secho("sync-players", fg="yellow")
     try:
@@ -159,39 +158,43 @@ def sync(
         )
         raise typer.Exit()
 
-    try:
-        sheet = spreadsheet.get_sheet_by_name(sheet_name)
-    except Exception:
-        typer.echo(
-            f"We can't find that 'sheet_name' aka the tab.\n"
-            f"Please double check that 'SHEET_NAME' is set. (Currently set to: '{sheet_name}')"
-        )
-        raise typer.Exit()
+    if all_sheets:
+        sheets = spreadsheet.get_sheets()
+    else:
+        try:
+            sheets = [spreadsheet.get_sheet_by_name(sheet_name)]
+        except Exception:
+            typer.echo(
+                f"We can't find that 'sheet_name' aka the tab.\n"
+                f"Please double check that 'SHEET_NAME' is set. (Currently set to: '{sheet_name}')"
+            )
+            raise typer.Exit()
 
-    data_range = sheet.get_data_range()
+    for sheet in sheets:
+        data_range = sheet.get_data_range()
 
-    table = Table(data_range, backgrounds=True)
+        table = Table(data_range, backgrounds=True)
 
-    metadata = {}
-    for item in table:
-        for key in item.header:
-            value = item.get_field_value(key)
-            metadata[key] = value
+        metadata = {}
+        for item in table:
+            for key in item.header:
+                value = item.get_field_value(key)
+                metadata[key] = value
 
-        player = Player(**metadata)
+            player = Player(**metadata)
 
-        if not Path(output_folder).exists():
-            Path(output_folder).mkdir()
+            if not Path(output_folder).exists():
+                Path(output_folder).mkdir()
 
-        player_filename = Path(output_folder, f"{player.slug}.md")
-        if player_filename.exists():
-            post = frontmatter.loads(player_filename.read_text())
-        else:
-            post = frontmatter.loads("")
+            player_filename = Path(output_folder, f"{player.slug}.md")
+            if player_filename.exists():
+                post = frontmatter.loads(player_filename.read_text())
+            else:
+                post = frontmatter.loads("")
 
-        post.metadata.update(player.dict(by_alias=True))
+            post.metadata.update(player.dict(by_alias=True))
 
-        player_filename.write_text(frontmatter.dumps(post))
+            player_filename.write_text(frontmatter.dumps(post))
 
 
 if __name__ == "__main__":
