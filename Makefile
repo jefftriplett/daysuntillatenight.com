@@ -1,4 +1,5 @@
-TAILWIND_CSS_VERSION := 1.9.3
+TAILWIND_CSS_VERSION := 2.1.1
+
 
 .PHONY: serve
 serve:
