@@ -7,6 +7,9 @@ TAILWIND_CSS_VERSION := "2.1.1"
 	-black --check .
 	-curlylint _includes/ _layouts/
 
+@pip-compile:
+    pip-compile
+
 @serve:
 	bundle exec jekyll serve --drafts --watch --port 8000
 
