@@ -29,12 +29,17 @@ plugins:
   - jekyll-sitemap
 
 exclude:
+  - "*.py"
   - build
   - CNAME
   - Gemfile*
+  - justfile
   - node_modules
+  - package.json
   - Procfile
   - README.md
+  - requirements.*
+  - tailwind.config.js
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
