@@ -1,5 +1,9 @@
 TAILWIND_CSS_VERSION := 2.1.1
 
+.PHONY: lint
+lint:
+	black --check .
+	curlylint _includes/ _layouts/
 
 .PHONY: serve
 serve:
