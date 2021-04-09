@@ -6,7 +6,7 @@ hometown: ''
 image: /images/blank.gif
 last_name: Pettiford
 notes: ''
-number: null
+number: 99
 position: PG
 projected: ''
 slug: 2023-pettiford-bobby

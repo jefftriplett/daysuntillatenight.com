@@ -6,7 +6,7 @@ hometown: Wichita, KS
 image: /images/blank.gif
 last_name: Dick
 notes: ''
-number: null
+number: 99
 position: SF
 projected: ''
 slug: 2022-dick-gradey

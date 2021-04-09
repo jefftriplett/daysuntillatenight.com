@@ -6,7 +6,7 @@ hometown: Austin, TX
 image: /images/players/adams-kj.jpg
 last_name: Adams
 notes: ''
-number: null
+number: 99
 position: PF
 projected: ''
 slug: 2021-adams-kj

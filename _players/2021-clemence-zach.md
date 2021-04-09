@@ -6,7 +6,7 @@ hometown: San Antonio, TX
 image: /images/players/clemence-zach.jpg
 last_name: Clemence
 notes: ''
-number: null
+number: 99
 position: PF
 projected: ''
 slug: 2021-clemence-zach
