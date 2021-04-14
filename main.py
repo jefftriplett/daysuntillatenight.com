@@ -41,7 +41,7 @@ class Player(BaseModel):
     year: int
     last_name: str
     first_name: str
-    number: Optional[int] = None  # TODO: Fix to integer
+    number: Optional[int] = None
     class_: Optional[str] = Field(None, alias="class")
     departing_reason: Optional[str] = None
     hometown: Optional[str] = None
