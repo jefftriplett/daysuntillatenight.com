@@ -1,6 +1,7 @@
 ---
 class: Sophomore
-departing_reason: ''
+departing_reason: <a href="http://www2.kusports.com/news/2021/apr/13/kansas-freshman-bryce-thompson-latest-jayhawk-ente/">Entered
+  the transfer portal.</a>
 first_name: Bryce
 hometown: Tulsa, OK
 image: https://kuathletics.com/wp-content/uploads/2020/09/Thompson_Bryce_09082020-600x500.jpg
@@ -10,6 +11,6 @@ number: 24
 position: G
 projected: ''
 slug: 2021-thompson-bryce
-status: active
+status: departing
 year: 2021
 ---
