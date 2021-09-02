@@ -11,6 +11,6 @@ number: 10
 position: F
 projected: ''
 slug: 2021-wilson-jalen
-status: declaring
+status: active
 year: 2021
 ---

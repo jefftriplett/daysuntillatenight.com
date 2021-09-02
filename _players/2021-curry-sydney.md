@@ -6,7 +6,7 @@ hometown: Fort Wayne, IN
 image: /images/players/curry-sydney.jpg
 last_name: Curry
 notes: ''
-number: 99
+number: 23
 position: PF
 projected: ''
 slug: 2021-curry-sydney

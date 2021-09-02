@@ -1,5 +1,5 @@
 ---
-class: Sophomore
+class: Freshman
 departing_reason: ''
 first_name: Bobby
 hometown: ''

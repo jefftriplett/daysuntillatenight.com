@@ -11,6 +11,6 @@ number: 30
 position: G
 projected: ''
 slug: 2021-agbaji-ochai
-status: declaring
+status: active
 year: 2021
 ---

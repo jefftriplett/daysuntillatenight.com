@@ -2,7 +2,7 @@
 class: Senior
 departing_reason: ''
 first_name: Cam
-hometown: ''
+hometown: Yukon, Oklahoma
 image: /images/blank.gif
 last_name: Martin
 notes: ''
