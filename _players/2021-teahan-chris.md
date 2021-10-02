@@ -1,5 +1,5 @@
 ---
-class: Senior (Fifth Year)
+class: Super-Senior
 departing_reason: ''
 first_name: Chris
 hometown: Leawood, KS

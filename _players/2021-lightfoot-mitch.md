@@ -1,5 +1,5 @@
 ---
-class: RS Senior (Fifth Year)
+class: Super-Senior
 departing_reason: ''
 first_name: Mitch
 hometown: Gilbert, AZ
