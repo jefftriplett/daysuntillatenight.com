@@ -32,17 +32,19 @@
         <![endif]-->
         <div id="container" class="container mx-auto border-2">
             <div id="gradient">
-                <h1 class="text-5xl"><span id="heading-days"></span> Days Until Late Night</h1>
+              <h1 class="text-5xl"><span id="heading-days"></span> Days Until Late Night</h1>
 
-                <div id="date" class="when text-4xl">
+              <div id="date" class="when text-4xl">
+                {% if page.when < site.now %}
+                  <time-ago datetime="{{ page.when | date_to_xmlschema }}">
                     {{ page.when | default:"TBD" }}
-                </div>
-                <div id="countdown">
-                    <div id="numbers"></div>
-                    <div id="tweet">
-                        <a href="https://twitter.com/intent/tweet?button_hashtag=kubball" id="tweet-button" class="twitter-hashtag-button" data-text="" data-dnt="true">Tweet this to #kubball</a>
-                    </div>
-                </div>
+                  </time-ago>
+                {% else %}
+                  <time-until datetime="{{ page.when | date_to_xmlschema }}">
+                    {{ page.when | default:"TBD" }}
+                  </time-until>
+                {% endif %}
+              </div>
             </div>
             <div id="roster" class="border-2">
 {{ content }}
@@ -54,7 +56,7 @@
             <a href="https://github.com/jefftriplett/daysuntillatenight.com">Source available on GitHub</a><br>
             Not affiliated with the University of Kansas or KU Athletics.
         </div>
-
+        <script src="//unpkg.com/@github/time-elements@latest?module" type="module"></script>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
         <script src="/js/plugins.js"></script>
         <script src="/js/main.js"></script>
