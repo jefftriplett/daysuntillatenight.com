@@ -1,15 +1,18 @@
 ---
 class: Freshman
-departing_reason: ''
+departing_reason: null
 first_name: Zach
-hometown: San Antonio, TX
-image: https://kuathletics.com/wp-content/uploads/2021/07/Zach-Clemence-21.jpg
+height: 6'10"
+high_school: Sunrise Christian Academy [Kan.]
+hometown: San Antonio, Texas
+image: /images/blank.gif
 last_name: Clemence
-notes: ''
+notes: null
 number: 21
-position: PF
-projected: ''
+position: Forward
+projected: null
 slug: 2021-clemence-zach
-status: active
+status: null
+weight: 225 lbs.
 year: 2021
 ---

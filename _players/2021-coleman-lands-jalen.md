@@ -1,15 +1,18 @@
 ---
-class: G
-departing_reason: ''
+class: Super Senior
+departing_reason: null
 first_name: Jalen
-hometown: Indianapolis, IN
-image: https://kuathletics.com/wp-content/uploads/2021/07/Jalen-Coleman-Lands-55.jpg
+height: 6'4"
+high_school: La Lumiere School
+hometown: Indianapolis, Ind.
+image: /images/blank.gif
 last_name: Coleman-Lands
-notes: ''
+notes: null
 number: 55
-position: G
-projected: ''
+position: Guard
+projected: null
 slug: 2021-coleman-lands-jalen
-status: active
+status: null
+weight: 190 lbs.
 year: 2021
 ---

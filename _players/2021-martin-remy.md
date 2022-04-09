@@ -1,15 +1,18 @@
 ---
 class: Super-Senior
-departing_reason: ''
+departing_reason: null
 first_name: Remy
-hometown: Burbank, CA
-image: https://kuathletics.com/wp-content/uploads/2021/09/MBB_Martin_Remy_HS_1052-300x280.jpg
+height: 6'0"
+high_school: Sierra Canyon HS
+hometown: Burbank, Calif.
+image: /images/blank.gif
 last_name: Martin
-notes: ''
+notes: null
 number: 11
-position: G
-projected: ''
+position: Guard
+projected: null
 slug: 2021-martin-remy
-status: active
+status: null
+weight: 175 lbs.
 year: 2021
 ---

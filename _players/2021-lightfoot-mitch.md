@@ -1,15 +1,18 @@
 ---
 class: Super-Senior
-departing_reason: ''
+departing_reason: null
 first_name: Mitch
-hometown: Gilbert, AZ
-image: https://kuathletics.com/wp-content/uploads/2020/09/Lightfoot_Mitch_09082020-600x500.jpg
+height: 6'8''
+high_school: Gilbert Christian HS
+hometown: Gilbert, Ariz.
+image: /images/blank.gif
 last_name: Lightfoot
-notes: ''
+notes: null
 number: 44
-position: C
-projected: ''
+position: Forward
+projected: null
 slug: 2021-lightfoot-mitch
-status: active
+status: null
+weight: 225 lbs.
 year: 2021
 ---

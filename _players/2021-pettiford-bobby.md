@@ -1,15 +1,18 @@
 ---
 class: Freshman
-departing_reason: ''
+departing_reason: null
 first_name: Bobby
-hometown: Durhan, NC
-image: https://kuathletics.com/wp-content/uploads/2021/07/Bobby-Pettiford-0a.jpg
+height: 6'1"
+high_school: South Granville HS
+hometown: Durham, N.C.
+image: /images/blank.gif
 last_name: Pettiford
-notes: ''
+notes: null
 number: 0
-position: PG
-projected: ''
+position: Guard
+projected: null
 slug: 2021-pettiford-bobby
-status: active
+status: null
+weight: 190 lbs.
 year: 2021
 ---

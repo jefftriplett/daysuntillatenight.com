@@ -1,15 +1,18 @@
 ---
 class: Freshman
-departing_reason: ''
+departing_reason: null
 first_name: Charlie
-hometown: Rancho Mirage, CA
-image: https://kuathletics.com/wp-content/uploads/2021/07/Charlie-McCarthy-13.jpg
+height: 6'2"
+high_school: Shadow Hills HS
+hometown: Rancho Mirage, Calif.
+image: /images/blank.gif
 last_name: McCarthy
-notes: ''
+notes: null
 number: 13
-position: G
-projected: ''
+position: Guard
+projected: null
 slug: 2021-mccarthy-charlie
-status: active
+status: null
+weight: 195 lbs.
 year: 2021
 ---

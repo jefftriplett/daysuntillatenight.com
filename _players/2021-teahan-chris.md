@@ -1,15 +1,18 @@
 ---
 class: Super-Senior
-departing_reason: ''
+departing_reason: null
 first_name: Chris
-hometown: Leawood, KS
-image: https://kuathletics.com/wp-content/uploads/2020/09/Teahan_Chris_09082020-600x500.jpg
+height: 6'4''
+high_school: Rockhurst HS
+hometown: Leawood, Kan.
+image: /images/blank.gif
 last_name: Teahan
-notes: ''
+notes: null
 number: 12
-position: G
-projected: ''
+position: Guard
+projected: null
 slug: 2021-teahan-chris
-status: active
+status: null
+weight: 195 lbs.
 year: 2021
 ---
