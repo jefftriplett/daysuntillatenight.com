@@ -195,7 +195,7 @@ def sync(
             else:
                 post = frontmatter.loads("")
 
-            post.metadata.update(player.dict(by_alias=True))
+            post.metadata.update(player.dict(by_alias=True, exclude_unset=True))
 
             player_filename.write_text(frontmatter.dumps(post))
 
