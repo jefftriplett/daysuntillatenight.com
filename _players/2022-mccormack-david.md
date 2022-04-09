@@ -10,6 +10,6 @@ number: 33
 position: F
 projected: ''
 slug: 2022-mccormack-david
-status: active
+status: declaring
 year: 2022
 ---

@@ -1,5 +1,5 @@
 ---
-class: Senior
+class: Junior
 departing_reason: ''
 first_name: Michael
 hometown: Dallas, Texas
