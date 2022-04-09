@@ -6,7 +6,7 @@ from pathlib import Path
 from pydantic import BaseModel, Field, validator
 from sheetfu import SpreadsheetApp, Table
 from slugify import slugify
-from typing import List, Optional
+from typing import Optional
 
 
 # Don't customize these
@@ -45,6 +45,9 @@ class Player(BaseModel):
     class_: Optional[str] = Field(None, alias="class")
     departing_reason: Optional[str] = None
     hometown: Optional[str] = None
+    high_school: Optional[str] = None
+    height: Optional[str] = None
+    weight: Optional[str] = None
     image: Optional[str] = "/images/blank.gif"
     notes: Optional[str] = None
     position: Optional[str] = None
@@ -121,7 +124,7 @@ def main():
                         "image": post.metadata.get("image"),
                         "hometown": post.metadata.get("hometown"),
                         "class": year.get("class"),
-                        "number": year.get("number"),
+                        # "number": year.get("number"),
                         "position": year.get("position"),
                         "status": year.get("status"),
                         "departing_reason": year.get("departing_reason"),
