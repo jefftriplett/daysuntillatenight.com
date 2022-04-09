@@ -1,18 +1,18 @@
 ---
 class: RS Sophomore
-departing_reason: null
+departing_reason: ''
 first_name: Dajuan
 height: 6'1"
 high_school: Rock Bridge HS
 hometown: Columbia, Mo.
-image: /images/blank.gif
+image: https://kuathletics.com/wp-content/uploads/2019/09/Harris_Dejuan_08292019-1024x853.jpg
 last_name: Harris Jr.
-notes: null
+notes: ''
 number: 3
 position: Guard
-projected: null
+projected: ''
 slug: 2020-harris-jr-dajuan
-status: null
+status: active
 weight: 170 lbs.
 year: 2020
 ---

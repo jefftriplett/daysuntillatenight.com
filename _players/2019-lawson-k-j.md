@@ -1,5 +1,5 @@
 ---
-class: ''
+class: Sophomore
 departing_reason: <a href="http://www.espn.com/espn/wire/_/section/ncb/id/26447671">Transferring</a>
 first_name: K.J.
 hometown: Memphis, TN
