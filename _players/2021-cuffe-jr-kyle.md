@@ -1,18 +1,18 @@
 ---
 class: Freshman
-departing_reason: null
+departing_reason: ''
 first_name: Kyle
 height: 6'2"
 high_school: Blair Academy
 hometown: Harlem, N.Y.
-image: /images/blank.gif
+image: https://kuathletics.com/wp-content/uploads/2021/07/Kyle-Cuffe-Jr.-5.jpg
 last_name: Cuffe Jr.
-notes: null
+notes: ''
 number: 5
 position: Guard
-projected: null
+projected: ''
 slug: 2021-cuffe-jr-kyle
-status: null
+status: active
 weight: 180 lbs.
 year: 2021
 ---

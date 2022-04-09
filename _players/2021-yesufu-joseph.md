@@ -1,18 +1,18 @@
 ---
 class: Sophomore
-departing_reason: null
+departing_reason: ''
 first_name: Joseph
 height: 6'0"
 high_school: Bilingbrook HS / Drake
 hometown: Bolingbrook, Ill.
-image: /images/blank.gif
+image: https://kuathletics.com/wp-content/uploads/2021/07/Joseph-Yesufu-1a.jpg
 last_name: Yesufu
-notes: null
+notes: ''
 number: 1
 position: Guard
-projected: null
+projected: ''
 slug: 2021-yesufu-joseph
-status: null
+status: active
 weight: 180 lbs.
 year: 2021
 ---

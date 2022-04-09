@@ -1,18 +1,18 @@
 ---
 class: Super-Senior
-departing_reason: null
+departing_reason: ''
 first_name: Cam
 height: 6'9"
 high_school: Yukon HS / Missouri Southern State
 hometown: Yukon, Okla.
-image: /images/blank.gif
+image: https://kuathletics.com/wp-content/uploads/2021/07/Cam-Martin-31-300x280.jpg
 last_name: Martin
-notes: null
+notes: ''
 number: 31
 position: Forward
-projected: null
+projected: ''
 slug: 2021-martin-cam
-status: null
+status: active
 weight: 230 lbs.
 year: 2021
 ---

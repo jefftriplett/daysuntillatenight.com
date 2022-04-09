@@ -1,18 +1,19 @@
 ---
 class: Senior
-departing_reason: null
+departing_reason: <a href="https://kuathletics.com/ochai-agbaji-declares-for-2021-nba-draft/">Declaring
+  for the NBA draft while keeping NCAA eligibility.</a>
 first_name: Ochai
 height: 6'5''
 high_school: Oak Park HS
 hometown: Kansas City, Mo.
-image: /images/blank.gif
+image: https://kuathletics.com/wp-content/uploads/2018/06/Ogbaji_Ochai_06252018-1024x853.jpg
 last_name: Agbaji
-notes: null
+notes: ''
 number: 30
 position: Guard
-projected: null
+projected: ''
 slug: 2021-agbaji-ochai
-status: null
+status: active
 weight: 215 lbs.
 year: 2021
 ---
