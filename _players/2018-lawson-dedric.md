@@ -1,16 +1,18 @@
 ---
 class: Junior
-departing_reason: Declared for the <a href="http://www.espn.com/mens-college-basketball/story/_/id/26470444/kansas-forward-lawson-entering-nba-draft">2019
-  NBA Draft</a>
+departing_reason: null
 first_name: Dedric
-hometown: Memphis, TN
-image: https://kuathletics.com/images/2018/6/27/Lawson_Dedric_06252018.jpg?width=182&height=250&mode=crop&anchor=topcenter
+height: 6'9''
+high_school: Hamilton HS
+hometown: Memphis, Tenn.
+image: /images/blank.gif
 last_name: Lawson
-notes: Transfer from Memphis
+notes: null
 number: 1
-position: F
-projected: ''
+position: Forward
+projected: null
 slug: 2018-lawson-dedric
-status: active
+status: null
+weight: 235 lbs.
 year: 2018
 ---

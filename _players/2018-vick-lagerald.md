@@ -1,16 +1,18 @@
 ---
 class: Senior
-departing_reason: <a href="http://www.espn.com/mens-college-basketball/story/_/id/26230048/vick-leave-absence-return-ku">Leave
-  of absence</a>
+departing_reason: null
 first_name: Lagerald
-hometown: Memphis, TN
-image: https://kuathletics.com/images/2018/7/25/Vick_Lagerald_07252018.jpg?width=182&height=250&mode=crop&anchor=topcenter
+height: 6'5''
+high_school: Douglass HS
+hometown: Memphis, Tenn.
+image: /images/blank.gif
 last_name: Vick
-notes: ''
+notes: null
 number: 24
-position: G
-projected: ''
+position: Guard
+projected: null
 slug: 2018-vick-lagerald
-status: departing
+status: null
+weight: 190 lbs.
 year: 2018
 ---

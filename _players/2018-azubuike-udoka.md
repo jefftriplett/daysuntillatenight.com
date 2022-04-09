@@ -1,16 +1,18 @@
 ---
 class: Junior
-departing_reason: Projected <a href="https://www.nbadraft.net/2019mock_draft">52nd
-  pick</a> in the NBA draft
+departing_reason: null
 first_name: Udoka
+height: 7'0"
+high_school: Potter's House Christian Academy [Fla.]
 hometown: Delta, Nigeria
-image: https://kuathletics.com/wp-content/uploads/2017/09/Azubuike_Udoka-745x1024.jpg
+image: /images/blank.gif
 last_name: Azubuike
-notes: ''
+notes: null
 number: 35
-position: C
-projected: https://www.nbadraft.net/2019mock_draft
+position: Center
+projected: null
 slug: 2018-azubuike-udoka
-status: active
+status: null
+weight: 270 lbs.
 year: 2018
 ---

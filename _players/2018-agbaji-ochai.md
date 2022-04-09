@@ -1,17 +1,17 @@
 ---
 class: Freshman
 departing_reason: null
-first_name: Quentin
+first_name: Ochai
 height: 6'5''
-high_school: College Park HS
-hometown: The Woodlands, Texas
+high_school: Oak Park HS
+hometown: Kansas City, Mo.
 image: /images/blank.gif
-last_name: Grimes
+last_name: Agbaji
 notes: null
-number: 5
+number: 30
 position: Guard
 projected: null
-slug: 2018-grimes-quentin
+slug: 2018-agbaji-ochai
 status: null
 weight: 210 lbs.
 year: 2018
