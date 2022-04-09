@@ -1,15 +1,18 @@
 ---
 class: Junior
-departing_reason: ''
+departing_reason: null
 first_name: Tyon
-hometown: Kansas City, KS
-image: https://kuathletics.com/wp-content/uploads/2020/09/Grant-Foster_Tyon_09082020-600x500.jpg
+height: 6'7"
+high_school: Schlagle HS / Indian Hills CC
+hometown: Kansas City, Kan.
+image: /images/blank.gif
 last_name: Grant-Foster
-notes: ''
+notes: null
 number: 1
-position: F
-projected: ''
+position: Guard
+projected: null
 slug: 2020-grant-foster-tyon
-status: active
+status: null
+weight: 205 lbs.
 year: 2020
 ---

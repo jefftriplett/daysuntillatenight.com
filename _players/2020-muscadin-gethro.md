@@ -1,15 +1,18 @@
 ---
 class: Freshman
-departing_reason: ''
+departing_reason: null
 first_name: Gethro
-hometown: Haiti
-image: https://kuathletics.com/wp-content//uploads/2020/09/Muscadin_Gethro_09082020-600x500.jpg
+height: 6'10"
+high_school: Aspire Academy [Ky.]
+hometown: Gonaives, Haiti
+image: /images/blank.gif
 last_name: Muscadin
-notes: ''
+notes: null
 number: 35
-position: F
-projected: ''
+position: Forward
+projected: null
 slug: 2020-muscadin-gethro
-status: active
+status: null
+weight: 220 lbs.
 year: 2020
 ---

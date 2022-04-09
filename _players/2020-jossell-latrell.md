@@ -1,15 +1,18 @@
 ---
 class: Freshman
-departing_reason: ''
+departing_reason: null
 first_name: Latrell
-hometown: Dallas, TX
-image: https://kuathletics.com/wp-content/uploads/2020/09/Jossell_Latrell_09082020-600x500.jpg
+height: 5'11"
+high_school: Keller Central HS [Texas]
+hometown: Chicago, Ill.
+image: /images/blank.gif
 last_name: Jossell
-notes: ''
+notes: null
 number: 4
-position: F
-projected: ''
+position: Guard
+projected: null
 slug: 2020-jossell-latrell
-status: active
+status: null
+weight: 160 lbs.
 year: 2020
 ---
