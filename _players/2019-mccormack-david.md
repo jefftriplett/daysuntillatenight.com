@@ -1,15 +1,18 @@
 ---
-class: Freshman
-departing_reason: ''
+class: Sophomore
+departing_reason: null
 first_name: David
-hometown: Norfolk, VA
-image: https://kuathletics.com/wp-content/uploads/2018/06/McCormack_David_06252018-1024x853.jpg
+height: 6'10"
+high_school: Oak Hill Academy
+hometown: Norfolk, Va.
+image: /images/blank.gif
 last_name: McCormack
-notes: ''
+notes: null
 number: 33
-position: F
-projected: ''
+position: Forward
+projected: null
 slug: 2019-mccormack-david
-status: active
+status: null
+weight: '265'
 year: 2019
 ---

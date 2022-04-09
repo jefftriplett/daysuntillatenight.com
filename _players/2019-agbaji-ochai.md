@@ -1,15 +1,18 @@
 ---
 class: Sophomore
-departing_reason: ''
+departing_reason: null
 first_name: Ochai
-hometown: Kansas City, MO
-image: https://kuathletics.com/wp-content/uploads/2018/06/Ogbaji_Ochai_06252018-1024x853.jpg
+height: 6'5''
+high_school: Oak Park HS
+hometown: Kansas City, Mo.
+image: /images/blank.gif
 last_name: Agbaji
-notes: ''
+notes: null
 number: 30
-position: G
-projected: ''
+position: Guard
+projected: null
 slug: 2019-agbaji-ochai
-status: active
+status: null
+weight: 215 lbs.
 year: 2019
 ---

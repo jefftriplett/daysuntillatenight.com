@@ -1,15 +1,18 @@
 ---
-class: Freshman
-departing_reason: ''
+class: RS-Freshman
+departing_reason: null
 first_name: Elijah
-hometown: Southlake, TX
-image: https://kuathletics.com/wp-content/uploads/2018/06/Elliott_Elijah_06252018-1024x853.jpg
+height: 6'3''
+high_school: Carroll Senior HS
+hometown: Southlake, Texas
+image: /images/blank.gif
 last_name: Elliott
-notes: ''
+notes: null
 number: 5
-position: G
-projected: ''
+position: Guard
+projected: null
 slug: 2019-elliott-elijah
-status: redshirt
+status: null
+weight: 185 lbs.
 year: 2019
 ---

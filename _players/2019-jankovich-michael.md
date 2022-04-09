@@ -1,15 +1,18 @@
 ---
 class: Freshman
-departing_reason: ''
+departing_reason: null
 first_name: Michael
+height: 6'5"
+high_school: Northfield Mount Hermon [Mass.]
 hometown: Dallas, Texas
-image: https://kuathletics.com/wp-content/uploads/2019/07/Jankovich_Michael_06132019.jpg
+image: /images/blank.gif
 last_name: Jankovich
-notes: ''
+notes: null
 number: 20
-position: G
-projected: ''
+position: Guard
+projected: null
 slug: 2019-jankovich-michael
-status: active
+status: null
+weight: 190 lbs
 year: 2019
 ---

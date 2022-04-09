@@ -1,15 +1,18 @@
 ---
 class: Senior
-departing_reason: ''
+departing_reason: null
 first_name: Isaiah
-hometown: Chicago, IL
-image: https://kuathletics.com/wp-content/uploads/2019/07/Moss_Isaiah_08232019-1024x853.jpg
+height: 6'5"
+high_school: Simeon Career Academy
+hometown: Chicago, Ill.
+image: /images/blank.gif
 last_name: Moss
-notes: ''
+notes: null
 number: 4
-position: G
-projected: ''
+position: Guard
+projected: null
 slug: 2019-moss-isaiah
-status: active
+status: null
+weight: 208 lbs
 year: 2019
 ---

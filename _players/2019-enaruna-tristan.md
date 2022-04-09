@@ -1,15 +1,18 @@
 ---
 class: Freshman
-departing_reason: ''
+departing_reason: null
 first_name: Tristan
+height: 6'8"
+high_school: Wasatch Academy [Utah]
 hometown: Almere, Flevoland, Netherlands
-image: https://kuathletics.com/wp-content/uploads/2019/07/Enurana_Tristen_06132019.jpg
+image: /images/blank.gif
 last_name: Enaruna
-notes: ''
+notes: null
 number: 13
-position: F
-projected: ''
+position: Guard/Forward
+projected: null
 slug: 2019-enaruna-tristan
-status: active
+status: null
+weight: 215 lbs
 year: 2019
 ---
