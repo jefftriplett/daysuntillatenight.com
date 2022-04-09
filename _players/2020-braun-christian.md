@@ -1,18 +1,18 @@
 ---
 class: Sophomore
-departing_reason: null
+departing_reason: ''
 first_name: Christian
 height: 6'7"
 high_school: Blue Valley Northwest HS
 hometown: Burlington, Kan.
-image: /images/blank.gif
+image: https://kuathletics.com/wp-content/uploads/2019/07/Braun_Christian_06132019.jpg
 last_name: Braun
-notes: null
+notes: ''
 number: 2
 position: Guard
-projected: null
+projected: ''
 slug: 2020-braun-christian
-status: null
+status: active
 weight: 218 lbs
 year: 2020
 ---

@@ -1,18 +1,18 @@
 ---
 class: Sophomore
-departing_reason: null
+departing_reason: ''
 first_name: Devon
 height: 6'2''
 high_school: Providence Day School
 hometown: Charlotte, N.C.
-image: /images/blank.gif
+image: https://kuathletics.com/wp-content/uploads/2018/06/Dotson_Devon_06252018-1024x853.jpg
 last_name: Dotson
-notes: null
+notes: ''
 number: 1
 position: Guard
-projected: null
+projected: ''
 slug: 2019-dotson-devon
-status: null
+status: active
 weight: 185 lbs.
 year: 2019
 ---

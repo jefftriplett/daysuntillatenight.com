@@ -1,18 +1,18 @@
 ---
 class: Freshman
-departing_reason: null
+departing_reason: ''
 first_name: Garrett
 height: 6'2''
 high_school: Lawrence Free State HS
 hometown: Lawrence, Kan.
-image: /images/blank.gif
+image: https://kuathletics.com/images/2018/6/27/Luinstra_Garrett_06252018.jpg?width=182&height=250&mode=crop&anchor=topcenter
 last_name: Luinstra
-notes: null
+notes: ''
 number: 20
 position: Guard
-projected: null
+projected: ''
 slug: 2018-luinstra-garrett
-status: null
+status: active
 weight: 155 lbs.
 year: 2018
 ---

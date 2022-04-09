@@ -1,18 +1,18 @@
 ---
 class: Freshman
-departing_reason: null
+departing_reason: ''
 first_name: Bryce
 height: 6'5"
 high_school: Booker T. Washington HS
 hometown: Tulsa, Oklahoma
-image: /images/blank.gif
+image: https://kuathletics.com/wp-content/uploads/2020/09/Thompson_Bryce_09082020-600x500.jpg
 last_name: Thompson
-notes: null
+notes: ''
 number: 24
 position: Guard
-projected: null
+projected: ''
 slug: 2020-thompson-bryce
-status: null
+status: active
 weight: 195 lbs.
 year: 2020
 ---

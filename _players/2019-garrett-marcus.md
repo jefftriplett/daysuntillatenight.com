@@ -1,18 +1,18 @@
 ---
 class: Junior
-departing_reason: null
+departing_reason: ''
 first_name: Marcus
 height: 6'5''
 high_school: Skyline HS
 hometown: Dallas, Texas
-image: /images/blank.gif
+image: https://kuathletics.com/wp-content/uploads/2020/09/Garrett_Marcus_09082020-600x500.jpg
 last_name: Garrett
-notes: null
+notes: ''
 number: 0
 position: Guard
-projected: null
+projected: ''
 slug: 2019-garrett-marcus
-status: null
+status: active
 weight: 205 lbs.
 year: 2019
 ---
