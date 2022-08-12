@@ -2,7 +2,6 @@
 class: RS Junior
 departing_reason: ''
 first_name: Dajuan
-hometown: Columbia, MO
 image: https://kuathletics.com/wp-content/uploads/2019/09/Harris_Dejuan_08292019-1024x853.jpg
 last_name: Harris Jr
 notes: ''

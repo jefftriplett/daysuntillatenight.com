@@ -1,8 +1,7 @@
 ---
-class: Junior
+class: Senior
 departing_reason: ''
 first_name: Michael
-hometown: Dallas, Texas
 image: https://kuathletics.com/wp-content/uploads/2019/07/Jankovich_Michael_06132019.jpg
 last_name: Jankovich
 notes: ''

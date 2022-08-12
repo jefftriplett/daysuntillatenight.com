@@ -2,7 +2,6 @@
 class: Sophomore
 departing_reason: ''
 first_name: Zach
-hometown: San Antonio, TX
 image: https://kuathletics.com/wp-content/uploads/2021/07/Zach-Clemence-21.jpg
 last_name: Clemence
 notes: ''
