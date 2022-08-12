@@ -12,7 +12,7 @@
         <meta name="description" content="Countdown the days until KU Jayhawk Basketball's Late Night in the Phog">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400,800">
-        <link rel="preload" as="style" href="/css/tailwind.css">
+        {% comment %}<link rel="preload" as="style" href="/css/tailwind.css">{% endcomment %}}
         <link rel="preload" as="style" href="/css/latenight.css">
         <!--
         -->
@@ -26,15 +26,15 @@
         -->
         <link type="text/plain" rel="author" href="/humans.txt" />
     </head>
-    <body class="border-2">
+    <body class="">
         <!--[if lt IE 7]>
         You will have a better experience using this site if you use Firefox or Chrome.
         <![endif]-->
-        <div id="container" class="container mx-auto border-2">
+        <div id="container" class="container mx-auto">
             <div id="gradient">
               <h1 class="text-5xl"><span id="heading-days"></span> Days Until Late Night</h1>
 
-              <div id="date" class="when text-4xl">
+              <div id="date" class="when text-6xl rounded-lg">
                 {% if page.when < site.now %}
                   <time-ago datetime="{{ page.when | date_to_xmlschema }}">
                     {{ page.when | default:"TBD" }}
@@ -46,7 +46,7 @@
                 {% endif %}
               </div>
             </div>
-            <div id="roster" class="border-2">
+            <div id="roster" class="">
 {{ content }}
             </div>
         </div>
@@ -56,6 +56,7 @@
             <a href="https://github.com/jefftriplett/daysuntillatenight.com">Source available on GitHub</a><br>
             Not affiliated with the University of Kansas or KU Athletics.
         </div>
+        <script src="//cdn.tailwindcss.com"></script>
         <script src="//unpkg.com/@github/time-elements@latest?module" type="module"></script>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
         <script src="/js/plugins.js"></script>

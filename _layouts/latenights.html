@@ -3,25 +3,25 @@ layout: default
 ---
 
 <!-- returning players -->
-<h2 class="text-4xl" id="heading-roster">{{ page.season }} Men's Basketball Roster</h2>
+<h2 class="text-4xl rounded-lg" id="heading-roster">{{ page.season }} Men's Basketball Roster</h2>
 
 {% include player-list.html current_year=page.current_year status="active" %}
 
 <!-- redshirt players -->
-<h2 class="text-4xl" id="heading-roster">Redshirt</h2>
+<h2 class="text-4xl rounded-lg" id="heading-roster">Redshirt</h2>
 
 {% include player-list.html current_year=page.current_year status="redshirt" %}
 
 <!-- leaving / declaring players -->
-<h2 class="text-4xl" id="heading-roster">Declaring for the NBA Draft</h2>
+<h2 class="text-4xl rounded-lg" id="heading-roster">Declaring for the NBA Draft</h2>
 
 {% include player-list.html current_year=page.current_year status="declaring" %}
 
 <!-- leaving / transferring players -->
-<h2 class="text-4xl" id="heading-roster">Departing</h2>
+<h2 class="text-4xl rounded-lg" id="heading-roster">Departing</h2>
 
 {% include player-list.html current_year=page.current_year status="departing" %}
 
-<h2 class="text-4xl" id="heading-roster">Unknown</h2>
+<h2 class="text-4xl rounded-lg" id="heading-roster">Unknown</h2>
 
 {% include player-list.html current_year=page.current_year status="unknown" %}
