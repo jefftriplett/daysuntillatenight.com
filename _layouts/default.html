@@ -18,8 +18,8 @@
     <body class="bg-[#002de5]">
         <div class="mx-auto max-w-6xl">
             <div id="gradient">
-                <h1 class="rounded-lg text-6xl py-4 my-4 text-center text-white bg-[#E8000D]"><span id="heading-days"></span> Days Until Late Night</h1>
-                <div id="date" class="when rounded-lg text-white text-center text-4xl py-2 my-4 bg-[#E8000D]">
+                <h1 class="rounded-lg text-2xl sm:text-6xl py-2 my-2 sm:py-4 sm:my-4 text-center text-white bg-[#E8000D]"><span id="heading-days"></span> Days Until Late Night</h1>
+                <div id="date" class="when rounded-lg text-white text-center text-xl sm:text-4xl py-2 my-4 bg-[#E8000D]">
                     {% if page.when < site.now %}
                         <time-ago datetime="{{ page.when | date_to_xmlschema }}">
                             {{ page.when | default:"TBD" }}
@@ -35,7 +35,7 @@
                 {{ content }}
             </div>
         </div>
-        <footer id="copyright" class="p-8 mx-auto max-w-6xl text-center text-white">
+        <footer id="copyright" class="p-8 mx-auto max-w-6xl text-center text-white text-sm sm:text-lg">
             <div class="pb-2 text-yellow-300">Not affiliated with the University of Kansas or KU Athletics.</div>
             <div>Maintained/updated by <a class="underline" href="https://twitter.com/webology">Jeff Triplett</a></div>
             <div>Originally created by <a class="underline" href="https://twitter.com/johnkary">John Kary</a></div>
