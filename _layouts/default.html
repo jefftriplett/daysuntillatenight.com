@@ -10,17 +10,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400,800">
         <link rel="preload" as="script" href="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
-        {% comment %}
         <link rel="preload" as="script" href="/js/plugins.js">
-        <link rel="preload" as="script" href="/js/main.js">
-        {% endcomment %}
         <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400,800">
+        <link rel="stylesheet" href="/css/tailwind.css">
         <link type="text/plain" rel="author" href="/humans.txt" />
     </head>
     <body class="bg-[#002de5]">
-        <!--[if lt IE 7]>
-        You will have a better experience using this site if you use Firefox or Chrome.
-        <![endif]-->
         <div class="mx-auto max-w-6xl">
             <div id="gradient">
                 <h1 class="rounded-lg text-6xl py-4 my-4 text-center text-white bg-[#E8000D]"><span id="heading-days"></span> Days Until Late Night</h1>
@@ -46,13 +41,12 @@
             <div>Originally created by <a class="underline" href="https://twitter.com/johnkary">John Kary</a></div>
             <div><a class="underline" href="https://github.com/jefftriplett/daysuntillatenight.com">Source available on GitHub</a></div>
         </footer>
+        {% comment %}
         <script src="https://cdn.tailwindcss.com"></script>
+        {% endcomment %}
         <script src="//unpkg.com/@github/time-elements@latest?module" type="module"></script>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
         <script src="/js/plugins.js"></script>
-        {% comment %}
-        <script src="/js/main.js"></script>
-        {% endcomment %}
         <script src="/js/ga.js"></script>
     </body>
 </html>
