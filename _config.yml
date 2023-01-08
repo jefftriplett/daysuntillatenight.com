@@ -6,32 +6,39 @@ url: "https://daysuntillatenight.com"
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 plugins:
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
+- jekyll-feed
+- jekyll-gist
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-redirect-from
+- jekyll-remote-theme
+- jekyll-seo-tag
+- jekyll-sitemap
+- jemoji
 
 exclude:
-  - "*.py"
-  - build
-  - CNAME
-  - dist/
-  - Gemfile*
-  - justfile
-  - modd.conf
-  - node_modules
-  - package.json
-  - Procfile
-  - README.md
-  - requirements.*
-  - src/
-  - tailwind.config.js
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+- "*.py"
+- "*.yaml"
+- "*.yml"
+- bin
+- build
+- CNAME
+- dist/
+- docker-compose.yml
+- Gemfile*
+- justfile
+- LICENSE
+- modd.conf
+- node_modules
+- package.json
+- Procfile
+- README.md
+- requirements.*
+- src/
+- tailwind.config.js
+- vendor
 
 collections:  # process the _data folder
   components:
