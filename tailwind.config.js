@@ -1,15 +1,7 @@
 module.exports = {
-  future: {
-    removeDeprecatedGapUtilities: true,
-    purgeLayersByDefault: true,
-  },
-  purge: {
-    enabled: process.env.JEKYLL_ENV == "production",
-    mode: 'all',
-    content: [
-      '**/*.html'
-    ],
-  },
+  content: [
+    '**/*.html'
+  ],
   theme: {
     extend: {},
   },
