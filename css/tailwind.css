@@ -691,6 +691,11 @@ video {
   margin: 1rem;
 }
 
+.mx-2 {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -1192,6 +1197,10 @@ video {
   border-radius: 1rem;
 }
 
+.rounded {
+  border-radius: 0.25rem;
+}
+
 .rounded-md {
   border-radius: 0.375rem;
 }
@@ -1395,6 +1404,14 @@ video {
 .px-3 {
   padding-left: 0.75rem;
   padding-right: 0.75rem;
+}
+
+.pl-2 {
+  padding-left: 0.5rem;
+}
+
+.pt-2 {
+  padding-top: 0.5rem;
 }
 
 .pb-2 {
@@ -2214,16 +2231,16 @@ video {
     margin-bottom: 1rem;
   }
 
-  .sm\:w-64 {
-    width: 16rem;
-  }
-
   .sm\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .sm\:gap-8 {
     gap: 2rem;
+  }
+
+  .sm\:rounded-2xl {
+    border-radius: 1rem;
   }
 
   .sm\:p-3 {
@@ -2238,6 +2255,14 @@ video {
   .sm\:py-2 {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
+  }
+
+  .sm\:pl-3 {
+    padding-left: 0.75rem;
+  }
+
+  .sm\:pt-3 {
+    padding-top: 0.75rem;
   }
 
   .sm\:text-center {
@@ -2338,6 +2363,10 @@ video {
     }
   }
 
+  .md\:w-48 {
+    width: 12rem;
+  }
+
   .md\:text-center {
     text-align: center;
   }
@@ -2392,6 +2421,10 @@ video {
 }
 
 @media (min-width: 1024px) {
+  .lg\:w-64 {
+    width: 16rem;
+  }
+
   .lg\:grid-cols-\[200px\2c repeat\(auto-fill\2c minmax\(15\%\2c 100px\)\)\2c 300px\] {
     grid-template-columns: 200px repeat(auto-fill,minmax(15%,100px)) 300px;
   }

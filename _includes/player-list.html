@@ -6,11 +6,17 @@
             {% if player.status contains include.status %}
                 <div class="flex">
                     <div class="flex-none">
-                        <img class="w-32 sm:w-64 rounded-2xl lazy" src="/images/blank.gif" data-src="{{ player.image }}">
+                        <img class="w-32 md:w-48 lg:w-64 rounded-2xl lazy" src="/images/blank.gif" data-src="{{ player.image }}">
                     </div>
+                    {% if player.number and player.number != 99 %}
+                    <div class="flex-none pl-2 pt-2 sm:pl-3 sm:pt-3 align-middle">
+                        <h2 class="text-xl sm:text-2xl font-bold text-white">
+                            #{{ player.number }}
+                        </h2>
+                    </div>
+                    {% endif %}
                     <div class="flex-1 p-2 sm:p-3 align-middle">
                         <h2 class="text-xl sm:text-2xl font-bold text-white">
-                            {% if player.number and player.number != 99 %}#{{ player.number }}{% endif %}
                             {{ player.first_name }} {{ player.last_name }}
                         </h2>
                         <div class="text-md sm:text-xl font-bold text-white">{{ player.class }}</div>
