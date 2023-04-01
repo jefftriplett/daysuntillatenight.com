@@ -1,18 +1,18 @@
 ---
-class: Freshman
+class: RS Freshman
 departing_reason: null
 first_name: Dillon
 height: 6'9"
 high_school: Cathedral Catholic HS
 hometown: San Diego, Calif.
-image: /images/blank.gif
+image: https://kuathletics.com/wp-content/uploads/2021/07/Dillon-Wilhite-15.jpg
 last_name: Wilhite
 notes: null
 number: 15
 position: Forward
 projected: null
 slug: 2021-wilhite-dillon
-status: null
+status: active
 weight: 240 lbs.
 year: 2021
 ---

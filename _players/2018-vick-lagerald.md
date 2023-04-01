@@ -13,7 +13,7 @@ number: 24
 position: Guard
 projected: ''
 slug: 2018-vick-lagerald
-status: departing
+status: active
 weight: 190 lbs.
 year: 2018
 ---

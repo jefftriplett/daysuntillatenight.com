@@ -1,5 +1,5 @@
 ---
-class: Freshman
+class: Sophomore
 departing_reason: null
 first_name: KJ
 height: 6'7"
@@ -12,7 +12,7 @@ number: 24
 position: Forward
 projected: null
 slug: 2021-adams-jr-kj
-status: null
+status: active
 weight: 225 lbs.
 year: 2021
 ---

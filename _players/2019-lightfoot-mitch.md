@@ -12,7 +12,7 @@ number: 44
 position: Forward
 projected: ''
 slug: 2019-lightfoot-mitch
-status: redshirt
+status: active
 weight: 225 lbs.
 year: 2019
 ---

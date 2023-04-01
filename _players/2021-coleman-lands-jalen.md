@@ -3,7 +3,7 @@ class: Super Senior
 departing_reason: ''
 first_name: Jalen
 height: 6'4"
-high_school: La Lumiere School
+high_school: La Lumiere School / Iowa State
 hometown: Indianapolis, Ind.
 image: https://kuathletics.com/wp-content/uploads/2021/07/Jalen-Coleman-Lands-55.jpg
 last_name: Coleman-Lands

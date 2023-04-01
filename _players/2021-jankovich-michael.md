@@ -1,5 +1,5 @@
 ---
-class: Junior
+class: Senior
 departing_reason: ''
 first_name: Michael
 height: 6'5"

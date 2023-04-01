@@ -2,13 +2,17 @@
 class: Freshman
 departing_reason: ''
 first_name: Gradey
+height: 6'8"
+high_school: Sunrise Christian Academy [Kan.]
+hometown: Wichita, Kan.
 image: /images/blank.gif
 last_name: Dick
 notes: ''
 number: 4
-position: SF
+position: Guard
 projected: ''
 slug: 2022-dick-gradey
-status: active
+status: declaring
+weight: 205 lbs.
 year: 2022
 ---

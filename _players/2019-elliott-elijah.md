@@ -12,7 +12,7 @@ number: 5
 position: Guard
 projected: ''
 slug: 2019-elliott-elijah
-status: redshirt
+status: active
 weight: 185 lbs.
 year: 2019
 ---

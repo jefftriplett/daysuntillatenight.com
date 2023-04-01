@@ -12,7 +12,7 @@ number: 33
 position: Forward
 projected: null
 slug: 2018-mccormack-david
-status: null
+status: active
 weight: 265 lbs.
 year: 2018
 ---

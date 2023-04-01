@@ -1,5 +1,5 @@
 ---
-class: Freshman
+class: Sophomore
 departing_reason: ''
 first_name: Zach
 height: 6'10"
@@ -13,6 +13,6 @@ position: Forward
 projected: ''
 slug: 2021-clemence-zach
 status: active
-weight: 225 lbs.
+weight: 230 lbs.
 year: 2021
 ---

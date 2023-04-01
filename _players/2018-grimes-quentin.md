@@ -12,7 +12,7 @@ number: 5
 position: Guard
 projected: ''
 slug: 2018-grimes-quentin
-status: departing
+status: active
 weight: 210 lbs.
 year: 2018
 ---

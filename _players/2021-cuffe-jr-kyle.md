@@ -1,5 +1,5 @@
 ---
-class: Freshman
+class: RS Freshman
 departing_reason: ''
 first_name: Kyle
 height: 6'2"
@@ -13,6 +13,6 @@ position: Guard
 projected: ''
 slug: 2021-cuffe-jr-kyle
 status: active
-weight: 180 lbs.
+weight: 185 lbs.
 year: 2021
 ---

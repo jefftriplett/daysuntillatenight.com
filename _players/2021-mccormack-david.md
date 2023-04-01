@@ -12,7 +12,7 @@ number: 33
 position: Forward
 projected: ''
 slug: 2021-mccormack-david
-status: active
+status: declaring
 weight: 250 lbs.
 year: 2021
 ---

@@ -12,7 +12,7 @@ number: 30
 position: Guard
 projected: null
 slug: 2018-agbaji-ochai
-status: null
+status: active
 weight: 210 lbs.
 year: 2018
 ---

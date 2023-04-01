@@ -1,5 +1,5 @@
 ---
-class: Freshman
+class: Sophomore
 departing_reason: ''
 first_name: Charlie
 height: 6'2"

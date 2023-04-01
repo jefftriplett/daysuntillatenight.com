@@ -12,7 +12,7 @@ number: 2
 position: Guard
 projected: null
 slug: 2019-braun-christian
-status: null
+status: active
 weight: 205 lbs
 year: 2019
 ---

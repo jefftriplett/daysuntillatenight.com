@@ -12,7 +12,7 @@ number: 10
 position: Forward
 projected: ''
 slug: 2019-wilson-jalen
-status: redshirt
+status: active
 weight: 215 lbs
 year: 2019
 ---

@@ -2,14 +2,17 @@
 class: Freshman
 departing_reason: ''
 first_name: Marcus
-hometown: Dallas, TX
+height: 6'5''
+high_school: Skyline HS
+hometown: Dallas, Texas
 image: https://kuathletics.com/wp-content/uploads/2020/09/Garrett_Marcus_09082020-600x500.jpg
 last_name: Garrett
 notes: ''
 number: 0
-position: G
+position: Guard
 projected: ''
 slug: 2017-garrett-marcus
 status: active
+weight: 180 lbs.
 year: 2017
 ---

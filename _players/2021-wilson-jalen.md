@@ -1,5 +1,5 @@
 ---
-class: RS Sophomore
+class: RS Junior
 departing_reason: <a href="https://kuathletics.com/jalen-wilson-declares-for-2021-nba-draft/">Declaring
   for the NBA draft while keeping NCAA eligibility.</a>
 first_name: Jalen

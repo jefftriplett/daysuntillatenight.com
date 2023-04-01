@@ -12,7 +12,7 @@ number: 10
 position: Guard
 projected: null
 slug: 2018-elliott-elijah
-status: null
+status: active
 weight: 185 lbs.
 year: 2018
 ---

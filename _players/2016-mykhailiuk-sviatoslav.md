@@ -2,14 +2,17 @@
 class: Junior
 departing_reason: ''
 first_name: Sviatoslav
+height: 6'8''
+high_school: Cherkasy First City Gymnasia
 hometown: Cherkasy, Ukraine
 image: /images/players/mykhailiuk4.jpeg
 last_name: Mykhailiuk
 notes: ''
-number: 4
-position: G
+number: 10
+position: Guard
 projected: ''
 slug: 2016-mykhailiuk-sviatoslav
 status: active
+weight: 205 lbs.
 year: 2016
 ---

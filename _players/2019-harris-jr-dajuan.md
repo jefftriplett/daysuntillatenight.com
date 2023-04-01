@@ -1,5 +1,5 @@
 ---
-class: RS Sophomore
+class: RS Junior
 departing_reason: ''
 first_name: Dajuan
 height: 6'1"
@@ -12,7 +12,7 @@ number: 3
 position: Guard
 projected: ''
 slug: 2019-harris-jr-dajuan
-status: redshirt
-weight: 170 lbs.
+status: active
+weight: 175 lbs.
 year: 2019
 ---

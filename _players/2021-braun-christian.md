@@ -12,7 +12,7 @@ number: 2
 position: Guard
 projected: ''
 slug: 2021-braun-christian
-status: active
+status: declaring
 weight: 218 lbs
 year: 2021
 ---

@@ -2,14 +2,17 @@
 class: Freshman
 departing_reason: ''
 first_name: Chris
-hometown: Leawood, KS
+height: 6'4''
+high_school: Rockhurst HS
+hometown: Leawood, Kan.
 image: https://kuathletics.com/wp-content/uploads/2020/09/Teahan_Chris_09082020-600x500.jpg
 last_name: Teahan
 notes: ''
 number: 12
-position: G
+position: Guard
 projected: ''
 slug: 2017-teahan-chris
 status: active
+weight: 175 lbs.
 year: 2017
 ---

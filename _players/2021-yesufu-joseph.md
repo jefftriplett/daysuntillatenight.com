@@ -1,5 +1,5 @@
 ---
-class: Sophomore
+class: Junior
 departing_reason: ''
 first_name: Joseph
 height: 6'0"

@@ -1,15 +1,18 @@
 ---
 class: Sophomore
 departing_reason: ''
-first_name: Devonte
-hometown: Raleigh, NC
+first_name: Devonte'
+height: 6'2''
+high_school: Broughton HS
+hometown: Raleigh, N.C.
 image: /images/players/graham4.jpeg
 last_name: Graham
 notes: ''
 number: 4
-position: G
+position: Guard
 projected: ''
 slug: 2015-graham-devonte
 status: active
+weight: 175 lbs.
 year: 2015
 ---
