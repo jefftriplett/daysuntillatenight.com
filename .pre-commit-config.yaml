@@ -44,6 +44,17 @@ repos:
         alias: autoformat
       - id: djjs
         alias: autoformat
+  - repo: local
+    hooks:
+      - id: rustywind
+        name: rustywind Tailwind CSS class linter
+        language: node
+        additional_dependencies:
+          - rustywind@0.15.3
+        entry: rustywind
+        args: [--write]
+        types_or: [html]
+        # exclude: '.*\.min\.css'
   # - repo: https://github.com/codespell-project/codespell
   #   rev: v2.2.2
   #   hooks:
