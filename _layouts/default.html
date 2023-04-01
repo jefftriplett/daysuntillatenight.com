@@ -2,54 +2,54 @@
 ---
 <!DOCTYPE html>
 <html lang="en" ng-app="latenightApp">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Days until Late Night in the Phog: {{ page.season }} Men's Basketball Roster</title>
-        <meta name="description" content="Countdown the days until KU Jayhawk Basketball's Late Night in the Phog">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="icon" href="https://fav.farm/🏀" />
-        <link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400,800">
-        <link rel="preload" as="script" href="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
-        <link rel="preload" as="script" href="/js/plugins.js">
-        <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400,800">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Days until Late Night in the Phog: {{ page.season }} Men's Basketball Roster</title>
+    <meta name="description" content="Countdown the days until KU Jayhawk Basketball's Late Night in the Phog">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://fav.farm/🏀" />
+    <link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400,800">
+    <link rel="preload" as="script" href="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
+    <link rel="preload" as="script" href="/js/plugins.js">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400,800">
         {% comment %}
         <link rel="stylesheet" href="/css/tailwind.css">
         {% endcomment %}
-        <link type="text/plain" rel="author" href="/humans.txt" />
-    </head>
-    <body class="bg-[#002de5] mx-2">
-        <div class="mx-auto max-w-6xl">
-            <div id="gradient">
-                <h1 class="rounded sm:rounded-2xl text-2xl sm:text-6xl py-2 my-2 sm:py-4 sm:my-4 text-center text-yellow-100 bg-[#E8000D]"><span id="heading-days"></span> Days Until Late Night</h1>
-                <div id="date" class="when rounded sm:rounded-2xl text-white text-center text-xl sm:text-4xl py-2 my-4 bg-[#E8000D]">
-                    {% if page.when < site.now %}
-                        <time-ago datetime="{{ page.when | date_to_xmlschema }}">
-                            {{ page.when | default:"TBD" }}
-                        </time-ago>
-                    {% else %}
-                        <time-until datetime="{{ page.when | date_to_xmlschema }}">
-                            {{ page.when | default:"TBD" }}
-                        </time-until>
-                    {% endif %}
-                </div>
-            </div>
-            <div id="roster" class="">
-                {{ content }}
-            </div>
+    <link type="text/plain" rel="author" href="/humans.txt" />
+  </head>
+  <body class="bg-[#002de5] mx-2">
+    <div class="mx-auto max-w-6xl">
+      <div id="gradient">
+        <h1 class="rounded sm:rounded-2xl text-2xl sm:text-6xl py-2 my-2 sm:py-4 sm:my-4 text-center text-yellow-100 bg-[#E8000D]"><span id="heading-days"></span> Days Until Late Night</h1>
+        <div id="date" class="when rounded sm:rounded-2xl text-white text-center text-xl sm:text-4xl py-2 my-4 bg-[#E8000D]">
+          {% if page.when < site.now %}
+            <time-ago datetime="{{ page.when | date_to_xmlschema }}">
+              {{ page.when | default:"TBD" }}
+            </time-ago>
+          {% else %}
+            <time-until datetime="{{ page.when | date_to_xmlschema }}">
+              {{ page.when | default:"TBD" }}
+            </time-until>
+          {% endif %}
         </div>
-        <footer id="copyright" class="p-8 mx-auto max-w-6xl text-sm text-center text-white sm:text-lg">
-            <div class="pb-2 text-yellow-300">Not affiliated with the University of Kansas or KU Athletics.</div>
-            <div>Maintained/updated by <a class="underline" href="https://twitter.com/webology">Jeff Triplett</a></div>
-            <div>Originally created by <a class="underline" href="https://twitter.com/johnkary">John Kary</a></div>
-            <div><a class="underline" href="https://github.com/jefftriplett/daysuntillatenight.com">Source available on GitHub</a></div>
-        </footer>
-        <script src="https://cdn.tailwindcss.com"></script>
+      </div>
+      <div id="roster" class="">
+        {{ content }}
+      </div>
+    </div>
+    <footer id="copyright" class="p-8 mx-auto max-w-6xl text-sm text-center text-white sm:text-lg">
+      <div class="pb-2 text-yellow-300">Not affiliated with the University of Kansas or KU Athletics.</div>
+      <div>Maintained/updated by <a class="underline" href="https://twitter.com/webology">Jeff Triplett</a></div>
+      <div>Originally created by <a class="underline" href="https://twitter.com/johnkary">John Kary</a></div>
+      <div><a class="underline" href="https://github.com/jefftriplett/daysuntillatenight.com">Source available on GitHub</a></div>
+    </footer>
+    <script src="https://cdn.tailwindcss.com"></script>
         {% comment %}
         {% endcomment %}
-        <script src="//unpkg.com/@github/time-elements@latest?module" type="module"></script>
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-        <script src="/js/plugins.js"></script>
-        <script src="/js/ga.js"></script>
-    </body>
+    <script src="//unpkg.com/@github/time-elements@latest?module" type="module"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="/js/plugins.js"></script>
+    <script src="/js/ga.js"></script>
+  </body>
 </html>
