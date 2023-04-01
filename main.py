@@ -1,4 +1,3 @@
-import csv
 import frontmatter
 import typer
 
@@ -109,33 +108,32 @@ These are the values that you need to configure for the script to run:
 @app.command()
 def main():
     filenames = Path("_players").glob("*.md")
-    data = []
-    for filename in filenames:
-        if not str(filename.name).startswith("_"):
-            post = frontmatter.load(filename)
-            years = post.metadata["years"]
-            for year in years:
-                data.append(
-                    {
-                        "year": year.get("year"),
-                        "last_name": post.metadata["last_name"],
-                        "first_name": post.metadata["first_name"],
-                        "number": post.metadata.get("number"),
-                        "image": post.metadata.get("image"),
-                        "hometown": post.metadata.get("hometown"),
-                        "class": year.get("class"),
-                        # "number": year.get("number"),
-                        "position": year.get("position"),
-                        "status": year.get("status"),
-                        "departing_reason": year.get("departing_reason"),
-                        "projected": year.get("projected"),
-                    }
-                )
+    # data = []
+    # for filename in filenames:
+    #     if not str(filename.name).startswith("_"):
+    #         post = frontmatter.load(filename)
+    #         years = post.metadata["years"]
+    #         for year in years:
+    #             data.append(
+    #                 {
+    #                     "year": year.get("year"),
+    #                     "last_name": post.metadata["last_name"],
+    #                     "first_name": post.metadata["first_name"],
+    #                     "number": post.metadata.get("number"),
+    #                     "image": post.metadata.get("image"),
+    #                     "hometown": post.metadata.get("hometown"),
+    #                     "class": post.metadata.get("class"),
+    #                     "position": post.metadata.get("position"),
+    #                     "status": post.metadata.get("status"),
+    #                     "departing_reason": post.metadata.get("departing_reason"),
+    #                     "projected": post.metadata.get("projected"),
+    #                 }
+    #             )
 
-    with open("players.csv", "w", newline="") as csv_output:
-        writer = csv.DictWriter(csv_output, fieldnames=data[0].keys())
-        writer.writeheader()
-        writer.writerows(data)
+    # with open("players.csv", "w", newline="") as csv_output:
+    #     writer = csv.DictWriter(csv_output, fieldnames=data[0].keys())
+    #     writer.writeheader()
+    #     writer.writerows(data)
 
 
 @app.command()
@@ -197,7 +195,7 @@ def sync(
 
             post.metadata.update(player.dict(by_alias=True, exclude_unset=True))
 
-            player_filename.write_text(frontmatter.dumps(post))
+            player_filename.write_text(f"{frontmatter.dumps(post)}\n")
 
 
 if __name__ == "__main__":
