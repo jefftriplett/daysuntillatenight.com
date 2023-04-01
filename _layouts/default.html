@@ -21,7 +21,7 @@
     <body class="bg-[#002de5] mx-2">
         <div class="mx-auto max-w-6xl">
             <div id="gradient">
-                <h1 class="rounded sm:rounded-2xl text-2xl sm:text-6xl py-2 my-2 sm:py-4 sm:my-4 text-center text-white bg-[#E8000D]"><span id="heading-days"></span> Days Until Late Night</h1>
+                <h1 class="rounded sm:rounded-2xl text-2xl sm:text-6xl py-2 my-2 sm:py-4 sm:my-4 text-center text-yellow-100 bg-[#E8000D]"><span id="heading-days"></span> Days Until Late Night</h1>
                 <div id="date" class="when rounded sm:rounded-2xl text-white text-center text-xl sm:text-4xl py-2 my-4 bg-[#E8000D]">
                     {% if page.when < site.now %}
                         <time-ago datetime="{{ page.when | date_to_xmlschema }}">
