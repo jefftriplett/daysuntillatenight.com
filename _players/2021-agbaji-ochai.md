@@ -13,7 +13,7 @@ number: 30
 position: Guard
 projected: ''
 slug: 2021-agbaji-ochai
-status: active
+status: declaring
 weight: 215 lbs.
 year: 2021
 ---
