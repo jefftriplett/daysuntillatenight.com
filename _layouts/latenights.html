@@ -3,9 +3,10 @@ layout: default
 ---
 
 <!-- returning players -->
-<h2 class="text-xl sm:text-4xl rounded-md sm:rounded-2xl text-white text-center py-1 my-2 sm:py-2 sm:my-4 bg-[#E8000D]" id="heading-roster">{{ page.season }} Men's Basketball Roster</h2>
-
-{% include player-list.html current_year=page.current_year status="active" title="Men's Basketball Roster" %}
+{% capture page_title %}
+    {{ page.season }} Men's Basketball Roster
+{% endcapture %}
+{% include player-list.html current_year=page.current_year status="active" title=page_title %}
 
 <!-- leaving / declaring players -->
 {% include player-list.html current_year=page.current_year status="declaring" title="Declaring" %}
