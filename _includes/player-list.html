@@ -13,7 +13,7 @@
                 {% if player.status contains include.status %}
                     <div>
                         <div class="flex-none">
-                            <img class="w-32 h-32 rounded-2xl md:w-48 lg:w-64 md:h-48 lg:h-64 lazy" src="/images/blank.gif" data-src="{{ player.image }}">
+                            <img class="w-32 h-32 rounded-2xl md:w-48 md:h-48 lg:w-64 lg:h-64 lazy" src="/images/blank.gif" data-src="{{ player.image }}">
                         </div>
                         <div class="flex-1 p-2 align-middle sm:p-3">
                             <h2 class="text-xl font-bold text-white sm:text-2xl">
@@ -22,12 +22,12 @@
                                 {% endif %}
                                 {{ player.first_name }} {{ player.last_name }}
                             </h2>
-                            <div class="font-bold text-white text-md sm:text-xl">{{ player.class }}</div>
-                            <div class="font-bold text-white text-md sm:text-xl">{{ player.hometown }}</div>
+                            <div class="font-bold text-white sm:text-xl text-md">{{ player.class }}</div>
+                            <div class="font-bold text-white sm:text-xl text-md">{{ player.hometown }}</div>
                             {% if include.status == "active" %}
-                                <div class="font-bold text-white text-md sm:text-lg">{{ player.status_reason }}</div>
+                                <div class="font-bold text-white sm:text-lg text-md">{{ player.status_reason }}</div>
                             {% else %}
-                                <div class="font-bold text-white text-md sm:text-lg">{{ player.departing_reason }}</div>
+                                <div class="font-bold text-white sm:text-lg text-md">{{ player.departing_reason }}</div>
                             {% endif %}
                         </div>
                     </div>
