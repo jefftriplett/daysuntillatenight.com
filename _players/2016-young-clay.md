@@ -2,7 +2,7 @@
 class: Junior
 departing_reason: ''
 first_name: Clay
-height: 6'5''
+height: 6'5"
 high_school: Lansing HS
 hometown: Lansing, Kan.
 image: /images/players/young.jpeg

@@ -1,7 +1,7 @@
 ---
 class: Freshman
 first_name: Cheick
-height: 6'9''
+height: 6'9"
 high_school: Our Savior New American HS [N.Y.]
 hometown: Kayes, Mali, Africa
 last_name: Diallo

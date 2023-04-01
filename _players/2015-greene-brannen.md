@@ -1,7 +1,7 @@
 ---
 class: Junior
 first_name: Brannen
-height: 6'7''
+height: 6'7"
 high_school: Tift County HS
 hometown: Juliette, Ga.
 last_name: Greene

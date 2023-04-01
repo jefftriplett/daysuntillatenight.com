@@ -1,7 +1,7 @@
 ---
 class: Junior
 first_name: Frank
-height: 5'11''
+height: 5'11"
 high_school: Petersburg HS
 hometown: Petersburg, Va.
 last_name: Mason III

@@ -2,7 +2,7 @@
 class: Freshman
 departing_reason: null
 first_name: Ochai
-height: 6'5''
+height: 6'5"
 high_school: Oak Park HS
 hometown: Kansas City, Mo.
 image: /images/blank.gif

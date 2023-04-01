@@ -1,7 +1,7 @@
 ---
 class: Senior
 first_name: Christian
-height: 6'4''
+height: 6'4"
 high_school: Campbell Hall School
 hometown: Los Angeles, Calif.
 last_name: Garrett

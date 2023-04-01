@@ -2,7 +2,7 @@
 class: Junior
 departing_reason: ''
 first_name: Marcus
-height: 6'5''
+height: 6'5"
 high_school: Skyline HS
 hometown: Dallas, Texas
 image: https://kuathletics.com/wp-content/uploads/2020/09/Garrett_Marcus_09082020-600x500.jpg

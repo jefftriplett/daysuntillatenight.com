@@ -2,7 +2,7 @@
 class: Junior
 departing_reason: ''
 first_name: Dedric
-height: 6'9''
+height: 6'9"
 high_school: Hamilton HS
 hometown: Memphis, Tenn.
 image: https://kuathletics.com/images/2018/6/27/Lawson_Dedric_06252018.jpg?width=182&height=250&mode=crop&anchor=topcenter

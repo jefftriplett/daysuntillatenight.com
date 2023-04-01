@@ -1,7 +1,7 @@
 ---
 class: Senior
 first_name: Jamari
-height: 6'8''
+height: 6'8"
 high_school: Julian HS
 hometown: Chicago, Ill.
 last_name: Traylor

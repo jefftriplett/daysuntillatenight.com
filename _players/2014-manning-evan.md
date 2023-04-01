@@ -1,7 +1,7 @@
 ---
 class: Junior
 first_name: Evan
-height: 6'3''
+height: 6'3"
 high_school: Lawrence Free State HS
 hometown: Lawrence, Kan.
 last_name: Manning

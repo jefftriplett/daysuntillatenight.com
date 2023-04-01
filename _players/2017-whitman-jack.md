@@ -1,7 +1,7 @@
 ---
 class: Senior
 first_name: Jack
-height: 6'9''
+height: 6'9"
 high_school: Lexington Catholic HS
 hometown: Lexington, Ky.
 last_name: Whitman

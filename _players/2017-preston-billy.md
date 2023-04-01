@@ -2,7 +2,7 @@
 class: Freshman
 departing_reason: ''
 first_name: Billy
-height: 6'10''
+height: 6'10"
 high_school: Oak Hill Academy [Va.]
 hometown: Los Angeles, Calif.
 image: /images/players/preston.jpeg

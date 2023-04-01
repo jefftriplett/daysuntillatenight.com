@@ -2,7 +2,7 @@
 class: Freshman
 departing_reason: ''
 first_name: Sam
-height: 6'6''
+height: 6'6"
 high_school: Rainier Beach HS
 hometown: Seattle, Wash.
 image: /images/players/cunliffe.jpeg

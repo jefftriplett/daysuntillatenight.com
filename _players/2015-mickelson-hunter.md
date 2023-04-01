@@ -1,7 +1,7 @@
 ---
 class: Senior
 first_name: Hunter
-height: 6'10''
+height: 6'10"
 high_school: Westside HS
 hometown: Jonesboro, Ark.
 last_name: Mickelson

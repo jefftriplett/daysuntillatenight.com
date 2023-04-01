@@ -2,7 +2,7 @@
 class: Freshman
 departing_reason: ''
 first_name: Garrett
-height: 6'2''
+height: 6'2"
 high_school: Lawrence Free State HS
 hometown: Lawrence, Kan.
 image: https://kuathletics.com/images/2018/6/27/Luinstra_Garrett_06252018.jpg?width=182&height=250&mode=crop&anchor=topcenter

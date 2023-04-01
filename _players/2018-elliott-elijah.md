@@ -2,7 +2,7 @@
 class: Freshman
 departing_reason: null
 first_name: Elijah
-height: 6'3''
+height: 6'3"
 high_school: Carroll Senior HS
 hometown: Southlake, Texas
 image: /images/blank.gif

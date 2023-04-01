@@ -1,7 +1,7 @@
 ---
 class: Junior
 first_name: Tucker
-height: 6'2''
+height: 6'2"
 high_school: Goddard HS
 hometown: Goddard, Kan.
 last_name: Vang

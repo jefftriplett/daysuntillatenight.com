@@ -2,7 +2,7 @@
 class: RS-Freshman
 departing_reason: ''
 first_name: Elijah
-height: 6'3''
+height: 6'3"
 high_school: Carroll Senior HS
 hometown: Southlake, Texas
 image: https://kuathletics.com/wp-content/uploads/2018/06/Elliott_Elijah_06252018-1024x853.jpg

@@ -2,7 +2,7 @@
 class: Senior
 departing_reason: ''
 first_name: Devonte'
-height: 6'2''
+height: 6'2"
 high_school: Broughton HS
 hometown: Raleigh, N.C.
 image: /images/players/graham4.jpeg

@@ -2,7 +2,7 @@
 class: Junior
 departing_reason: ''
 first_name: Sviatoslav
-height: 6'8''
+height: 6'8"
 high_school: Cherkasy First City Gymnasia
 hometown: Cherkasy, Ukraine
 image: /images/players/mykhailiuk4.jpeg

@@ -1,7 +1,7 @@
 ---
 class: Freshman
 first_name: Cliff
-height: 6'8''
+height: 6'8"
 high_school: Curie HS
 hometown: Chicago, Ill.
 last_name: Alexander

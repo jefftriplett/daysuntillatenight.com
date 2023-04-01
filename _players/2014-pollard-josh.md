@@ -1,7 +1,7 @@
 ---
 class: Freshman
 first_name: Josh
-height: 6'4''
+height: 6'4"
 high_school: Orem HS
 hometown: Cedar Hills, Utah
 last_name: Pollard

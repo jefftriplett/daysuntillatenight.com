@@ -1,7 +1,7 @@
 ---
 class: Sophomore
 first_name: Wayne
-height: 6'5''
+height: 6'5"
 high_school: Tilton School [N.H.]
 hometown: Roxbury, Mass.
 last_name: Selden Jr.

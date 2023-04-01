@@ -1,7 +1,7 @@
 ---
 class: Senior
 first_name: Tyler
-height: 6'2''
+height: 6'2"
 high_school: Lawrence Free State HS
 hometown: Lawrence, Kan.
 last_name: Self

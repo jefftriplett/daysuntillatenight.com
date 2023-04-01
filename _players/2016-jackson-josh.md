@@ -1,7 +1,7 @@
 ---
 class: Freshman
 first_name: Josh
-height: 6'8''
+height: 6'8"
 high_school: Justin-Siena HS [Calif.]
 hometown: Detroit, Mich.
 last_name: Jackson

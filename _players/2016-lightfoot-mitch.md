@@ -2,7 +2,7 @@
 class: Freshman
 departing_reason: ''
 first_name: Mitch
-height: 6'8''
+height: 6'8"
 high_school: Gilbert Christian HS
 hometown: Gilbert, Ariz.
 image: https://kuathletics.com/wp-content/uploads/2020/09/Lightfoot_Mitch_09082020-600x500.jpg

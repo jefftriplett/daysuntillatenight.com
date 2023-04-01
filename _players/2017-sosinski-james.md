@@ -1,7 +1,7 @@
 ---
 class: Junior
 first_name: James
-height: 6'7''
+height: 6'7"
 high_school: Hamilton HS
 hometown: Chandler, Ariz.
 last_name: Sosinski

@@ -1,7 +1,7 @@
 ---
 class: Freshman
 first_name: Kelly
-height: 6'7''
+height: 6'7"
 high_school: George Bush HS [Texas]
 hometown: New Orleans, La.
 last_name: Oubre Jr.

@@ -1,7 +1,7 @@
 ---
 class: Sophomore
 first_name: Carlton
-height: 6'10''
+height: 6'10"
 high_school: Villa Angela-St. Joseph HS
 hometown: Cleveland, Ohio
 last_name: Bragg Jr.

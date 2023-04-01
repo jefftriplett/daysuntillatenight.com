@@ -2,7 +2,7 @@
 class: Senior
 departing_reason: ''
 first_name: David
-height: 6'10''
+height: 6'10"
 high_school: Oak Hill Academy
 hometown: Norfolk, Va.
 image: https://kuathletics.com/wp-content/uploads/2018/06/McCormack_David_06252018-1024x853.jpg

@@ -1,7 +1,7 @@
 ---
 class: Senior
 first_name: Perry
-height: 6'8''
+height: 6'8"
 high_school: Wichita Heights HS
 hometown: Wichita, Kan.
 last_name: Ellis

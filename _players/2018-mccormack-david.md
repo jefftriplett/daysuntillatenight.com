@@ -2,7 +2,7 @@
 class: Freshman
 departing_reason: null
 first_name: David
-height: 6'10''
+height: 6'10"
 high_school: Oak Hill Academy
 hometown: Norfolk, Va.
 image: /images/blank.gif
