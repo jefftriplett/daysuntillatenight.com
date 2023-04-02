@@ -14,6 +14,7 @@ position: Guard
 projected: ''
 slug: 2018-moore-charlie
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2018-19/player/charlie-moore/
 weight: 180 lbs.
 year: 2018
 ---

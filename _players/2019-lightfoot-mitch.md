@@ -13,6 +13,7 @@ position: Forward
 projected: ''
 slug: 2019-lightfoot-mitch
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2019-20/player/mitch-lightfoot/
 weight: 225 lbs.
 year: 2019
 ---

@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2019-moss-isaiah
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2019-20/player/isaiah-moss/
 weight: 208 lbs
 year: 2019
 ---

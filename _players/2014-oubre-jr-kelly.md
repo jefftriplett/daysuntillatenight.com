@@ -9,6 +9,7 @@ number: 12
 position: Guard
 slug: 2014-oubre-jr-kelly
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2014-15/player/kelly-oubre-jr/
 weight: 200 lbs.
 year: 2014
 ---

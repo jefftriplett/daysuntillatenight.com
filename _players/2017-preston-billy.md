@@ -13,6 +13,7 @@ position: Forward
 projected: ''
 slug: 2017-preston-billy
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2017-18/player/billy-preston/
 weight: 240 lbs.
 year: 2017
 ---

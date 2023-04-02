@@ -9,6 +9,7 @@ number: 22
 position: Guard
 slug: 2014-pollard-josh
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2014-15/player/josh-pollard/
 weight: 200 lbs.
 year: 2014
 ---

@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2015-young-clay
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2015-16/player/clay-young/
 weight: 205 lbs.
 year: 2015
 ---

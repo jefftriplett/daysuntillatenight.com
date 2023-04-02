@@ -14,6 +14,7 @@ position: Guard
 projected: ''
 slug: 2017-lawson-k-j
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2017-18/player/k-j-lawson/
 weight: 205 lbs.
 year: 2017
 ---

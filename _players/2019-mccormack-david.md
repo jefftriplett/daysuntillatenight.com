@@ -13,6 +13,7 @@ position: Forward
 projected: ''
 slug: 2019-mccormack-david
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2019-20/player/david-mccormack/
 weight: '265'
 year: 2019
 ---

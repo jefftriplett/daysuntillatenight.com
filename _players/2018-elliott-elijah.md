@@ -13,6 +13,7 @@ position: Guard
 projected: null
 slug: 2018-elliott-elijah
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2018-19/player/elijah-elliott/
 weight: 185 lbs.
 year: 2018
 ---

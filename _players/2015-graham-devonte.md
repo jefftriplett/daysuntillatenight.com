@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2015-graham-devonte
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2015-16/player/devonte-graham/
 weight: 175 lbs.
 year: 2015
 ---

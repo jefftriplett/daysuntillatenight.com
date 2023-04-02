@@ -9,6 +9,7 @@ number: 5
 position: Guard
 slug: 2014-manning-evan
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2014-15/player/evan-manning/
 weight: 170 lbs.
 year: 2014
 ---

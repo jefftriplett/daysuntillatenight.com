@@ -9,6 +9,7 @@ number: 20
 position: Guard
 slug: 2016-self-tyler
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2016-17/player/tyler-self/
 weight: 170 lbs.
 year: 2016
 ---

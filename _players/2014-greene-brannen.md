@@ -9,6 +9,7 @@ number: 14
 position: Guard
 slug: 2014-greene-brannen
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2014-15/player/brannen-greene/
 weight: 215 lbs.
 year: 2014
 ---

@@ -9,6 +9,7 @@ number: 11
 position: Guard
 slug: 2014-self-tyler
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2014-15/player/tyler-self/
 weight: 165 lbs.
 year: 2014
 ---

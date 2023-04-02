@@ -13,6 +13,7 @@ position: Guard
 projected: null
 slug: 2018-agbaji-ochai
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2018-19/player/ochai-agbaji/
 weight: 210 lbs.
 year: 2018
 ---

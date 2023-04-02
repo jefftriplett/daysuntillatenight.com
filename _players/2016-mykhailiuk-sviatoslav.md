@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2016-mykhailiuk-sviatoslav
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2016-17/player/sviatoslav-mykhailiuk/
 weight: 205 lbs.
 year: 2016
 ---

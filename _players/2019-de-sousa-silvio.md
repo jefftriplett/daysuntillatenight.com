@@ -13,6 +13,7 @@ position: Forward
 projected: ''
 slug: 2019-de-sousa-silvio
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2019-20/player/silvio-de-sousa/
 weight: 245 lbs.
 year: 2019
 ---

@@ -13,6 +13,7 @@ position: Guard/Forward
 projected: ''
 slug: 2019-enaruna-tristan
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2019-20/player/tristan-enaruna/
 weight: 215 lbs
 year: 2019
 ---

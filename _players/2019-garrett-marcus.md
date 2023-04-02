@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2019-garrett-marcus
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2019-20/player/marcus-garrett/
 weight: 205 lbs.
 year: 2019
 ---

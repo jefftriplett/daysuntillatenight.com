@@ -13,6 +13,7 @@ position: Center
 projected: ''
 slug: 2017-azubuike-udoka
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2017-18/player/udoka-azubuike/
 weight: 280 lbs.
 year: 2017
 ---

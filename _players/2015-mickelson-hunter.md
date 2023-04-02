@@ -9,6 +9,7 @@ number: 42
 position: Forward
 slug: 2015-mickelson-hunter
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2015-16/player/hunter-mickelson/
 weight: 245 lbs.
 year: 2015
 ---

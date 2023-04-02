@@ -14,6 +14,7 @@ position: Guard
 projected: ''
 slug: 2018-vick-lagerald
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2018-19/player/lagerald-vick/
 weight: 190 lbs.
 year: 2018
 ---

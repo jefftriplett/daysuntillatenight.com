@@ -14,6 +14,7 @@ position: Forward
 projected: ''
 slug: 2017-lawson-dedric
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2017-18/player/dedric-lawson/
 weight: 230 lbs.
 year: 2017
 ---

@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2017-newman-malik
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2017-18/player/malik-newman/
 weight: 190 lbs.
 year: 2017
 ---

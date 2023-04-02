@@ -14,6 +14,7 @@ position: Guard
 projected: ''
 slug: 2016-cunliffe-sam
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2016-17/player/sam-cunliffe/
 weight: 200 lbs.
 year: 2016
 ---

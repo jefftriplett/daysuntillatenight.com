@@ -9,6 +9,7 @@ number: 41
 position: Forward
 slug: 2017-whitman-jack
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2017-18/player/jack-whitman/
 weight: 235 lbs.
 year: 2017
 ---

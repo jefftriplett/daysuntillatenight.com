@@ -9,6 +9,7 @@ number: 34
 position: Forward
 slug: 2015-ellis-perry
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2015-16/player/perry-ellis/
 weight: 225 lbs.
 year: 2015
 ---

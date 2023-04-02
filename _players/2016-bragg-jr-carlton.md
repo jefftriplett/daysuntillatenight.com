@@ -9,6 +9,7 @@ number: 15
 position: Forward
 slug: 2016-bragg-jr-carlton
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2016-17/player/carlton-bragg-jr/
 weight: 240 lbs.
 year: 2016
 ---

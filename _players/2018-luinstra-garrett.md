@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2018-luinstra-garrett
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2018-19/player/garrett-luinstra/
 weight: 155 lbs.
 year: 2018
 ---

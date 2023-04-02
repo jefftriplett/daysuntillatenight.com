@@ -9,6 +9,7 @@ number: 22
 position: Forward
 slug: 2016-coleby-jr-dwight
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2016-17/player/dwight-coleby-jr/
 weight: 240 lbs.
 year: 2016
 ---

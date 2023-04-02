@@ -9,6 +9,7 @@ number: 31
 position: Forward
 slug: 2015-traylor-jamari
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2015-16/player/jamari-traylor/
 weight: 220 lbs.
 year: 2015
 ---

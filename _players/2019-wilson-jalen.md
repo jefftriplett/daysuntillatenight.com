@@ -13,6 +13,7 @@ position: Forward
 projected: ''
 slug: 2019-wilson-jalen
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2019-20/player/jalen-wilson/
 weight: 215 lbs
 year: 2019
 ---
