@@ -33,8 +33,8 @@ class Player(BaseModel):
     redshirt: Optional[bool] = None
     slug: Optional[str] = None
     status: Optional[str] = "active"
+    url: Optional[str] = None
     weight: Optional[str] = None
-    # year: str
     year: int
 
     def __init__(self, **data):
