@@ -15,6 +15,6 @@ projected: ''
 slug: 2021-wilson-jalen
 status: active
 url: https://kuathletics.com/sports/mbball/roster/season/2021-22/player/jalen-wilson/
-weight: 225 lbs
+weight: 225 lbs.
 year: 2021
 ---

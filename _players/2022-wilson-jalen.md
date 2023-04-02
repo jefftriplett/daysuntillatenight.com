@@ -13,6 +13,6 @@ projected: ''
 slug: 2022-wilson-jalen
 status: declaring
 url: https://kuathletics.com/sports/mbball/roster/season/2022-23/player/jalen-wilson/
-weight: 225 lbs
+weight: 225 lbs.
 year: 2022
 ---

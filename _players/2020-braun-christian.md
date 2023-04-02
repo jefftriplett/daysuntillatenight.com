@@ -14,6 +14,6 @@ projected: ''
 slug: 2020-braun-christian
 status: active
 url: https://kuathletics.com/sports/mbball/roster/season/2020-21/player/christian-braun/
-weight: 218 lbs
+weight: 218 lbs.
 year: 2020
 ---

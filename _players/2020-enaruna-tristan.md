@@ -14,6 +14,6 @@ projected: ''
 slug: 2020-enaruna-tristan
 status: active
 url: https://kuathletics.com/sports/mbball/roster/season/2020-21/player/tristan-enaruna/
-weight: 215 lbs
+weight: 215 lbs.
 year: 2020
 ---
