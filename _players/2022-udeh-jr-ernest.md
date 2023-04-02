@@ -13,6 +13,7 @@ position: Center
 projected: ''
 slug: 2022-udeh-jr-ernest
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2022-23/player/ernest-udeh-jr/
 weight: 250 lbs.
 year: 2022
 ---

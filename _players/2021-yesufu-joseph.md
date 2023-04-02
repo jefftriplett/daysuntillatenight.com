@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2021-yesufu-joseph
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2021-22/player/joseph-yesufu/
 weight: 180 lbs.
 year: 2021
 ---

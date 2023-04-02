@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2020-harris-jr-dajuan
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2020-21/player/157526/
 weight: 175 lbs.
 year: 2020
 ---

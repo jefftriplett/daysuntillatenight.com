@@ -9,6 +9,7 @@ number: 15
 position: Guard
 slug: 2022-mccullar-jr-kevin
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2022-23/player/kevin-mccullar/
 weight: 210 lbs.
 year: 2022
 ---

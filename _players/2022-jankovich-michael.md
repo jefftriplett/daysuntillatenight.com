@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2022-jankovich-michael
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2022-23/player/michael-jankovich/
 weight: 190 lbs
 year: 2022
 ---

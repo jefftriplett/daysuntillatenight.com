@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2022-dick-gradey
 status: declaring
+url: https://kuathletics.com/sports/mbball/roster/season/2022-23/player/gradey-dick/
 weight: 205 lbs.
 year: 2022
 ---

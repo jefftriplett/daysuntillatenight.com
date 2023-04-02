@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2022-yesufu-joseph
 status: departing
+url: https://kuathletics.com/sports/mbball/roster/season/2022-23/player/joseph-yesufu/
 weight: 180 lbs.
 year: 2022
 ---

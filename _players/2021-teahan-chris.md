@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2021-teahan-chris
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2021-22/player/chris-teahan/
 weight: 195 lbs.
 year: 2021
 ---

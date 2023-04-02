@@ -10,6 +10,7 @@ number: 0
 position: Guard
 slug: 2021-pettiford-jr-bobby
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2021-22/player/bobby-pettiford/
 weight: 190 lbs.
 year: 2021
 ---

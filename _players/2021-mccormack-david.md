@@ -13,6 +13,7 @@ position: Forward
 projected: ''
 slug: 2021-mccormack-david
 status: declaring
+url: https://kuathletics.com/sports/mbball/roster/season/2021-22/player/david-mccormack/
 weight: 250 lbs.
 year: 2021
 ---

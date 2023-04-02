@@ -10,6 +10,7 @@ number: 24
 position: Forward
 slug: 2022-adams-jr-kj
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2022-23/player/kj-adams/
 weight: 225 lbs.
 year: 2022
 ---

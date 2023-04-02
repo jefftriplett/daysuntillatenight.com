@@ -13,6 +13,7 @@ position: Forward
 projected: ''
 slug: 2022-clemence-zach
 status: departing
+url: https://kuathletics.com/sports/mbball/roster/season/2022-23/player/zach-clemence/
 weight: 230 lbs.
 year: 2022
 ---

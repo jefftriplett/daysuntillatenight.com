@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2020-jankovich-michael
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2020-21/player/michael-jankovich/
 weight: 190 lbs
 year: 2020
 ---

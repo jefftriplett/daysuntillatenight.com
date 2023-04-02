@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2021-coleman-lands-jalen
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2021-22/player/jalen-coleman-lands/
 weight: 190 lbs.
 year: 2021
 ---

@@ -13,6 +13,7 @@ position: Forward
 projected: ''
 slug: 2022-ejiofor-zuby
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2022-23/player/zuby-ejiofor/
 weight: 240 lbs.
 year: 2022
 ---

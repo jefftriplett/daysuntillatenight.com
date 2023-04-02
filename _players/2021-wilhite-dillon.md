@@ -13,6 +13,7 @@ position: Forward
 projected: null
 slug: 2021-wilhite-dillon
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2021-22/player/dillon-wilhite/
 weight: 240 lbs.
 year: 2021
 ---

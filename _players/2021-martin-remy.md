@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2021-martin-remy
 status: declaring
+url: https://kuathletics.com/sports/mbball/roster/season/2021-22/player/remy-martin/
 weight: 175 lbs.
 year: 2021
 ---

@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2021-mccarthy-charlie
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2021-22/player/charlie-mccarthy/
 weight: 195 lbs.
 year: 2021
 ---

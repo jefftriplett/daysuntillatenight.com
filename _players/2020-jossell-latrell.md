@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2020-jossell-latrell
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2020-21/player/157526-2-2/
 weight: 160 lbs.
 year: 2020
 ---

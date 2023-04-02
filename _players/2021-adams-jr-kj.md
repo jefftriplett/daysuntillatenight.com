@@ -13,6 +13,7 @@ position: Forward
 projected: null
 slug: 2021-adams-jr-kj
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2021-22/player/kj-adams/
 weight: 225 lbs.
 year: 2021
 ---

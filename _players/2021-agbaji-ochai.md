@@ -14,6 +14,7 @@ position: Guard
 projected: ''
 slug: 2021-agbaji-ochai
 status: declaring
+url: https://kuathletics.com/sports/mbball/roster/season/2021-22/player/ochai-agbaji/
 weight: 215 lbs.
 year: 2021
 ---

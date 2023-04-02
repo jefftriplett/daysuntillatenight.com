@@ -13,6 +13,7 @@ position: Guard
 projected: ''
 slug: 2021-cuffe-jr-kyle
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2021-22/player/kyle-cuffe-jr/
 weight: 185 lbs.
 year: 2021
 ---

@@ -13,6 +13,7 @@ position: Forward
 projected: ''
 slug: 2021-martin-cam
 status: active
+url: https://kuathletics.com/sports/mbball/roster/season/2021-22/player/cam-martin/
 weight: 230 lbs.
 year: 2021
 ---
