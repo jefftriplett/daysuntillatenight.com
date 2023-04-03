@@ -6,13 +6,29 @@ layout: default
 {% capture page_title %}
   {{ page.season }} Men's Basketball Roster
 {% endcapture %}
-{% include player-list.html current_year=page.current_year title=page_title %}
+
+{% include player-list.html
+current_year=page.current_year
+title=page_title
+%}
 
 <!-- leaving / declaring players -->
-{% include player-list.html current_year=page.current_year status="declaring" title="Declaring for the NBA Draft" %}
+{% include player-list.html
+current_year=page.current_year
+status="declaring"
+title="Declaring for the NBA Draft"
+%}
 
 <!-- leaving / transferring players -->
-{% include player-list.html current_year=page.current_year status="departing" title="Entering the Transfer Portal" %}
+{% include player-list.html
+current_year=page.current_year
+status="departing"
+title="Entering the Transfer Portal"
+%}
 
 <!-- unknown status players -->
-{% include player-list.html current_year=page.current_year status="unknown" title="Unknown" %}
+{% include player-list.html
+current_year=page.current_year
+status="unknown"
+title="Unknown"
+%}
