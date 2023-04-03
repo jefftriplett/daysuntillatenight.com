@@ -5,7 +5,7 @@ first_name: Dillon
 height: 6'9"
 high_school: Cathedral Catholic HS
 hometown: San Diego, Calif.
-image: https://kuathletics.com/wp-content/uploads/2021/07/Dillon-Wilhite-15.jpg
+image: https://kuathletics.com/wp-content/uploads/2021/07/Dillon-Wilhite-15-600x500.jpg
 last_name: Wilhite
 notes: null
 number: 15

@@ -5,7 +5,7 @@ first_name: Charlie
 height: 6'2"
 high_school: Shadow Hills HS
 hometown: Rancho Mirage, Calif.
-image: https://kuathletics.com/wp-content/uploads/2021/07/Charlie-McCarthy-13.jpg
+image: https://kuathletics.com/wp-content/uploads/2021/07/Charlie-McCarthy-13-600x500.jpg
 last_name: McCarthy
 notes: ''
 number: 13

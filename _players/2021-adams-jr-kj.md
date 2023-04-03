@@ -5,7 +5,7 @@ first_name: KJ
 height: 6'7"
 high_school: Westlake HS
 hometown: Austin, Texas
-image: /images/blank.gif
+image: https://kuathletics.com/wp-content/uploads/2021/07/KJ-Adams-24-600x500.jpg
 last_name: Adams Jr.
 notes: null
 number: 24

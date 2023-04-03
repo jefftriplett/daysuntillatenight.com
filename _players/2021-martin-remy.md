@@ -5,7 +5,7 @@ first_name: Remy
 height: 6'0"
 high_school: Sierra Canyon / Arizona St.
 hometown: Burbank, Calif.
-image: https://kuathletics.com/wp-content/uploads/2021/09/MBB_Martin_Remy_HS_1052-300x280.jpg
+image: https://kuathletics.com/wp-content/uploads/2021/09/MBB_Martin_Remy_HS_1052-600x400.jpg
 last_name: Martin
 notes: ''
 number: 11

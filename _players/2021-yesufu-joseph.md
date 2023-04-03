@@ -5,7 +5,7 @@ first_name: Joseph
 height: 6'0"
 high_school: Bilingbrook HS / Drake
 hometown: Bolingbrook, Ill.
-image: https://kuathletics.com/wp-content/uploads/2021/07/Joseph-Yesufu-1a.jpg
+image: https://kuathletics.com/wp-content/uploads/2021/07/Joseph-Yesufu-1a-600x500.jpg
 last_name: Yesufu
 notes: ''
 number: 1
