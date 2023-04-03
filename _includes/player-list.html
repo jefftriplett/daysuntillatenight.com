@@ -1,5 +1,9 @@
-{% assign players = site.players | where: 'year', include.current_year | where: 'status', include.status | sort: "number" %}
 
+{% if include.status %}
+  {% assign players = site.players | where: 'year', include.current_year | where: 'status', include.status | sort: "number" %}
+{% else %}
+  {% assign players = site.players | where: 'year', include.current_year | sort: "number" %}
+{% endif %}
 {% assign players_count = players | size %}
 
 {% if players_count != 0 %}
@@ -11,9 +15,9 @@
     {%- for player in players -%}
       <div class="flex items-center">
         <div class="py-2 px-4 mx-auto rounded-2xl border-2 border-blue-700">
-          <img class="object-scale-down w-32 h-32 rounded-2xl md:w-48 md:h-48 lg:w-64 lg:h-64 lazy"
-               src="/images/blank.gif"
-               data-src="{{ player.image }}">
+          <img class="object-cover w-32 h-32 md:w-48 md:h-48 lg:w-64 lg:h-64 lazy"
+               data-src="{{ player.image }}"
+               src="/images/blank.gif">
           <h2 class="text-xl font-bold text-white sm:text-2xl">
             {% if player.number and player.number != 99 %}
               #{{ player.number }}
