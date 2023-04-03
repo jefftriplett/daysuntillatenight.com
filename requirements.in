@@ -1,4 +1,5 @@
 bs4
+playwright
 pydantic
 python-frontmatter
 python-slugify

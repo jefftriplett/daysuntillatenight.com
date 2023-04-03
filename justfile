@@ -21,7 +21,7 @@ TAILWIND_CSS_VERSION := "latest"
     pre-commit run --all-files
 
 @pip-compile *ARGS:
-    pip-compile {{ ARGS }}
+    pip-compile --resolver=backtracking {{ ARGS }}
 
 @pre-commit *ARGS:
     pre-commit run {{ ARGS }} --all-files
