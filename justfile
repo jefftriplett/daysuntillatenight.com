@@ -3,29 +3,35 @@ TAILWIND_CSS_VERSION := "latest"
 @_default:
     just --list
 
-@build:
-    bundle exec jekyll build
+@fmt:
+    just --fmt --unstable
+
+# ----
+
+@bootstrap:
+    pip install --upgrade pip pip-tools
+    pip install --upgrade --requirement requirements.in
 
 @lint:
-    -black --check .
-
-    #-curlylint _includes/ _layouts/
-
-    -djhtml \
-        --in-place \
-        --tabwidth 4 \
-        *.html _includes/*.html _layouts/*.html
-
-    -rustywind \
-        --write \
-        .
-
+    pre-commit run --all-files
 
 @pip-compile:
-    pip-compile
+    pip-compile --upgrade
+
+@pre-commit *ARGS:
+    pre-commit run {{ ARGS }} --all-files
 
 @serve:
     modd --file=modd.conf
+
+@update:
+    just bootstrap
+    just pip-compile
+
+# ----
+
+@build:
+    bundle exec jekyll build
 
 @static:
     JEKYLL_ENV=production \
@@ -38,9 +44,6 @@ TAILWIND_CSS_VERSION := "latest"
     	--input ./src/styles.css \
     	--config ./tailwind.config.js \
     	--output ./css/development.css
-
-@update +YEAR="2022":
-    python main.py sync --sheet-name={{ YEAR }}
 
 @update-all-sheets:
     python main.py sync --all-sheets
@@ -72,11 +75,6 @@ TAILWIND_CSS_VERSION := "latest"
 # updates a project to run at its current version
 # @update:
 #     just bootstrap
-
 # ----
-
-@fmt:
-    just --fmt --unstable
-
 # @screenshots ARGS="--no-clobber":
 #     shot-scraper multi {{ ARGS }} ./shots.yml
