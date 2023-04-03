@@ -5,7 +5,7 @@ first_name: Kyle
 height: 6'2"
 high_school: Blair Academy
 hometown: Harlem, N.Y.
-image: https://kuathletics.com/wp-content/uploads/2021/07/Kyle-Cuffe-Jr.-5.jpg
+image: https://kuathletics.com/wp-content/uploads/2021/07/Kyle-Cuffe-Jr.-5-600x500.jpg
 last_name: Cuffe Jr.
 notes: ''
 number: 5

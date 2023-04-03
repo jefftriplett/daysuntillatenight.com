@@ -4,6 +4,7 @@ first_name: Kevin
 height: 6'6"
 high_school: Wagner HS / Texas Tech
 hometown: San Antonio, Texas
+image: https://kuathletics.com/wp-content/uploads/2022/07/McCullarJr_Kevin_2022_6045-600x500.jpg
 last_name: McCullar Jr.
 number: 15
 position: Guard

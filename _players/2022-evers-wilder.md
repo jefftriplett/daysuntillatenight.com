@@ -4,6 +4,7 @@ first_name: Wilder
 height: 6'3"
 high_school: Oak Mountain HS
 hometown: Birmingham, Ala.
+image: https://kuathletics.com/wp-content/uploads/2022/07/Evers_Wilder_2022_6017-600x500.jpg
 last_name: Evers
 number: 12
 position: Guard

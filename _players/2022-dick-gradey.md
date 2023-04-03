@@ -5,7 +5,7 @@ first_name: Gradey
 height: 6'8"
 high_school: Sunrise Christian Academy [Kan.]
 hometown: Wichita, Kan.
-image: /images/blank.gif
+image: https://kuathletics.com/wp-content/uploads/2022/07/Dick_Gradey_2022_6135-600x500.jpg
 last_name: Dick
 notes: ''
 number: 4
