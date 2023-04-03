@@ -5,7 +5,7 @@ first_name: Bryce
 height: 6'5"
 high_school: Booker T. Washington HS
 hometown: Tulsa, Oklahoma
-image: https://kuathletics.com/wp-content/uploads/2020/09/Thompson_Bryce_09082020-600x500.jpg
+image: https://kuathletics.com/wp-content/uploads/2020/09/Muscadin_Gethro_09082020-600x500.jpg
 last_name: Thompson
 notes: ''
 number: 24

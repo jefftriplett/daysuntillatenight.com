@@ -5,7 +5,7 @@ first_name: Dajuan
 height: 6'1"
 high_school: Rock Bridge HS
 hometown: Columbia, Mo.
-image: https://kuathletics.com/wp-content/uploads/2019/09/Harris_Dejuan_08292019-1024x853.jpg
+image: https://kuathletics.com/wp-content/uploads/2021/07/Dajuan-Harris-3-600x500.jpg
 last_name: Harris Jr.
 notes: ''
 number: 3
