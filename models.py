@@ -63,6 +63,12 @@ class Player(BaseModel):
             return None
         return v
 
+    @validator("weight", pre=True)
+    def weight_normalized(cls, v: Optional[str]) -> Optional[str]:
+        if v and v.endswith("lbs"):
+            return f"{v}."
+        return v
+
 
 class Year(BaseModel):
     current_year: int
