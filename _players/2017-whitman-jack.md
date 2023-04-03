@@ -4,6 +4,7 @@ first_name: Jack
 height: 6'9"
 high_school: Lexington Catholic HS
 hometown: Lexington, Ky.
+image: https://kuathletics.com/wp-content/uploads/2017/06/Whitman_Jack_06232017.jpg
 last_name: Whitman
 number: 41
 position: Forward

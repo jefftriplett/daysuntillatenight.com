@@ -4,6 +4,7 @@ first_name: Jeff
 height: 7'0"
 high_school: Horizon HS
 hometown: San Diego, Calif.
+image: https://kuathletics.com/wp-content/uploads/2013/06/5667951.jpeg
 last_name: Withey
 number: 5
 position: Center

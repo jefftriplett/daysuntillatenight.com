@@ -4,6 +4,7 @@ first_name: Travis
 height: 6'6"
 high_school: Bishop Miege HS
 hometown: Kansas City, Mo.
+image: https://kuathletics.com/wp-content/uploads/2013/06/5667920.jpeg
 last_name: Releford
 number: 24
 position: Guard

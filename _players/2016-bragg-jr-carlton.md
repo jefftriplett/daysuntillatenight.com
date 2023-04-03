@@ -4,6 +4,7 @@ first_name: Carlton
 height: 6'10"
 high_school: Villa Angela-St. Joseph HS
 hometown: Cleveland, Ohio
+image: https://kuathletics.com/wp-content/uploads/2016/09/Bragg_Carlton_09012016.jpg
 last_name: Bragg Jr.
 number: 15
 position: Forward

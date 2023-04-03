@@ -5,7 +5,7 @@ first_name: Devonte'
 height: 6'2"
 high_school: Broughton HS
 hometown: Raleigh, N.C.
-image: /images/players/graham4.jpeg
+image: https://kuathletics.com/wp-content/uploads/2017/09/Graham_Devonte_.jpg
 last_name: Graham
 notes: ''
 number: 4

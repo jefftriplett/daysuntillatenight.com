@@ -5,7 +5,7 @@ first_name: Christian
 height: 6'6"
 high_school: Blue Valley Northwest HS
 hometown: Burlington, Kan.
-image: /images/blank.gif
+image: https://kuathletics.com/wp-content/uploads/2021/07/Christian-Braun-2-600x500.jpg
 last_name: Braun
 notes: null
 number: 2

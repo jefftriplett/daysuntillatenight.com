@@ -5,7 +5,7 @@ first_name: Malik
 height: 6'3"
 high_school: Callaway HS
 hometown: Jackson, Miss.
-image: /images/players/newman2.jpeg
+image: https://kuathletics.com/wp-content/uploads/2017/09/Newman_Malik.jpg
 last_name: Newman
 notes: ''
 number: 14

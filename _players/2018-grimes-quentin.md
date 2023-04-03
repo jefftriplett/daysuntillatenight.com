@@ -5,7 +5,7 @@ first_name: Quentin
 height: 6'5"
 high_school: College Park HS
 hometown: The Woodlands, Texas
-image: https://kuathletics.com/images/2018/6/27/Grimes_Quentin_06252018.jpg?width=182&height=250&mode=crop&anchor=topcenter
+image: https://kuathletics.com/wp-content/uploads/2018/06/Grimes_Quentin_06252018.jpg
 last_name: Grimes
 notes: ''
 number: 5

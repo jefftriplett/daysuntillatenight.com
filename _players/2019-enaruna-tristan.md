@@ -5,7 +5,7 @@ first_name: Tristan
 height: 6'8"
 high_school: Wasatch Academy [Utah]
 hometown: Almere, Flevoland, Netherlands
-image: https://kuathletics.com/wp-content/uploads/2019/07/Enurana_Tristen_06132019.jpg
+image: https://kuathletics.com/wp-content/uploads/2020/09/Enaruna_Tristan_09082020-600x500.jpg
 last_name: Enaruna
 notes: ''
 number: 13

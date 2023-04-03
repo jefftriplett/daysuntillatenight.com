@@ -6,7 +6,7 @@ first_name: Charlie
 height: 5'11"
 high_school: Morgan Park HS
 hometown: Chicago, Ill.
-image: https://kuathletics.com/images/2018/6/27/Moore_Charlie.JPG?width=182&height=250&mode=crop&anchor=topcenter
+image: https://kuathletics.com/wp-content/uploads/2017/09/Moore_Charlie.jpg
 last_name: Moore
 notes: ''
 number: 2

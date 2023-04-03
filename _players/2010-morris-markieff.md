@@ -4,6 +4,7 @@ first_name: Markieff
 height: 6'10"
 high_school: Prep Charter HS/APEX Academy (NJ)
 hometown: Philadelphia, Pa.
+image: https://kuathletics.com/wp-content/uploads/2013/06/5667909.jpeg
 last_name: Morris
 number: 21
 position: Forward

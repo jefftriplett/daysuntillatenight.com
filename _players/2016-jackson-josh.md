@@ -4,6 +4,7 @@ first_name: Josh
 height: 6'8"
 high_school: Justin-Siena HS [Calif.]
 hometown: Detroit, Mich.
+image: https://kuathletics.com/wp-content/uploads/2016/09/Jackson_Josh_09012016.jpg
 last_name: Jackson
 number: 11
 position: Guard

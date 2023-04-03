@@ -4,6 +4,7 @@ first_name: Andrew
 height: 6'8"
 high_school: Vaughan Secondary School
 hometown: Vaughan, Ontario
+image: https://kuathletics.com/wp-content/uploads/2013/07/Wiggins_Andrew_07112013.jpg
 last_name: Wiggins
 number: 22
 position: Guard

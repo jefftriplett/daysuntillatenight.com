@@ -4,6 +4,7 @@ first_name: Niko
 height: 5'11"
 high_school: Saint Anthony's HS
 hometown: Huntington, N.Y.
+image: https://kuathletics.com/wp-content/uploads/2013/06/5667928.jpeg
 last_name: Roberts
 number: 20
 position: Guard

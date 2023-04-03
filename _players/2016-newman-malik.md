@@ -5,7 +5,7 @@ first_name: Malik
 height: 6'3"
 high_school: Callaway HS
 hometown: Jackson, Miss.
-image: /images/players/newman2.jpeg
+image: https://kuathletics.com/wp-content/uploads/2017/09/Newman_Malik.jpg
 last_name: Newman
 notes: <a href="http://www.kuathletics.com/news/2016/7/1/mens-basketball-malik-newman-transfers-to-kansas.aspx">Sophomore
   (redshirt), Transfer from Mississippi State</a><br>Eligible Fall 2017

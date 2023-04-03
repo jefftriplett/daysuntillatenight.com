@@ -4,6 +4,7 @@ first_name: Josh
 height: 6'2"
 high_school: Lake Clifton Campus
 hometown: Baltimore, Md.
+image: https://kuathletics.com/wp-content/uploads/2013/06/5782072.jpeg
 last_name: Selby
 number: 32
 position: Guard

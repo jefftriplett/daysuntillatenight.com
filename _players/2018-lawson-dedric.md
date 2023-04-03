@@ -6,7 +6,7 @@ first_name: Dedric
 height: 6'9"
 high_school: Hamilton HS
 hometown: Memphis, Tenn.
-image: https://kuathletics.com/images/2018/6/27/Lawson_Dedric_06252018.jpg?width=182&height=250&mode=crop&anchor=topcenter
+image: https://kuathletics.com/wp-content/uploads/2017/06/Lawson_Dedric_06232017.jpg
 last_name: Lawson
 notes: Transfer from Memphis
 number: 1
