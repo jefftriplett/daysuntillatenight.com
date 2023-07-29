@@ -12,10 +12,6 @@ class Page(BaseModel):
     season: Optional[str] = None
     when: Optional[str] = "TBD"
 
-    # def __init__(self, **data):
-    #     super().__init__(**data)
-    #     self.season = f"{self.current_year}-{self.current_year+1}"
-
 
 class Player(BaseModel):
     class_: Optional[str] = Field(None, alias="class")
@@ -29,6 +25,7 @@ class Player(BaseModel):
     notes: Optional[str] = None
     number: Optional[int] = None
     position: Optional[str] = None
+    previous_school: Optional[str] = None
     projected: Optional[str] = None
     redshirt: Optional[bool] = None
     slug: Optional[str] = None
@@ -67,6 +64,12 @@ class Player(BaseModel):
     def weight_normalized(cls, v: Optional[str]) -> Optional[str]:
         if v and v.endswith("lbs"):
             return f"{v}."
+        return v
+
+    @validator("year", pre=True)
+    def year_normalized(cls, v: Optional[str]) -> Optional[str]:
+        if "-" in str(v):
+            v = v.split("-")[0]
         return v
 
 
