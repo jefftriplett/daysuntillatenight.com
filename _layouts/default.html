@@ -13,9 +13,6 @@
     <link rel="preload" as="script" href="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
     <link rel="preload" as="script" href="/js/plugins.js">
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400,800">
-        {% comment %}
-        <link rel="stylesheet" href="/css/tailwind.css">
-        {% endcomment %}
     <link type="text/plain" rel="author" href="/humans.txt" />
   </head>
   <body class="bg-[#002de5] mx-2">
@@ -37,21 +34,20 @@
       <div id="roster" class="">
         {{ content }}
       </div>
-      <div class="pt-8 pb-4 mx-auto max-w-6xl text-center text-white sm:text-xl text-md">
+      <div class="pt-8 pb-4 mx-auto max-w-6xl text-center text-white sm:text-xl text-md flex flex-row gap-4 place-content-center">
         <a class="underline" href="{% link _latenights/2020.md %}">2020</a>
         <a class="underline" href="{% link _latenights/2021.md %}">2021</a>
         <a class="underline" href="{% link _latenights/2022.md %}">2022</a>
+        <a class="underline" href="{% link _latenights/2023.md %}">2023</a>
       </div>
     </div>
-    <footer id="copyright" class="p-4 mx-auto max-w-6xl text-sm text-center text-white sm:text-lg">
-      <div class="pb-2 text-yellow-300">Not affiliated with the University of Kansas or KU Athletics.</div>
+    <footer id="copyright" class="p-4 mx-auto max-w-6xl text-sm text-center text-white sm:text-lg flex flex-col gap-1">
+      <div class="text-yellow-300">Not affiliated with the University of Kansas or KU Athletics.</div>
       <div>Maintained/updated by <a class="underline" href="https://twitter.com/webology">Jeff Triplett</a></div>
       <div>Originally created by <a class="underline" href="https://twitter.com/johnkary">John Kary</a></div>
       <div><a class="underline" href="https://github.com/jefftriplett/daysuntillatenight.com">Source available on GitHub</a></div>
     </footer>
     <script src="https://cdn.tailwindcss.com"></script>
-        {% comment %}
-        {% endcomment %}
     <script src="//unpkg.com/@github/time-elements@latest?module" type="module"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="/js/plugins.js"></script>
