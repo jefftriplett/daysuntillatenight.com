@@ -16,10 +16,10 @@
     <link type="text/plain" rel="author" href="/humans.txt" />
   </head>
   <body class="bg-[#002de5] mx-2">
-    <div class="mx-auto max-w-6xl">
-      <div id="gradient">
-        <h1 class="rounded sm:rounded-2xl text-2xl sm:text-6xl py-2 my-2 sm:py-4 sm:my-4 text-center text-yellow-100 bg-[#E8000D]"><span id="heading-days"></span> Days Until Late Night</h1>
-        <div id="date" class="when rounded sm:rounded-2xl text-white text-center text-xl sm:text-4xl py-2 my-4 bg-[#E8000D]">
+    <div class="container mx-auto flex flex-col gap-6">
+      <h1 class="p-4 rounded sm:rounded-2xl text-2xl sm:text-6xl text-center text-yellow-100 bg-[#E8000D]"><span id="heading-days"></span> Days Until Late Night</h1>
+      <nav id="gradient">
+        <div id="date" class="p-4 when rounded sm:rounded-2xl text-white text-center text-xl sm:text-4xl bg-[#E8000D]">
           {% if page.when < site.now %}
             <time-ago datetime="{{ page.when | date_to_xmlschema }}">
               {{ page.when | default:"TBD" }}
@@ -30,18 +30,18 @@
             </time-until>
           {% endif %}
         </div>
-      </div>
-      <div id="roster" class="">
+      </nav>
+      <main id="roster" class="flex flex-col gap-6">
         {{ content }}
-      </div>
-      <div class="pt-8 pb-4 mx-auto max-w-6xl text-center text-white sm:text-xl text-md flex flex-row gap-4 place-content-center">
+      </main>
+      <nav class="rounded sm:rounded-2xl p-4 text-center text-white sm:text-xl text-md flex flex-row gap-4 place-content-center bg-[#E8000D]">
         <a class="underline" href="{% link _latenights/2020.md %}">2020</a>
         <a class="underline" href="{% link _latenights/2021.md %}">2021</a>
         <a class="underline" href="{% link _latenights/2022.md %}">2022</a>
         <a class="underline" href="{% link _latenights/2023.md %}">2023</a>
-      </div>
+      </nav>
     </div>
-    <footer id="copyright" class="p-4 mx-auto max-w-6xl text-sm text-center text-white sm:text-lg flex flex-col gap-1">
+    <footer id="copyright" class="p-4 mx-auto text-sm text-center text-white sm:text-lg flex flex-col gap-1">
       <div class="text-yellow-300">Not affiliated with the University of Kansas or KU Athletics.</div>
       <div>Maintained/updated by <a class="underline" href="https://twitter.com/webology">Jeff Triplett</a></div>
       <div>Originally created by <a class="underline" href="https://twitter.com/johnkary">John Kary</a></div>
