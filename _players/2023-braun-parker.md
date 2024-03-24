@@ -9,6 +9,7 @@ last_name: Braun
 number: 23
 position: Forward
 slug: 2023-braun-parker
+status: graduating
 url: https://kuathletics.com/sports/mbball/roster/season/2023-24/player/parker-braun/
 weight: 235 lbs.
 year: 2023

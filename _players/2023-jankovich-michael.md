@@ -9,6 +9,7 @@ last_name: Jankovich
 number: 20
 position: Guard
 slug: 2023-jankovich-michael
+status: graduating
 url: https://kuathletics.com/sports/mbball/roster/season/2023-24/player/michael-jankovich/
 weight: 190 lbs.
 year: 2023

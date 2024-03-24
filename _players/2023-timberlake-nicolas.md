@@ -9,6 +9,7 @@ last_name: Timberlake
 number: 25
 position: Guard
 slug: 2023-timberlake-nicolas
+status: graduating
 url: https://kuathletics.com/sports/mbball/roster/season/2023-24/player/nicolas-timberlake/
 weight: 195 lbs.
 year: 2023
