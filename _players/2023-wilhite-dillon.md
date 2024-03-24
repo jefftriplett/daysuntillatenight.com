@@ -1,5 +1,5 @@
 ---
-class: RS Freshman
+class: RS Sophomore
 first_name: Dillon
 height: 6'9"
 high_school: Cathedral Catholic HS

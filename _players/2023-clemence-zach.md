@@ -1,5 +1,5 @@
 ---
-class: Sophomore
+class: Junior
 first_name: Zach
 height: 6'11"
 high_school: Sunrise Christian Academy [Kan.]

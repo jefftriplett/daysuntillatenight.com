@@ -1,5 +1,5 @@
 ---
-class: RS Senior
+class: Graduate senior
 first_name: Kevin
 height: 6'7"
 high_school: Wagner HS / Texas Tech

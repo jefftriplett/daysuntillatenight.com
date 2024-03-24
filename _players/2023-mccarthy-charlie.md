@@ -1,5 +1,5 @@
 ---
-class: Sophomore
+class: RS Sophomore
 first_name: Charlie
 height: 6'2"
 high_school: Shadow Hills HS

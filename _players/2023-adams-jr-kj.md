@@ -1,5 +1,5 @@
 ---
-class: Sophomore
+class: Junior
 first_name: KJ
 height: 6'7"
 high_school: Westlake HS

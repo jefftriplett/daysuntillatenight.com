@@ -1,5 +1,5 @@
 ---
-class: RS Junior
+class: RS Senior
 first_name: Dajuan
 height: 6'2"
 high_school: Rock Bridge HS

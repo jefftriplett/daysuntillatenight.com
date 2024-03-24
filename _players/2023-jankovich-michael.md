@@ -1,5 +1,5 @@
 ---
-class: Senior
+class: Graduate senior
 first_name: Michael
 height: 6'4"
 high_school: Northfield Mount Hermon [Mass.]

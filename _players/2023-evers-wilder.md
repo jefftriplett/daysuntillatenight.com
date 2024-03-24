@@ -1,5 +1,5 @@
 ---
-class: Freshman
+class: RS Freshman
 first_name: Wilder
 height: 6'4"
 high_school: Oak Mountain HS
