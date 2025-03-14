@@ -23,7 +23,8 @@ class Player(BaseModel):
     image: Optional[str] = "/images/blank.gif"
     last_name: str
     notes: Optional[str] = None
-    number: Optional[int] = None
+    # number: Optional[int] = None
+    number: Optional[str] = None
     position: Optional[str] = None
     previous_school: Optional[str] = None
     projected: Optional[str] = None
@@ -35,6 +36,7 @@ class Player(BaseModel):
     year: int
 
     def __init__(self, **data):
+        # print(f"{data=}")
         super().__init__(**data)
         self.slug = slugify(
             " ".join(

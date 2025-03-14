@@ -11,8 +11,8 @@ TAILWIND_CSS_VERSION := "latest"
 # --------------------------------------------------------------------------------
 
 @bootstrap:
-    pip install --upgrade pip pip-tools
-    pip install --upgrade --requirement requirements.in
+    python -m pip install --upgrade pip uv pre-commit
+    python -m uv pip install --upgrade --requirement requirements.in
     # playwright install
 
 @build:
@@ -35,7 +35,8 @@ TAILWIND_CSS_VERSION := "latest"
     # -python fetch-players-to-csv.py --year=2020-21
     # -python fetch-players-to-csv.py --year=2021-22
     # -python fetch-players-to-csv.py --year=2022-23
-    -python fetch-players-to-csv.py --year=2023-24
+    # -python fetch-players-to-csv.py --year=2023-24
+    -python fetch-players-to-csv.py --year=2024-25
 
 @fetch:
     # -python fetch-players.py fetch players.db --year=2010-11
@@ -51,7 +52,8 @@ TAILWIND_CSS_VERSION := "latest"
     # -python fetch-players.py fetch players.db --year=2020-21
     # -python fetch-players.py fetch players.db --year=2021-22
     # -python fetch-players.py fetch players.db --year=2022-23
-    -python fetch-players.py fetch players.db --year=2023-24
+    # -python fetch-players.py fetch players.db --year=2023-24
+    -python fetch-players.py fetch players.db --year=2024-25
 
 @fill-in-player-images:
     # python fill-in-player-images.py --year=2010
@@ -67,29 +69,27 @@ TAILWIND_CSS_VERSION := "latest"
     # python fill-in-player-images.py --year=2020
     # python fill-in-player-images.py --year=2021
     # python fill-in-player-images.py --year=2022
-    python fill-in-player-images.py --year=2023
+    # python fill-in-player-images.py --year=2023
+    python fill-in-player-images.py --year=2024
 
 @lint:
-    pre-commit run --all-files
+    python -m pre_commit run --all-files
 
 @pip-compile *ARGS:
-    pip-compile --resolver=backtracking {{ ARGS }}
+    python -m uv pip compile {{ ARGS }}
 
 @pre-commit *ARGS:
     pre-commit run {{ ARGS }} --all-files
 
 @restart:
-    docker-compose restart
+    docker compose restart
 
 # @screenshots ARGS="--no-clobber":
 #     shot-scraper multi {{ ARGS }} ./shots.yml
 
-@serve:
-    modd --file=modd.conf
-
 # starts app
 @server *ARGS:
-    docker-compose up {{ ARGS }}
+    docker compose up {{ ARGS }}
 
 # sets up a project to be used for the first time
 @setup:
@@ -111,10 +111,10 @@ TAILWIND_CSS_VERSION := "latest"
     just server {{ ARGS }}
 
 @stop:
-    docker-compose down
+    docker compose down
 
 @tail:
-    docker-compose logs --follow --tail 100
+    docker compose logs --follow --tail 100
 
 # runs tests
 @test:
