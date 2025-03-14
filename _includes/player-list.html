@@ -7,32 +7,35 @@
 {% assign players_count = players | size %}
 
 {% if players_count != 0 %}
-  <h2 class="text-xl sm:text-4xl rounded-md sm:rounded-2xl text-yellow-100 text-center py-1 my-2 sm:py-2 sm:my-4 bg-[#E8000D]" id="heading-roster">
+  <h2 class="text-xl sm:text-4xl rounded-md sm:rounded-2xl text-yellow-100 text-center py-1 my-2 sm:py-2 sm:my-4 bg-[#E8000D]" id="heading-{{ include.status | default:'roster' }}">
     {{ include.title }}
   </h2>
 
-  <section class="grid grid-cols-1 grid-flow-row gap-4 sm:grid-cols-3 sm:gap-8 md:grid-cols-4 md:gap-8" id="players">
+  <section class="grid grid-cols-1 grid-flow-row gap-4 sm:grid-cols-3 sm:gap-8 md:grid-cols-4 md:gap-8" aria-labelledby="heading-{{ include.status | default:'roster' }}">
     {%- for player in players -%}
       <div class="flex items-center">
         <div class="flex flex-col gap-1 mx-auto rounded-2xl border-2 border-blue-700">
-          <img class="object-cover rounded-xl size-32 lazy md:size-48 lg:size-64"
-               data-src="{{ player.image }}"
-               src="/images/blank.gif">
-          <h2 class="text-xl font-bold text-center text-white sm:text-2xl">
+          <img class="object-cover rounded-xl w-32 h-32 md:w-48 md:h-48 lg:w-64 lg:h-64"
+               loading="lazy"
+               src="{{ player.image | default:'/images/blank.gif' }}"
+               alt="Photo of {{ player.first_name }} {{ player.last_name }}"
+               width="256"
+               height="256">
+          <h3 class="text-xl font-bold text-center text-white sm:text-2xl px-2">
             {% if player.number and player.number != 99 %}
               #{{ player.number }}
             {% endif %}
             {{ player.first_name }} {{ player.last_name }}
-          </h2>
+          </h3>
           <div class="font-bold text-center text-white sm:text-xl text-md">{{ player.class }}</div>
           <div class="font-bold text-center text-white sm:text-xl text-md">{{ player.hometown }}</div>
-                    {% comment %}
-                    {% if include.status == "active" %}
-                        <div class="font-bold text-white sm:text-lg text-md">{{ player.status_reason }}</div>
-                    {% else %}
-                        <div class="font-bold text-white sm:text-lg text-md">{{ player.departing_reason }}</div>
-                    {% endif %}
-                    {% endcomment %}
+          {%- comment -%}
+            {% if include.status == "active" %}
+              <div class="font-bold text-white sm:text-lg text-md">{{ player.status_reason }}</div>
+            {% else %}
+              <div class="font-bold text-white sm:text-lg text-md">{{ player.departing_reason }}</div>
+            {% endif %}
+          {%- endcomment -%}
         </div>
       </div>
     {%- endfor -%}
