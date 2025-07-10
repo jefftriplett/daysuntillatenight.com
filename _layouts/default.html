@@ -14,39 +14,52 @@
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400,800">
     <link type="text/plain" rel="author" href="/humans.txt" />
   </head>
-  <body class="bg-[#002de5] mx-2">
-    <div class="container flex flex-col gap-6 mx-auto">
-      <h1 class="p-4 rounded sm:rounded-2xl text-2xl sm:text-6xl text-center text-yellow-100 bg-[#E8000D]"><span id="heading-days"></span> Days Until Late Night</h1>
-      <nav id="gradient">
-        <div id="date" class="p-4 when rounded sm:rounded-2xl text-white text-center text-xl sm:text-4xl bg-[#E8000D]">
-          {% if page.when < site.now %}
-            <time-ago datetime="{{ page.when | date_to_xmlschema }}">
-              {{ page.when | default:"TBD" }}
-            </time-ago>
-          {% else %}
-            <time-until datetime="{{ page.when | date_to_xmlschema }}">
-              {{ page.when | default:"TBD" }}
-            </time-until>
-          {% endif %}
+  <body class="bg-gradient-to-br from-[#002de5] via-[#0034c7] to-[#003bb8] min-h-screen">
+    <div class="container max-w-7xl mx-auto px-4 py-8">
+      <header class="text-center mb-12">
+        <h1 class="mb-6 p-6 rounded-3xl text-3xl sm:text-7xl font-bold text-white bg-gradient-to-r from-[#E8000D] to-[#ff1a2e] shadow-2xl transform hover:scale-105 transition-transform duration-300">
+          <span id="heading-days" class="block text-yellow-100 drop-shadow-lg"></span> 
+          <span class="text-2xl sm:text-5xl font-light block mt-2">Days Until Late Night</span>
+        </h1>
+        <div class="relative">
+          <div id="date" class="p-6 rounded-3xl text-white text-center text-xl sm:text-4xl bg-gradient-to-r from-[#E8000D] to-[#ff1a2e] shadow-xl border-2 border-yellow-400/30">
+            {% if page.when < site.now %}
+              <time-ago datetime="{{ page.when | date_to_xmlschema }}">
+                {{ page.when | default:"TBD" }}
+              </time-ago>
+            {% else %}
+              <time-until datetime="{{ page.when | date_to_xmlschema }}">
+                {{ page.when | default:"TBD" }}
+              </time-until>
+            {% endif %}
+          </div>
+          <div class="absolute -inset-1 bg-gradient-to-r from-yellow-400 to-orange-500 rounded-3xl blur opacity-30 -z-10"></div>
         </div>
-      </nav>
-      <main id="roster" class="flex flex-col gap-6">
+      </header>
+      <main id="roster" class="flex flex-col gap-8">
         {{ content }}
       </main>
-      <nav class="rounded sm:rounded-2xl p-4 text-center text-white sm:text-xl text-md flex flex-row gap-4 place-content-center bg-[#E8000D]" aria-label="Previous years navigation">
-        <a class="underline" href="{% link _latenights/2020.md %}">2020</a>
-        <a class="underline" href="{% link _latenights/2021.md %}">2021</a>
-        <a class="underline" href="{% link _latenights/2022.md %}">2022</a>
-        <a class="underline" href="{% link _latenights/2023.md %}">2023</a>
-        <a class="underline" href="{% link _latenights/2024.md %}">2024</a>
-        <a class="underline" href="{% link _latenights/2025.md %}">2025</a>
+      <nav class="mt-12 rounded-3xl p-6 text-center bg-gradient-to-r from-[#E8000D] to-[#ff1a2e] shadow-xl" aria-label="Previous years navigation">
+        <h2 class="text-white text-lg sm:text-xl font-semibold mb-4">Previous Years</h2>
+        <div class="flex flex-wrap justify-center gap-3">
+          <a class="px-4 py-2 bg-white/20 hover:bg-white/30 text-white rounded-full transition-all duration-200 hover:scale-110 shadow-lg" href="{% link _latenights/2020.md %}">2020</a>
+          <a class="px-4 py-2 bg-white/20 hover:bg-white/30 text-white rounded-full transition-all duration-200 hover:scale-110 shadow-lg" href="{% link _latenights/2021.md %}">2021</a>
+          <a class="px-4 py-2 bg-white/20 hover:bg-white/30 text-white rounded-full transition-all duration-200 hover:scale-110 shadow-lg" href="{% link _latenights/2022.md %}">2022</a>
+          <a class="px-4 py-2 bg-white/20 hover:bg-white/30 text-white rounded-full transition-all duration-200 hover:scale-110 shadow-lg" href="{% link _latenights/2023.md %}">2023</a>
+          <a class="px-4 py-2 bg-white/20 hover:bg-white/30 text-white rounded-full transition-all duration-200 hover:scale-110 shadow-lg" href="{% link _latenights/2024.md %}">2024</a>
+          <a class="px-4 py-2 bg-white/20 hover:bg-white/30 text-white rounded-full transition-all duration-200 hover:scale-110 shadow-lg" href="{% link _latenights/2025.md %}">2025</a>
+        </div>
       </nav>
     </div>
-    <footer id="copyright" class="flex flex-col gap-1 p-4 mx-auto text-sm text-center text-white sm:text-lg">
-      <div class="text-yellow-300">Not affiliated with the University of Kansas or KU Athletics.</div>
-      <div>Maintained/updated by <a class="underline" href="https://twitter.com/webology">Jeff Triplett</a></div>
-      <div>Originally created by <a class="underline" href="https://twitter.com/johnkary">John Kary</a></div>
-      <div><a class="underline" href="https://github.com/jefftriplett/daysuntillatenight.com">Source available on GitHub</a></div>
+    <footer id="copyright" class="mt-16 p-8 text-center text-white bg-black/20 backdrop-blur-sm rounded-3xl">
+      <div class="space-y-3">
+        <div class="text-yellow-300 font-medium">Not affiliated with the University of Kansas or KU Athletics.</div>
+        <div class="flex flex-col sm:flex-row justify-center gap-2 sm:gap-6 text-sm sm:text-base">
+          <div>Maintained by <a class="text-yellow-300 hover:text-yellow-100 transition-colors" href="https://twitter.com/webology">Jeff Triplett</a></div>
+          <div>Created by <a class="text-yellow-300 hover:text-yellow-100 transition-colors" href="https://twitter.com/johnkary">John Kary</a></div>
+          <div><a class="text-yellow-300 hover:text-yellow-100 transition-colors" href="https://github.com/jefftriplett/daysuntillatenight.com">Source on GitHub</a></div>
+        </div>
+      </div>
     </footer>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="//unpkg.com/@github/time-elements@latest?module" type="module"></script>
