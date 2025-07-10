@@ -9,9 +9,8 @@
     <meta name="description" content="Countdown the days until KU Jayhawk Basketball's Late Night in the Phog">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="https://fav.farm/🏀" />
-    <link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400,800">
-    <link rel="preload" as="script" href="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
-    <link rel="preload" as="script" href="/js/plugins.js">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400,800">
     <link type="text/plain" rel="author" href="/humans.txt" />
   </head>
@@ -34,12 +33,13 @@
       <main id="roster" class="flex flex-col gap-6">
         {{ content }}
       </main>
-      <nav class="rounded sm:rounded-2xl p-4 text-center text-white sm:text-xl text-md flex flex-row gap-4 place-content-center bg-[#E8000D]">
+      <nav class="rounded sm:rounded-2xl p-4 text-center text-white sm:text-xl text-md flex flex-row gap-4 place-content-center bg-[#E8000D]" aria-label="Previous years navigation">
         <a class="underline" href="{% link _latenights/2020.md %}">2020</a>
         <a class="underline" href="{% link _latenights/2021.md %}">2021</a>
         <a class="underline" href="{% link _latenights/2022.md %}">2022</a>
         <a class="underline" href="{% link _latenights/2023.md %}">2023</a>
         <a class="underline" href="{% link _latenights/2024.md %}">2024</a>
+        <a class="underline" href="{% link _latenights/2025.md %}">2025</a>
       </nav>
     </div>
     <footer id="copyright" class="flex flex-col gap-1 p-4 mx-auto text-sm text-center text-white sm:text-lg">
@@ -48,7 +48,6 @@
       <div>Originally created by <a class="underline" href="https://twitter.com/johnkary">John Kary</a></div>
       <div><a class="underline" href="https://github.com/jefftriplett/daysuntillatenight.com">Source available on GitHub</a></div>
     </footer>
-    <script src="https://cdn.tailwindcss.com"></script>
     <script src="//unpkg.com/@github/time-elements@latest?module" type="module"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="/js/plugins.js"></script>
