@@ -4,6 +4,7 @@ first_name: Samis
 height: 6-8
 high_school: Overtime Elite
 hometown: Espirito Santo, Brazil
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2025/6/11/Calderon_Samis.jpg
 last_name: Calderon
 number: '6'
 position: Forward
