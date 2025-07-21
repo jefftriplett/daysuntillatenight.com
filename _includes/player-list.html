@@ -18,7 +18,7 @@
         <div class="bg-gradient-to-b from-white/10 to-white/5 backdrop-blur-sm rounded-3xl p-6 border border-white/20 shadow-2xl hover:shadow-3xl transition-all duration-300 hover:scale-105 hover:border-yellow-400/50">
           <div class="relative mb-4">
             {% if player.image %}
-              <img class="object-cover rounded-2xl w-full h-48 sm:h-56 lg:h-64 shadow-lg"
+              <img class="object-contain object-top rounded-2xl w-full h-48 sm:h-56 lg:h-64 shadow-lg bg-white/5"
                    loading="lazy"
                    src="{{ player.image }}"
                    alt="Photo of {{ player.first_name }} {{ player.last_name }}"
