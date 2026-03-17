@@ -4,6 +4,7 @@ first_name: Rylan
 height: 6-6
 high_school: Richardson HS
 hometown: Dallas, Texas
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/7/31/Griffen_Rylan.JPG
 last_name: Griffen
 number: '6'
 order: 06

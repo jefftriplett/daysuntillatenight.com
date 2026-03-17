@@ -4,6 +4,7 @@ first_name: AJ
 height: 6-7
 high_school: IMG Academy
 hometown: Rockford, Ill.
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/7/31/Storr_AJ.JPG
 last_name: Storr
 number: '2'
 order: 02

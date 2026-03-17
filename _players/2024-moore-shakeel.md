@@ -4,6 +4,7 @@ first_name: Shakeel
 height: 6-1
 high_school: Moravian Prep
 hometown: Greensboro, N.C.
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/7/31/Moore_Shak_1794.JPG
 last_name: Moore
 number: '0'
 order: 00
