@@ -7,6 +7,7 @@ hometown: Lexington, Ky.
 image: https://kuathletics.com/wp-content/uploads/2017/06/Whitman_Jack_06232017.jpg
 last_name: Whitman
 number: 41
+order: 41
 position: Forward
 slug: 2017-whitman-jack
 status: active

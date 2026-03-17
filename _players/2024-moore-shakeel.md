@@ -6,6 +6,7 @@ high_school: Moravian Prep
 hometown: Greensboro, N.C.
 last_name: Moore
 number: '0'
+order: 00
 position: Guard
 slug: 2024-moore-shakeel
 url: /sports/mens-basketball/roster/shakeel-moore/15495

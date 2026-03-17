@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2017/12/De_Sousa_Silvio.jpg
 last_name: De Sousa
 notes: ''
 number: 22
+order: 22
 position: Forward
 projected: ''
 slug: 2019-de-sousa-silvio

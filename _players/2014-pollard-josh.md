@@ -7,6 +7,7 @@ hometown: Cedar Hills, Utah
 image: https://kuathletics.com/wp-content/uploads/2014/09/Pollard_Josh_08262014.jpg
 last_name: Pollard
 number: 22
+order: 22
 position: Guard
 slug: 2014-pollard-josh
 status: active

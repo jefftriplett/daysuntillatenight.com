@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2018/06/Dotson_Devon_06252018.
 last_name: Dotson
 notes: ''
 number: 1
+order: 01
 position: Guard
 projected: ''
 slug: 2019-dotson-devon

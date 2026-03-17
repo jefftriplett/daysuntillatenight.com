@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/07/Mitch-Lightfoot-44-600
 last_name: Lightfoot
 notes: ''
 number: 44
+order: 44
 position: Forward
 projected: ''
 slug: 2017-lightfoot-mitch

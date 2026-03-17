@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2022/07/Ejiofor_Zuby_2022_6100
 last_name: Ejiofor
 notes: ''
 number: 35
+order: 35
 position: Forward
 projected: ''
 slug: 2022-ejiofor-zuby

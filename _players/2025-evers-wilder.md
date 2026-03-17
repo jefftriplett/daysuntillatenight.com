@@ -7,6 +7,7 @@ hometown: Birmingham, Alabama
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2025/6/11/Evers_Wilder.jpg
 last_name: Evers
 number: '12'
+order: 12
 position: Guard
 slug: 2025-evers-wilder
 url: /sports/mens-basketball/roster

@@ -6,6 +6,7 @@ high_school: Columbus Unified HS
 hometown: Columbus, Kan.
 last_name: Cassidy
 number: '14'
+order: 14
 position: Guard
 slug: 2024-cassidy-patrick
 url: /sports/mens-basketball/roster/patrick-cassidy/15485

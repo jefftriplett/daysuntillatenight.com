@@ -10,6 +10,7 @@ last_name: Lawson
 notes: <a href="http://www.commercialappeal.com/story/sports/columnists/geoff-calkins/2017/04/10/calkins-lawsons-kansas----and-keelon-lawson-explain-why/100291042/">Sophomore,
   Transfer from Memphis</a>
 number: 13
+order: 13
 position: Guard
 projected: ''
 slug: 2018-lawson-k-j

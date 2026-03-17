@@ -7,6 +7,7 @@ hometown: San Diego, Calif.
 image: https://kuathletics.com/wp-content/uploads/2013/06/5667951.jpeg
 last_name: Withey
 number: 5
+order: 05
 position: Center
 slug: 2010-withey-jeff
 url: https://kuathletics.com/sports/mbball/roster/season/2010-11/player/jeff-withey/

@@ -7,6 +7,7 @@ hometown: Kinshasa, Democratic Republic of Congo
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2025/6/11/Bidunga_Flory.jpg
 last_name: Bidunga
 number: '40'
+order: 40
 position: Forward
 slug: 2025-bidunga-flory
 url: /sports/mens-basketball/roster

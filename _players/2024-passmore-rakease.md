@@ -6,6 +6,7 @@ high_school: Combine Academy
 hometown: Palatka, Fla.
 last_name: Passmore
 number: '4'
+order: 04
 position: Guard
 slug: 2024-passmore-rakease
 url: /sports/mens-basketball/roster/rakease-passmore/15497

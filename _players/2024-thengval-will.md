@@ -6,6 +6,7 @@ high_school: Kapaun Mount Carmel Catholic HS
 hometown: Wichita, Kan.
 last_name: Thengval
 number: '15'
+order: 15
 position: Guard
 slug: 2024-thengval-will
 url: /sports/mens-basketball/roster/will-thengval/15501

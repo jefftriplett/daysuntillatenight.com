@@ -6,6 +6,7 @@ high_school: Kokomo HS
 hometown: Democratic Republic of Congo
 last_name: Bidunga
 number: '40'
+order: 40
 position: Forward
 slug: 2024-bidunga-flory
 url: /sports/mens-basketball/roster/flory-bidunga/15502

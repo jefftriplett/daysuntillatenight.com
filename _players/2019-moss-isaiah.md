@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2019/07/Moss_Isaiah_08232019-6
 last_name: Moss
 notes: ''
 number: 4
+order: 04
 position: Guard
 projected: ''
 slug: 2019-moss-isaiah

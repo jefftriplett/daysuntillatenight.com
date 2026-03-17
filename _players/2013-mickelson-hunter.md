@@ -7,6 +7,7 @@ hometown: Jonesboro, Ark.
 image: https://kuathletics.com/wp-content/uploads/2013/07/Mickelson_Hunter_07112013.jpg
 last_name: Mickelson
 number: 42
+order: 42
 position: Forward
 slug: 2013-mickelson-hunter
 url: https://kuathletics.com/sports/mbball/roster/season/2013-14/player/hunter-mickelson/

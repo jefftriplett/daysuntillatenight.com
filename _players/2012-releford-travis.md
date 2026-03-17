@@ -7,6 +7,7 @@ hometown: Kansas City, Mo.
 image: https://kuathletics.com/wp-content/uploads/2013/06/5667920.jpeg
 last_name: Releford
 number: 24
+order: 24
 position: Guard
 slug: 2012-releford-travis
 url: https://kuathletics.com/sports/mbball/roster/season/2012-13/player/travis-releford/

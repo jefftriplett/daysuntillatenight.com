@@ -7,6 +7,7 @@ hometown: Portland, Ore.
 image: https://kuathletics.com/wp-content/uploads/2015/09/Lucas_Landen_09152015.jpg
 last_name: Lucas
 number: 33
+order: 33
 position: Center
 slug: 2015-lucas-landen
 status: active

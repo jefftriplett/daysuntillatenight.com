@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/07/Chris-Teahan-12-600x50
 last_name: Teahan
 notes: ''
 number: 12
+order: 12
 position: Guard
 projected: ''
 slug: 2018-teahan-chris

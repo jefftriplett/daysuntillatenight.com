@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2017/06/Preston_Billy_06232017
 last_name: Preston
 notes: <br><a href="https://n.rivals.com/content/prospects/1232">Rivals.com
 number: 23
+order: 23
 position: Forward
 projected: ''
 slug: 2017-preston-billy

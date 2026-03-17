@@ -7,6 +7,7 @@ hometown: Fort Worth, Texas
 image: https://kuathletics.com/wp-content/uploads/2013/06/5667943.jpeg
 last_name: Wesley
 number: 4
+order: 04
 position: Forward
 slug: 2010-wesley-justin
 url: https://kuathletics.com/sports/mbball/roster/season/2010-11/player/justin-wesley/

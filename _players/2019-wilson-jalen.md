@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/09/MBB_Wilson_Jalen_HS_10
 last_name: Wilson
 notes: ''
 number: 10
+order: 10
 position: Forward
 projected: ''
 slug: 2019-wilson-jalen

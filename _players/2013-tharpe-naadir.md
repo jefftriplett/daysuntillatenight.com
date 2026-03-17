@@ -7,6 +7,7 @@ hometown: Worcester, Mass.
 image: https://kuathletics.com/wp-content/uploads/2013/06/6718980.jpeg
 last_name: Tharpe
 number: 10
+order: 10
 position: Guard
 slug: 2013-tharpe-naadir
 url: https://kuathletics.com/sports/mbball/roster/season/2013-14/player/naadir-tharpe/

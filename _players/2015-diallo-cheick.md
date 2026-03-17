@@ -7,6 +7,7 @@ hometown: Kayes, Mali, Africa
 image: https://kuathletics.com/wp-content/uploads/2015/09/Diallo_Cheick_09152015.jpg
 last_name: Diallo
 number: 13
+order: 13
 position: Forward
 slug: 2015-diallo-cheick
 status: active

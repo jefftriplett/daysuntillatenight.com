@@ -7,6 +7,7 @@ hometown: Cleveland, Ohio
 image: https://kuathletics.com/wp-content/uploads/2016/09/Bragg_Carlton_09012016.jpg
 last_name: Bragg Jr.
 number: 15
+order: 15
 position: Forward
 slug: 2016-bragg-jr-carlton
 status: active

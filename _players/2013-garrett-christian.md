@@ -7,6 +7,7 @@ hometown: Los Angeles, Calif.
 image: https://kuathletics.com/wp-content/uploads/2013/06/6718934.jpeg
 last_name: Garrett
 number: 15
+order: 15
 position: Guard
 slug: 2013-garrett-christian
 url: https://kuathletics.com/sports/mbball/roster/season/2013-14/player/christian-garrett/

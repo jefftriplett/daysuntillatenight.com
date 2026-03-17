@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/07/Dajuan-Harris-3-600x50
 last_name: Harris Jr.
 notes: ''
 number: 3
+order: 03
 position: Guard
 projected: ''
 slug: 2022-harris-jr-dajuan

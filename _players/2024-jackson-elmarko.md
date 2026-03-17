@@ -6,6 +6,7 @@ high_school: South Kent School
 hometown: Marlton, N.J.
 last_name: Jackson
 number: '13'
+order: 13
 position: Guard
 slug: 2024-jackson-elmarko
 url: /sports/mens-basketball/roster/elmarko-jackson/15491

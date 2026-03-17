@@ -7,6 +7,7 @@ hometown: Columbia, Mo.
 image: https://kuathletics.com/wp-content/uploads/2019/09/Harris_Dajuan_2023-600x400.jpg
 last_name: Harris Jr.
 number: '3'
+order: 03
 position: Guard
 slug: 2023-harris-jr-dajuan
 url: /sports/mens-basketball/roster/dajuan-harris-jr-/971

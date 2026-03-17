@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2018/06/Elliott_Elijah_0625201
 last_name: Elliott
 notes: null
 number: 10
+order: 10
 position: Guard
 projected: null
 slug: 2018-elliott-elijah

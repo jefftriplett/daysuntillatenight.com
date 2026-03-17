@@ -7,6 +7,7 @@ hometown: Durham, N.C.
 image: https://kuathletics.com/wp-content/uploads/2021/07/Bobby-Pettiford-0a-600x500.jpg
 last_name: Pettiford Jr.
 number: 0
+order: 00
 position: Guard
 slug: 2022-pettiford-jr-bobby
 status: departing

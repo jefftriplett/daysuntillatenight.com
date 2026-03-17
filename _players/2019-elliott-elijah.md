@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2018/06/Elliott_Elijah_0625201
 last_name: Elliott
 notes: ''
 number: 5
+order: 05
 position: Guard
 projected: ''
 slug: 2019-elliott-elijah

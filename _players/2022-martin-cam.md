@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/07/Cam-Martin-31-600x500.
 last_name: Martin
 notes: https://twitter.com/BigCam30/status/1382369380592324612
 number: 31
+order: 31
 position: Forward
 projected: ''
 slug: 2022-martin-cam

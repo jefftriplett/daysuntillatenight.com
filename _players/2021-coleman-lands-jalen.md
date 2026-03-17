@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/07/Jalen-Coleman-Lands-55
 last_name: Coleman-Lands
 notes: ''
 number: 55
+order: 55
 position: Guard
 projected: ''
 slug: 2021-coleman-lands-jalen

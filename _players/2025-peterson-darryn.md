@@ -7,6 +7,7 @@ hometown: Canton, Ohio
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2025/6/11/Peterson_Darryn.jpg
 last_name: Peterson
 number: '22'
+order: 22
 position: Guard
 slug: 2025-peterson-darryn
 url: /sports/mens-basketball/roster

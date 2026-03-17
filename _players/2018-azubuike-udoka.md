@@ -10,6 +10,7 @@ image: https://kuathletics.com/wp-content/uploads/2017/09/Azubuike_Udoka.jpg
 last_name: Azubuike
 notes: ''
 number: 35
+order: 35
 position: Center
 projected: https://www.nbadraft.net/2019mock_draft
 slug: 2018-azubuike-udoka

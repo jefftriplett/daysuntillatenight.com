@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/07/Michael-Jankovich-20-6
 last_name: Jankovich
 notes: ''
 number: 20
+order: 20
 position: Guard
 projected: ''
 slug: 2019-jankovich-michael

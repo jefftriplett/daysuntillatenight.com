@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2017/09/Young_Clay.jpg
 last_name: Young
 notes: ''
 number: 21
+order: 21
 position: Guard
 projected: ''
 slug: 2016-young-clay

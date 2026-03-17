@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2020/09/Garrett_Marcus_0908202
 last_name: Garrett
 notes: ''
 number: 0
+order: 00
 position: Guard
 projected: ''
 slug: 2019-garrett-marcus

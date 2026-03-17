@@ -7,6 +7,7 @@ hometown: Detroit, Mich.
 image: https://kuathletics.com/wp-content/uploads/2016/09/Jackson_Josh_09012016.jpg
 last_name: Jackson
 number: 11
+order: 11
 position: Guard
 slug: 2016-jackson-josh
 status: active

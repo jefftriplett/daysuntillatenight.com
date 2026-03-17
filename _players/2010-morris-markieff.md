@@ -7,6 +7,7 @@ hometown: Philadelphia, Pa.
 image: https://kuathletics.com/wp-content/uploads/2013/06/5667909.jpeg
 last_name: Morris
 number: 21
+order: 21
 position: Forward
 slug: 2010-morris-markieff
 url: https://kuathletics.com/sports/mbball/roster/season/2010-11/player/markieff-morris/

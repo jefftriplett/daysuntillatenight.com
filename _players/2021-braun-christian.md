@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/07/Christian-Braun-2-600x
 last_name: Braun
 notes: ''
 number: 2
+order: 02
 position: Guard
 projected: ''
 slug: 2021-braun-christian

@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/07/Cam-Martin-31-600x500.
 last_name: Martin
 notes: ''
 number: 31
+order: 31
 position: Forward
 projected: ''
 slug: 2021-martin-cam

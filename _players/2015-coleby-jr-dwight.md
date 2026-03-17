@@ -7,6 +7,7 @@ hometown: Nassau, Bahamas
 image: https://kuathletics.com/wp-content/uploads/2016/09/Coleby_Dwight_09012016.jpg
 last_name: Coleby Jr.
 number: 22
+order: 22
 position: Forward
 slug: 2015-coleby-jr-dwight
 status: active

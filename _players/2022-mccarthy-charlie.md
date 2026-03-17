@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/07/Charlie-McCarthy-13-60
 last_name: McCarthy
 notes: ''
 number: 13
+order: 13
 position: Guard
 projected: ''
 slug: 2022-mccarthy-charlie

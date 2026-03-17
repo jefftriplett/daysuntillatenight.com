@@ -10,6 +10,7 @@ image: https://kuathletics.com/wp-content/uploads/2017/09/Moore_Charlie.jpg
 last_name: Moore
 notes: ''
 number: 2
+order: 02
 position: Guard
 projected: ''
 slug: 2018-moore-charlie

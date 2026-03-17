@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2020/09/Jossell_Latrell_090820
 last_name: Jossell
 notes: ''
 number: 4
+order: 04
 position: Guard
 projected: ''
 slug: 2020-jossell-latrell

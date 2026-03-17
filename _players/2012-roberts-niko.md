@@ -7,6 +7,7 @@ hometown: Huntington, N.Y.
 image: https://kuathletics.com/wp-content/uploads/2013/06/5667928.jpeg
 last_name: Roberts
 number: 20
+order: 20
 position: Guard
 slug: 2012-roberts-niko
 url: https://kuathletics.com/sports/mbball/roster/season/2012-13/player/niko-roberts/

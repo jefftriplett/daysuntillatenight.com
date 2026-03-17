@@ -7,6 +7,7 @@ hometown: Moreno Valley, Calif.
 image: https://kuathletics.com/wp-content/uploads/2013/06/6718953.jpeg
 last_name: Lindsay
 number: 22
+order: 22
 position: Guard
 slug: 2011-lindsay-merv
 url: https://kuathletics.com/sports/mbball/roster/season/2011-12/player/merv-lindsay/

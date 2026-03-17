@@ -6,6 +6,7 @@ high_school: Rock Bridge HS
 hometown: Columbia, Mo.
 last_name: Harris Jr.
 number: '3'
+order: 03
 position: Guard
 slug: 2024-harris-jr-dajuan
 url: /sports/mens-basketball/roster/dajuan-harris-jr-/15490

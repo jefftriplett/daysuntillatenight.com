@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/07/Zach-Clemence-21-600x5
 last_name: Clemence
 notes: ''
 number: 21
+order: 21
 position: Forward
 projected: ''
 slug: 2022-clemence-zach

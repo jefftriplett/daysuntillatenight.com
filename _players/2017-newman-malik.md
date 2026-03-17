@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2017/09/Newman_Malik.jpg
 last_name: Newman
 notes: ''
 number: 14
+order: 14
 position: Guard
 projected: ''
 slug: 2017-newman-malik

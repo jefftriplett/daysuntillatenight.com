@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2022/07/Udeh_Ernest_2022_5988-
 last_name: Udeh Jr.
 notes: ''
 number: 23
+order: 23
 position: Center
 projected: ''
 slug: 2022-udeh-jr-ernest

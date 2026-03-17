@@ -10,6 +10,7 @@ image: https://kuathletics.com/wp-content/uploads/2017/09/Vick_Lagerald.jpg
 last_name: Vick
 notes: ''
 number: 24
+order: 24
 position: Guard
 projected: ''
 slug: 2018-vick-lagerald

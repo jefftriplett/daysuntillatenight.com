@@ -1,8 +1,8 @@
 
 {% if include.status %}
-  {% assign players = site.players | where: 'year', include.current_year | where: 'status', include.status | sort: "number" %}
+  {% assign players = site.players | where: 'year', include.current_year | where: 'status', include.status | sort: "order" %}
 {% else %}
-  {% assign players = site.players | where: 'year', include.current_year | sort: "number" %}
+  {% assign players = site.players | where: 'year', include.current_year | sort: "order" %}
 {% endif %}
 {% assign players_count = players | size %}
 

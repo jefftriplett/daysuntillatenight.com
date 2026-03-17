@@ -7,6 +7,7 @@ hometown: Chicago, Ill.
 image: https://kuathletics.com/wp-content/uploads/2014/09/Alexander_Cliff_08262014.jpg
 last_name: Alexander
 number: 2
+order: 02
 position: Forward
 slug: 2014-alexander-cliff
 status: active

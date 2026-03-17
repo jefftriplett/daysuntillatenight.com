@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2018/06/Grimes_Quentin_0625201
 last_name: Grimes
 notes: ''
 number: 5
+order: 05
 position: Guard
 projected: ''
 slug: 2018-grimes-quentin

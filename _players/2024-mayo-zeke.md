@@ -6,6 +6,7 @@ high_school: Lawrence HS
 hometown: Lawrence, Kan.
 last_name: Mayo
 number: '5'
+order: 05
 position: Guard
 slug: 2024-mayo-zeke
 url: /sports/mens-basketball/roster/zeke-mayo/15498

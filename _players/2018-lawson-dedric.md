@@ -10,6 +10,7 @@ image: https://kuathletics.com/wp-content/uploads/2017/06/Lawson_Dedric_06232017
 last_name: Lawson
 notes: Transfer from Memphis
 number: 1
+order: 01
 position: Forward
 projected: ''
 slug: 2018-lawson-dedric

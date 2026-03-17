@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/09/MBB_Agbaji_Ochai_HS_10
 last_name: Agbaji
 notes: ''
 number: 30
+order: 30
 position: Guard
 projected: ''
 slug: 2020-agbaji-ochai

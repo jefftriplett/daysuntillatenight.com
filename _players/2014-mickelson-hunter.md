@@ -7,6 +7,7 @@ hometown: Jonesboro, Ark.
 image: https://kuathletics.com/wp-content/uploads/2013/07/Mickelson_Hunter_07112013.jpg
 last_name: Mickelson
 number: 42
+order: 42
 position: Forward
 slug: 2014-mickelson-hunter
 status: active

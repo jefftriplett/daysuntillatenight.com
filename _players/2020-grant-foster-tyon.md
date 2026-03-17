@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2020/09/Grant-Foster_Tyon_0908
 last_name: Grant-Foster
 notes: ''
 number: 1
+order: 01
 position: Guard
 projected: ''
 slug: 2020-grant-foster-tyon

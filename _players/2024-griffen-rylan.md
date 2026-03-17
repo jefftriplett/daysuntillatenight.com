@@ -6,6 +6,7 @@ high_school: Richardson HS
 hometown: Dallas, Texas
 last_name: Griffen
 number: '6'
+order: 06
 position: Guard
 slug: 2024-griffen-rylan
 url: /sports/mens-basketball/roster/rylan-griffen/15499

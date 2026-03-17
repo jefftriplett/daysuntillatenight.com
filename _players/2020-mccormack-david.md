@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/09/MBB_McCormack_David_HS
 last_name: McCormack
 notes: ''
 number: 33
+order: 33
 position: Forward
 projected: ''
 slug: 2020-mccormack-david

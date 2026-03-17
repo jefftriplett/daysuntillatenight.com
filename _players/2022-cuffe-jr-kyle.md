@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/07/Kyle-Cuffe-Jr.-5-600x5
 last_name: Cuffe Jr.
 notes: ''
 number: 5
+order: 05
 position: Guard
 projected: ''
 slug: 2022-cuffe-jr-kyle

@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/07/KJ-Adams-24-600x500.jp
 last_name: Adams Jr.
 notes: null
 number: 24
+order: 24
 position: Forward
 projected: null
 slug: 2021-adams-jr-kj

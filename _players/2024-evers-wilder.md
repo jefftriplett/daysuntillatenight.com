@@ -6,6 +6,7 @@ high_school: Oak Mountain HS
 hometown: Birmingham, Ala.
 last_name: Evers
 number: '12'
+order: 12
 position: Guard
 slug: 2024-evers-wilder
 url: /sports/mens-basketball/roster/wilder-evers/15489

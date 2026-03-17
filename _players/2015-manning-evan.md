@@ -7,6 +7,7 @@ hometown: Lawrence, Kan.
 image: https://kuathletics.com/wp-content/uploads/2015/09/Manning_Evan_09152015.jpg
 last_name: Manning
 number: 5
+order: 05
 position: Guard
 slug: 2015-manning-evan
 status: active

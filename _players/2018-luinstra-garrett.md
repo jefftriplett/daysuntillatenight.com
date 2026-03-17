@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2018/06/Luinstra_Garrett_06252
 last_name: Luinstra
 notes: ''
 number: 20
+order: 20
 position: Guard
 projected: ''
 slug: 2018-luinstra-garrett

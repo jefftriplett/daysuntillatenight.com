@@ -7,6 +7,7 @@ hometown: Lawrence, Kan.
 image: https://kuathletics.com/wp-content/uploads/2015/09/Self_Tyler_09152015.jpg
 last_name: Self
 number: 20
+order: 20
 position: Guard
 slug: 2016-self-tyler
 status: active

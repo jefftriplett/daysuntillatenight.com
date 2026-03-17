@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2017/09/Mykhailiuk_Sviatoslav.
 last_name: Mykhailiuk
 notes: ''
 number: 10
+order: 10
 position: Guard
 projected: ''
 slug: 2015-mykhailiuk-sviatoslav

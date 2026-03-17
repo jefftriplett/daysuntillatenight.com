@@ -7,6 +7,7 @@ hometown: Leawood, Kan.
 image: https://kuathletics.com/wp-content/uploads/2013/06/5667938.jpeg
 last_name: Teahan
 number: 2
+order: 02
 position: Guard
 slug: 2010-teahan-conner
 url: https://kuathletics.com/sports/mbball/roster/season/2010-11/player/conner-teahan/

@@ -6,6 +6,7 @@ high_school: Greenhill School
 hometown: McKinney, Texas
 last_name: Shelby
 number: '7'
+order: 07
 position: Guard
 slug: 2024-shelby-noah
 url: /sports/mens-basketball/roster/noah-shelby/15500

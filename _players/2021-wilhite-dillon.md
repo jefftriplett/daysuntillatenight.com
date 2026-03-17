@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/07/Dillon-Wilhite-15-600x
 last_name: Wilhite
 notes: null
 number: 15
+order: 15
 position: Forward
 projected: null
 slug: 2021-wilhite-dillon

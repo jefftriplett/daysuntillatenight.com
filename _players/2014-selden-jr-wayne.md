@@ -7,6 +7,7 @@ hometown: Roxbury, Mass.
 image: https://kuathletics.com/wp-content/uploads/2013/07/Selden_Wayne_07112013.jpg
 last_name: Selden Jr.
 number: 1
+order: 01
 position: Guard
 slug: 2014-selden-jr-wayne
 status: active

@@ -7,6 +7,7 @@ hometown: Dallas, Texas
 image: https://kuathletics.com/wp-content/uploads/2023/07/Jankovich_Michael_2023-600x400.jpg
 last_name: Jankovich
 number: '20'
+order: 20
 position: Guard
 slug: 2023-jankovich-michael
 status: graduating

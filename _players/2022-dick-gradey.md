@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2022/07/Dick_Gradey_2022_6135-
 last_name: Dick
 notes: ''
 number: 4
+order: 04
 position: Guard
 projected: ''
 slug: 2022-dick-gradey

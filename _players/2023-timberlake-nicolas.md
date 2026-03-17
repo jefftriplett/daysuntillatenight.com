@@ -7,6 +7,7 @@ hometown: Braintree, Mass.
 image: https://kuathletics.com/wp-content/uploads/2023/06/Timberlake_Nicolas_2023-600x400.jpg
 last_name: Timberlake
 number: '25'
+order: 25
 position: Guard
 slug: 2023-timberlake-nicolas
 status: graduating

@@ -8,6 +8,7 @@ hometown: Henderson, N.C,
 image: https://kuathletics.com/wp-content/uploads/2022/07/Rice_MJ_2022_6071-600x500.jpg
 last_name: Rice
 number: 11
+order: 11
 position: Guard
 slug: 2022-rice-mj
 status: departing

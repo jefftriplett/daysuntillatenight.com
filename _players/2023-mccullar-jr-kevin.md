@@ -7,6 +7,7 @@ hometown: San Antonio, Texas
 image: https://kuathletics.com/wp-content/uploads/2022/07/McCullar_Kevin_2023-600x400.jpg
 last_name: McCullar Jr.
 number: '15'
+order: 15
 position: Guard
 slug: 2023-mccullar-jr-kevin
 status: declaring

@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/07/Joseph-Yesufu-1a-600x5
 last_name: Yesufu
 notes: ''
 number: 1
+order: 01
 position: Guard
 projected: ''
 slug: 2021-yesufu-joseph

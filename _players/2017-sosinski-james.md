@@ -7,6 +7,7 @@ hometown: Chandler, Ariz.
 image: https://kuathletics.com/wp-content/uploads/2018/07/Sosinski_James.jpg
 last_name: Sosinski
 number: 82
+order: 82
 position: Forward
 slug: 2017-sosinski-james
 status: active

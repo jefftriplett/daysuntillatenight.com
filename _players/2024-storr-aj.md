@@ -6,6 +6,7 @@ high_school: IMG Academy
 hometown: Rockford, Ill.
 last_name: Storr
 number: '2'
+order: 02
 position: Guard
 slug: 2024-storr-aj
 url: /sports/mens-basketball/roster/aj-storr/15496

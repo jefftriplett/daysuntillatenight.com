@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2020/09/Enaruna_Tristan_090820
 last_name: Enaruna
 notes: ''
 number: 13
+order: 13
 position: Guard/Forward
 projected: ''
 slug: 2020-enaruna-tristan

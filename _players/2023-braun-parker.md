@@ -7,6 +7,7 @@ hometown: Burlington, Kan.
 image: https://kuathletics.com/wp-content/uploads/2023/06/Braun_Parker_2023-600x400.jpg
 last_name: Braun
 number: '23'
+order: 23
 position: Forward
 slug: 2023-braun-parker
 status: graduating

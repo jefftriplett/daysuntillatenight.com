@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2017/09/Graham_Devonte_.jpg
 last_name: Graham
 notes: ''
 number: 4
+order: 04
 position: Guard
 projected: ''
 slug: 2015-graham-devonte

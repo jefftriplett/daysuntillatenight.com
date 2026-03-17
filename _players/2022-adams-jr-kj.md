@@ -7,6 +7,7 @@ hometown: Austin, Texas
 image: https://kuathletics.com/wp-content/uploads/2021/07/KJ-Adams-24-600x500.jpg
 last_name: Adams Jr.
 number: 24
+order: 24
 position: Forward
 slug: 2022-adams-jr-kj
 status: active

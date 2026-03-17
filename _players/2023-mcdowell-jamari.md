@@ -7,6 +7,7 @@ hometown: Houston, Texas
 image: https://kuathletics.com/wp-content/uploads/2023/06/McDowell_Jamari_2023-600x400.jpg
 last_name: McDowell
 number: '11'
+order: 11
 position: Guard
 slug: 2023-mcdowell-jamari
 url: /sports/mens-basketball/roster/jamari-mcdowell/975

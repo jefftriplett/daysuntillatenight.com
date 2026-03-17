@@ -7,6 +7,7 @@ hometown: Wichita, Kan.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2025/6/11/Thengvall_Will.jpg
 last_name: Thengvall
 number: '21'
+order: 21
 position: Guard
 slug: 2025-thengvall-will
 url: /sports/mens-basketball/roster

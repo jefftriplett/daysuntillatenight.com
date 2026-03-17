@@ -6,6 +6,7 @@ high_school: Westlake HS
 hometown: Austin, Texas
 last_name: Adams Jr.
 number: '24'
+order: 24
 position: Forward
 slug: 2024-adams-jr-kj
 url: /sports/mens-basketball/roster/kj-adams-jr-/15494

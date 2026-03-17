@@ -7,6 +7,7 @@ hometown: Burlington, Kan.
 image: https://kuathletics.com/wp-content/uploads/2013/06/5667915.jpeg
 last_name: Reed
 number: 14
+order: 14
 position: Guard
 slug: 2010-reed-tyrel
 url: https://kuathletics.com/sports/mbball/roster/season/2010-11/player/tyrel-reed/

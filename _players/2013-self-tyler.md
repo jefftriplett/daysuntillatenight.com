@@ -7,6 +7,7 @@ hometown: Lawrence, Kan.
 image: https://kuathletics.com/wp-content/uploads/2015/09/Self_Tyler_09152015.jpg
 last_name: Self
 number: 11
+order: 11
 position: Guard
 slug: 2013-self-tyler
 url: https://kuathletics.com/sports/mbball/roster/season/2013-14/player/tyler-self/

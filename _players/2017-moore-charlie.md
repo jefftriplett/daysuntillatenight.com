@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2017/09/Moore_Charlie.jpg
 last_name: Moore
 notes: <br>Eligible Fall 2018
 number: 5
+order: 05
 position: Guard
 projected: ''
 slug: 2017-moore-charlie

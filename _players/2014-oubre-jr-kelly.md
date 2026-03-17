@@ -7,6 +7,7 @@ hometown: New Orleans, La.
 image: https://kuathletics.com/wp-content/uploads/2015/01/112265_Library_KUAthletics.jpg
 last_name: Oubre Jr.
 number: 12
+order: 12
 position: Guard
 slug: 2014-oubre-jr-kelly
 status: active

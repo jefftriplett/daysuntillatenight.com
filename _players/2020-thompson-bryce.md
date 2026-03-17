@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2020/09/Muscadin_Gethro_090820
 last_name: Thompson
 notes: ''
 number: 24
+order: 24
 position: Guard
 projected: ''
 slug: 2020-thompson-bryce

@@ -7,6 +7,7 @@ hometown: Juliette, Ga.
 image: https://kuathletics.com/wp-content/uploads/2013/07/Greene_Brannen_07112013.jpg
 last_name: Greene
 number: 14
+order: 14
 position: Guard
 slug: 2014-greene-brannen
 status: active

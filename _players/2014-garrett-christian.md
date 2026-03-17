@@ -7,6 +7,7 @@ hometown: Los Angeles, Calif.
 image: https://kuathletics.com/wp-content/uploads/2013/06/6718934.jpeg
 last_name: Garrett
 number: 15
+order: 15
 position: Guard
 slug: 2014-garrett-christian
 status: active

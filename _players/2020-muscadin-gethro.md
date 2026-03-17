@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2020/09/Muscadin_Gethro_090820
 last_name: Muscadin
 notes: ''
 number: 35
+order: 35
 position: Forward
 projected: ''
 slug: 2020-muscadin-gethro

@@ -9,6 +9,7 @@ image: https://kuathletics.com/wp-content/uploads/2021/09/MBB_Martin_Remy_HS_105
 last_name: Martin
 notes: ''
 number: 11
+order: 11
 position: Guard
 projected: ''
 slug: 2021-martin-remy

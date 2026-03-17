@@ -7,6 +7,7 @@ hometown: Goddard, Kan.
 image: https://kuathletics.com/wp-content/uploads/2016/09/Vang_Tucker_07142016.jpg
 last_name: Vang
 number: 12
+order: 12
 position: Guard
 slug: 2016-vang-tucker
 status: active

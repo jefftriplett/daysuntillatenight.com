@@ -6,6 +6,7 @@ high_school: Manvel HS
 hometown: Houston, Texas
 last_name: McDowell
 number: '11'
+order: 11
 position: Guard
 slug: 2024-mcdowell-jamari
 url: /sports/mens-basketball/roster/jamari-mcdowell/15492
