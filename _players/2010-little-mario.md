@@ -4,7 +4,7 @@ first_name: Mario
 height: 6'6"
 high_school: Washington HS
 hometown: Chicago, Ill.
-image: https://kuathletics.com/wp-content/uploads/2013/06/5667884.jpeg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/13/5667884.jpeg
 last_name: Little
 number: 23
 order: 23

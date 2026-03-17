@@ -6,7 +6,7 @@ first_name: Jalen
 height: 6'8"
 high_school: John H. Guyer HS
 hometown: Denton, Texas
-image: https://kuathletics.com/wp-content/uploads/2021/09/MBB_Wilson_Jalen_HS_1083-600x400.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/MBB_Wilson_Jalen_HS_1083.jpg
 last_name: Wilson
 notes: ''
 number: 10

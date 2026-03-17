@@ -4,7 +4,7 @@ first_name: Frank
 height: 5'11"
 high_school: Petersburg HS
 hometown: Petersburg, Va.
-image: https://kuathletics.com/wp-content/uploads/2016/09/Mason_Frank_09012016.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Mason_Frank_09012016.jpg
 last_name: Mason III
 number: 0
 order: 00

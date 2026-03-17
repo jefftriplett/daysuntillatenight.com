@@ -5,7 +5,7 @@ first_name: Clay
 height: 6'5"
 high_school: Lansing HS
 hometown: Lansing, Kan.
-image: https://kuathletics.com/wp-content/uploads/2017/09/Young_Clay.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Young_Clay.jpg
 last_name: Young
 notes: ''
 number: 21

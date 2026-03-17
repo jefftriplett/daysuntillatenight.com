@@ -4,7 +4,7 @@ first_name: Evan
 height: 6'3"
 high_school: Lawrence Free State HS
 hometown: Lawrence, Kan.
-image: https://kuathletics.com/wp-content/uploads/2015/09/Manning_Evan_09152015.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Manning_Evan_09152015.jpg
 last_name: Manning
 number: 10
 order: 10

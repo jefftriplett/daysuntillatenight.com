@@ -4,7 +4,7 @@ first_name: Patrick
 height: 6-1
 high_school: Columbus Unified HS
 hometown: Columbus, Kan.
-image: https://kuathletics.com/wp-content/uploads/2023/06/Cassidy_Patrick_2023-600x400.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/6/18/2023_06_Cassidy_Patrick_2023.jpg
 last_name: Cassidy
 number: '14'
 order: 14

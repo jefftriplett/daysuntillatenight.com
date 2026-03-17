@@ -5,7 +5,7 @@ first_name: Ochai
 height: 6'5"
 high_school: Oak Park HS
 hometown: Kansas City, Mo.
-image: https://kuathletics.com/wp-content/uploads/2021/09/MBB_Agbaji_Ochai_HS_1010-600x400.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/MBB_Agbaji_Ochai_HS_1010.jpg
 last_name: Agbaji
 notes: ''
 number: 30

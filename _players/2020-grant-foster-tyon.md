@@ -5,7 +5,7 @@ first_name: Tyon
 height: 6'7"
 high_school: Schlagle HS / Indian Hills CC
 hometown: Kansas City, Kan.
-image: https://kuathletics.com/wp-content/uploads/2020/09/Grant-Foster_Tyon_09082020-600x500.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Grant-Foster_Tyon_09082020.jpg
 last_name: Grant-Foster
 notes: ''
 number: 1

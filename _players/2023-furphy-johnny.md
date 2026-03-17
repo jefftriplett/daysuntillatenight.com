@@ -4,7 +4,7 @@ first_name: Johnny
 height: 6-9
 high_school: Centre of Excellence
 hometown: Melbourne, Australia
-image: https://kuathletics.com/wp-content/uploads/2023/08/Furphy_Johnny-600x400.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/6/18/2023_08_Furphy_Johnny.jpg
 last_name: Furphy
 number: '10'
 order: 10

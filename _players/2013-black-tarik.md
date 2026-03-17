@@ -4,7 +4,7 @@ first_name: Tarik
 height: 6'9"
 high_school: Ridgeway HS
 hometown: Memphis, Tenn.
-image: https://kuathletics.com/wp-content/uploads/2013/07/Black_Tarik_07112013.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Black_Tarik_07112013.jpg
 last_name: Black
 number: 25
 order: 25

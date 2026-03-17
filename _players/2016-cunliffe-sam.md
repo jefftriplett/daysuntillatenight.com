@@ -5,7 +5,7 @@ first_name: Sam
 height: 6'6"
 high_school: Rainier Beach HS
 hometown: Seattle, Wash.
-image: https://kuathletics.com/wp-content/uploads/2017/09/Cunliffe_Sam.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Cunliffe_Sam.jpg
 last_name: Cunliffe
 notes: <a href="http://www.kansascity.com/sports/college/big-12/university-of-kansas/article125174569.html">Sophomore
   (redshirt), Transfer from Arizona State</a><br>Eligible January 2018

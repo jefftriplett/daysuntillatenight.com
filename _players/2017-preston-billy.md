@@ -5,7 +5,7 @@ first_name: Billy
 height: 6'10"
 high_school: Oak Hill Academy [Va.]
 hometown: Los Angeles, Calif.
-image: https://kuathletics.com/wp-content/uploads/2017/06/Preston_Billy_06232017.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Preston_Billy_06232017.jpg
 last_name: Preston
 notes: <br><a href="https://n.rivals.com/content/prospects/1232">Rivals.com
 number: 23

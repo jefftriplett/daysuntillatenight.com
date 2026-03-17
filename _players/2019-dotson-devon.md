@@ -5,7 +5,7 @@ first_name: Devon
 height: 6'2"
 high_school: Providence Day School
 hometown: Charlotte, N.C.
-image: https://kuathletics.com/wp-content/uploads/2018/06/Dotson_Devon_06252018.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Dotson_Devon_06252018.jpg
 last_name: Dotson
 notes: ''
 number: 1

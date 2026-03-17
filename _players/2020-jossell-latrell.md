@@ -5,7 +5,7 @@ first_name: Latrell
 height: 5'11"
 high_school: Keller Central HS [Texas]
 hometown: Chicago, Ill.
-image: https://kuathletics.com/wp-content/uploads/2020/09/Jossell_Latrell_09082020-600x500.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Jossell_Latrell_09082020.jpg
 last_name: Jossell
 notes: ''
 number: 4

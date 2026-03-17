@@ -5,7 +5,7 @@ first_name: Ernest
 height: 6'11"
 high_school: Dr. Phillips HS
 hometown: Orlando, Fla.
-image: https://kuathletics.com/wp-content/uploads/2022/07/Udeh_Ernest_2022_5988-600x500.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Udeh_Ernest_2022_5988.jpg
 last_name: Udeh Jr.
 notes: ''
 number: 23

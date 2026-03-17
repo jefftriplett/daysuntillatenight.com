@@ -4,7 +4,7 @@ first_name: Andrew
 height: 6'8"
 high_school: Vaughan Secondary School
 hometown: Vaughan, Ontario
-image: https://kuathletics.com/wp-content/uploads/2013/07/Wiggins_Andrew_07112013.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Wiggins_Andrew_07112013.jpg
 last_name: Wiggins
 number: 22
 order: 22

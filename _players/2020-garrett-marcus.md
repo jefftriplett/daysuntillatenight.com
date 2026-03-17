@@ -5,7 +5,7 @@ first_name: Marcus
 height: 6'5"
 high_school: Skyline HS
 hometown: Dallas, Texas
-image: https://kuathletics.com/wp-content/uploads/2020/09/Garrett_Marcus_09082020-600x500.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Garrett_Marcus_09082020.jpg
 last_name: Garrett
 notes: ''
 number: 0

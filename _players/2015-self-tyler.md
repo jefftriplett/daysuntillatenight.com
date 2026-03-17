@@ -4,7 +4,7 @@ first_name: Tyler
 height: 6'2"
 high_school: Lawrence Free State HS
 hometown: Lawrence, Kan.
-image: https://kuathletics.com/wp-content/uploads/2015/09/Self_Tyler_09152015.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Self_Tyler_09152015.jpg
 last_name: Self
 number: 11
 order: 11

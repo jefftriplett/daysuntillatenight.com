@@ -4,7 +4,7 @@ first_name: Christian
 height: 6'3"
 high_school: Campbell Hall School
 hometown: Los Angeles, Calif.
-image: https://kuathletics.com/wp-content/uploads/2013/06/6718934.jpeg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/6718934.jpeg
 last_name: Garrett
 number: 15
 order: 15

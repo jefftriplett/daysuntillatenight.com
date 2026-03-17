@@ -5,7 +5,7 @@ first_name: Silvio
 height: 6'9"
 high_school: IMG Academy [Fla.]
 hometown: Luanda, Angola
-image: https://kuathletics.com/wp-content/uploads/2017/12/De_Sousa_Silvio.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/De_Sousa_Silvio.jpg
 last_name: De Sousa
 notes: ''
 number: 22

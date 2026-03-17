@@ -5,7 +5,7 @@ first_name: Zach
 height: 6'10"
 high_school: Sunrise Christian Academy [Kan.]
 hometown: San Antonio, Texas
-image: https://kuathletics.com/wp-content/uploads/2021/07/Zach-Clemence-21-600x500.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/6/18/2023_07_Clemence_Zach_2023.jpg
 last_name: Clemence
 notes: ''
 number: 21

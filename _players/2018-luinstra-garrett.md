@@ -5,7 +5,7 @@ first_name: Garrett
 height: 6'2"
 high_school: Lawrence Free State HS
 hometown: Lawrence, Kan.
-image: https://kuathletics.com/wp-content/uploads/2018/06/Luinstra_Garrett_06252018.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Luinstra_Garrett_06252018.jpg
 last_name: Luinstra
 notes: ''
 number: 20

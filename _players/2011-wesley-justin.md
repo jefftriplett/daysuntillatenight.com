@@ -4,7 +4,7 @@ first_name: Justin
 height: 6'9"
 high_school: North Crowley HS
 hometown: Fort Worth, Texas
-image: https://kuathletics.com/wp-content/uploads/2013/06/5667943.jpeg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/5667943.jpeg
 last_name: Wesley
 number: 4
 order: 04

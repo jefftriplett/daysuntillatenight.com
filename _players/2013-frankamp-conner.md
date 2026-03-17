@@ -4,7 +4,7 @@ first_name: Conner
 height: 6'0"
 high_school: Wichita North HS
 hometown: Wichita, Kan.
-image: https://kuathletics.com/wp-content/uploads/2013/07/Frankamp_Conner_07112013.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Frankamp_Conner_07112013.jpg
 last_name: Frankamp
 number: 23
 order: 23

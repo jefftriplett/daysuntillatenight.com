@@ -4,7 +4,7 @@ first_name: Royce
 height: 6'3"
 high_school: Sunnyslope HS
 hometown: Phoenix, Ariz.
-image: https://kuathletics.com/wp-content/uploads/2013/06/5667954.jpeg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/5667954.jpeg
 last_name: Woolridge
 number: 11
 order: 11

@@ -4,7 +4,7 @@ first_name: Jamari
 height: 6-4
 high_school: Manvel HS
 hometown: Houston, Texas
-image: https://kuathletics.com/wp-content/uploads/2023/06/McDowell_Jamari_2023-600x400.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/6/18/2023_06_McDowell_Jamari_2023.jpg
 last_name: McDowell
 number: '11'
 order: 11

@@ -4,7 +4,7 @@ first_name: Kevin
 height: 6-7
 high_school: Wagner HS / Texas Tech
 hometown: San Antonio, Texas
-image: https://kuathletics.com/wp-content/uploads/2022/07/McCullar_Kevin_2023-600x400.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/6/18/2022_07_McCullar_Kevin_2023.jpg
 last_name: McCullar Jr.
 number: '15'
 order: 15

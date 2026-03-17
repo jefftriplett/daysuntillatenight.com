@@ -4,7 +4,7 @@ first_name: Parker
 height: 6-10
 high_school: Blue Valley Northwest HS
 hometown: Burlington, Kan.
-image: https://kuathletics.com/wp-content/uploads/2023/06/Braun_Parker_2023-600x400.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/6/18/2023_06_Braun_Parker_2023.jpg
 last_name: Braun
 number: '23'
 order: 23

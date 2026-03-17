@@ -4,7 +4,7 @@ first_name: Andrew
 height: 6'6"
 high_school: Miller School
 hometown: Richmond, Va.
-image: https://kuathletics.com/wp-content/uploads/2013/06/7960499.jpeg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/7960499.jpeg
 last_name: White III
 number: 3
 order: 03

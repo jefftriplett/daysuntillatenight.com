@@ -5,7 +5,7 @@ first_name: Sviatoslav
 height: 6'8"
 high_school: Cherkasy First City Gymnasia
 hometown: Cherkasy, Ukraine
-image: https://kuathletics.com/wp-content/uploads/2017/09/Mykhailiuk_Sviatoslav.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Mykhailiuk_Sviatoslav.jpg
 last_name: Mykhailiuk
 notes: ''
 number: 10

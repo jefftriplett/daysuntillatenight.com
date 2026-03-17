@@ -5,7 +5,7 @@ first_name: Michael
 height: 6'5"
 high_school: Northfield Mount Hermon [Mass.]
 hometown: Dallas, Texas
-image: https://kuathletics.com/wp-content/uploads/2021/07/Michael-Jankovich-20-600x500.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/6/18/2023_07_Jankovich_Michael_2023.jpg
 last_name: Jankovich
 notes: ''
 number: 20

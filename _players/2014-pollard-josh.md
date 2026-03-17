@@ -4,7 +4,7 @@ first_name: Josh
 height: 6'4"
 high_school: Orem HS
 hometown: Cedar Hills, Utah
-image: https://kuathletics.com/wp-content/uploads/2014/09/Pollard_Josh_08262014.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Pollard_Josh_08262014.jpg
 last_name: Pollard
 number: 22
 order: 22

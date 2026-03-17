@@ -4,7 +4,7 @@ first_name: Brady
 height: 6'4"
 high_school: Free State HS/New Hampton [NH] Prep
 hometown: Lawrence, Kan.
-image: https://kuathletics.com/wp-content/uploads/2013/06/5819242.jpeg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/13/5819242.jpeg
 last_name: Morningstar
 number: 12
 order: 12

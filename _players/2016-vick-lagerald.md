@@ -5,7 +5,7 @@ first_name: Lagerald
 height: 6'5"
 high_school: Douglass HS
 hometown: Memphis, Tenn.
-image: https://kuathletics.com/wp-content/uploads/2017/09/Vick_Lagerald.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Vick_Lagerald.jpg
 last_name: Vick
 notes: ''
 number: 2

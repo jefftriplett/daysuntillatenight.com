@@ -4,7 +4,7 @@ first_name: Dwight
 height: 6'9"
 high_school: The Piney Woods School [Miss.]
 hometown: Nassau, Bahamas
-image: https://kuathletics.com/wp-content/uploads/2016/09/Coleby_Dwight_09012016.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Coleby_Dwight_09012016.jpg
 last_name: Coleby Jr.
 number: 22
 order: 22

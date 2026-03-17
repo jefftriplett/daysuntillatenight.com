@@ -4,7 +4,7 @@ first_name: James
 height: 6'7"
 high_school: Hamilton HS
 hometown: Chandler, Ariz.
-image: https://kuathletics.com/wp-content/uploads/2018/07/Sosinski_James.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Sosinski_James.jpg
 last_name: Sosinski
 number: 82
 order: 82

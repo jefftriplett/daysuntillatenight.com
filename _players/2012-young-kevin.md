@@ -4,7 +4,7 @@ first_name: Kevin
 height: 6'8"
 high_school: Perris HS
 hometown: Perris, Calif.
-image: https://kuathletics.com/wp-content/uploads/2013/06/6718970.jpeg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/6718970.jpeg
 last_name: Young
 number: 40
 order: 40

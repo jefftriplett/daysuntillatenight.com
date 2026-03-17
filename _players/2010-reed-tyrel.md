@@ -4,7 +4,7 @@ first_name: Tyrel
 height: 6'3"
 high_school: Burlington HS
 hometown: Burlington, Kan.
-image: https://kuathletics.com/wp-content/uploads/2013/06/5667915.jpeg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/5667915.jpeg
 last_name: Reed
 number: 14
 order: 14

@@ -5,7 +5,7 @@ first_name: Elijah
 height: 6'3"
 high_school: Carroll Senior HS
 hometown: Southlake, Texas
-image: https://kuathletics.com/wp-content/uploads/2018/06/Elliott_Elijah_06252018.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Elliott_Elijah_06252018.jpg
 last_name: Elliott
 notes: null
 number: 10

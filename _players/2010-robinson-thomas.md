@@ -4,7 +4,7 @@ first_name: Thomas
 height: 6'10"
 high_school: Brewster [N.H.] Academy
 hometown: Washington, D.C.
-image: https://kuathletics.com/wp-content/uploads/2013/06/5667933.jpeg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/5667933.jpeg
 last_name: Robinson
 number: null
 position: Forward

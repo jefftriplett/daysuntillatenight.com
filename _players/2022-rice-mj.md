@@ -5,7 +5,7 @@ first_name: MJ
 height: 6'5"
 high_school: Prolific Prep [Calif]
 hometown: Henderson, N.C,
-image: https://kuathletics.com/wp-content/uploads/2022/07/Rice_MJ_2022_6071-600x500.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Rice_MJ_2022_6071.jpg
 last_name: Rice
 number: 11
 order: 11

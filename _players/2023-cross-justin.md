@@ -4,7 +4,7 @@ first_name: Justin
 height: 6-8
 high_school: Oak Park River Forest HS
 hometown: Oak Park, Ill.
-image: https://kuathletics.com/wp-content/uploads/2023/06/Cross_Justin_2023-600x400.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/6/18/2023_06_Cross_Justin_2023.jpg
 last_name: Cross
 number: '4'
 order: 04

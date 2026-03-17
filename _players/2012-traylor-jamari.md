@@ -4,7 +4,7 @@ first_name: Jamari
 height: 6'8"
 high_school: Julian HS
 hometown: Chicago, Ill.
-image: https://kuathletics.com/wp-content/uploads/2015/09/Traylor_Jamari_09152015.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Traylor_Jamari_09152015.jpg
 last_name: Traylor
 number: 31
 order: 31

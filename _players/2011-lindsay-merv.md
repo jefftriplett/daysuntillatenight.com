@@ -4,7 +4,7 @@ first_name: Merv
 height: 6'7"
 high_school: Canyon Springs High School
 hometown: Moreno Valley, Calif.
-image: https://kuathletics.com/wp-content/uploads/2013/06/6718953.jpeg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/6718953.jpeg
 last_name: Lindsay
 number: 22
 order: 22

@@ -4,7 +4,7 @@ first_name: Brannen
 height: 6'7"
 high_school: Tift County HS
 hometown: Juliette, Ga.
-image: https://kuathletics.com/wp-content/uploads/2013/07/Greene_Brannen_07112013.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Greene_Brannen_07112013.jpg
 last_name: Greene
 number: 14
 order: 14

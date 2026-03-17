@@ -4,7 +4,7 @@ first_name: Wayne
 height: 6'5"
 high_school: Tilton School [N.H.]
 hometown: Roxbury, Mass.
-image: https://kuathletics.com/wp-content/uploads/2013/07/Selden_Wayne_07112013.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Selden_Wayne_07112013.jpg
 last_name: Selden Jr.
 number: 1
 order: 01

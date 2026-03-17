@@ -5,7 +5,7 @@ first_name: K.J.
 height: 6'8"
 high_school: Hamilton HS
 hometown: Memphis, Tenn.
-image: https://kuathletics.com/wp-content/uploads/2017/06/Lawson_KJ_06232017.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Lawson_KJ_06232017.jpg
 last_name: Lawson
 notes: <a href="http://www.commercialappeal.com/story/sports/columnists/geoff-calkins/2017/04/10/calkins-lawsons-kansas----and-keelon-lawson-explain-why/100291042/">Sophomore,
   Transfer from Memphis</a>

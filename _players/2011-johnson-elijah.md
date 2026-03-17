@@ -4,7 +4,7 @@ first_name: Elijah
 height: 6'4"
 high_school: Cheyenne HS
 hometown: Las Vegas, Nev.
-image: https://kuathletics.com/wp-content/uploads/2013/06/5667779.jpeg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/5667779.jpeg
 last_name: Johnson
 number: 15
 order: 15

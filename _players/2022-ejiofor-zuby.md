@@ -5,7 +5,7 @@ first_name: Zuby
 height: 6'9"
 high_school: Garland HS
 hometown: Garland, Texas
-image: https://kuathletics.com/wp-content/uploads/2022/07/Ejiofor_Zuby_2022_61001-600x500.jpg
+image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Ejiofor_Zuby_2022_61001.jpg
 last_name: Ejiofor
 notes: ''
 number: 35
