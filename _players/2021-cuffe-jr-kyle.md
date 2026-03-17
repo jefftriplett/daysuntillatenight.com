@@ -9,7 +9,7 @@ image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidear
 last_name: Cuffe Jr.
 notes: ''
 number: 5
-order: 05
+order: 5
 position: Guard
 projected: ''
 slug: 2021-cuffe-jr-kyle

@@ -7,7 +7,7 @@ hometown: Lawrence, Kan.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Manning_Evan_09152015.jpg
 last_name: Manning
 number: 5
-order: 05
+order: 5
 position: Guard
 slug: 2013-manning-evan
 url: https://kuathletics.com/sports/mbball/roster/season/2013-14/player/evan-manning/

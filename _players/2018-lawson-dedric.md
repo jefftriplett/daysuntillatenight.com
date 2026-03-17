@@ -10,7 +10,7 @@ image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidear
 last_name: Lawson
 notes: Transfer from Memphis
 number: 1
-order: 01
+order: 1
 position: Forward
 projected: ''
 slug: 2018-lawson-dedric

@@ -7,7 +7,7 @@ hometown: Dallas, Texas
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/7/31/Griffen_Rylan.JPG
 last_name: Griffen
 number: '6'
-order: 06
+order: 6
 position: Guard
 slug: 2024-griffen-rylan
 url: /sports/mens-basketball/roster/rylan-griffen/15499

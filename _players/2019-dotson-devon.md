@@ -9,7 +9,7 @@ image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidear
 last_name: Dotson
 notes: ''
 number: 1
-order: 01
+order: 1
 position: Guard
 projected: ''
 slug: 2019-dotson-devon

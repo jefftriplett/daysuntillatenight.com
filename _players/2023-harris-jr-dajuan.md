@@ -7,7 +7,7 @@ hometown: Columbia, Mo.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/6/18/2019_09_Harris_Dajuan_2023.jpg
 last_name: Harris Jr.
 number: '3'
-order: 03
+order: 3
 position: Guard
 slug: 2023-harris-jr-dajuan
 url: /sports/mens-basketball/roster/dajuan-harris-jr-/971

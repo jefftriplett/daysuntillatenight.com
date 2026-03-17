@@ -9,7 +9,7 @@ image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidear
 last_name: Garrett
 notes: ''
 number: 0
-order: 00
+order: 0
 position: Guard
 projected: ''
 slug: 2017-garrett-marcus

@@ -9,7 +9,7 @@ image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidear
 last_name: Harris Jr.
 notes: ''
 number: 3
-order: 03
+order: 3
 position: Guard
 projected: ''
 slug: 2022-harris-jr-dajuan

@@ -7,7 +7,7 @@ hometown: Richmond, Va.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/7960499.jpeg
 last_name: White III
 number: 3
-order: 03
+order: 3
 position: Guard
 slug: 2012-white-iii-andrew
 url: https://kuathletics.com/sports/mbball/roster/season/2012-13/player/andrew-white-iii/

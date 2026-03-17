@@ -7,7 +7,7 @@ hometown: Lawrence, Kan.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/7/31/Mayo_Zeke.JPG
 last_name: Mayo
 number: '5'
-order: 05
+order: 5
 position: Guard
 slug: 2024-mayo-zeke
 url: /sports/mens-basketball/roster/zeke-mayo/15498

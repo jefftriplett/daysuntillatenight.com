@@ -7,7 +7,7 @@ hometown: Rockford, Ill.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/7/31/Storr_AJ.JPG
 last_name: Storr
 number: '2'
-order: 02
+order: 2
 position: Guard
 slug: 2024-storr-aj
 url: /sports/mens-basketball/roster/aj-storr/15496

@@ -7,7 +7,7 @@ hometown: Roxbury, Mass.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Selden_Wayne_07112013.jpg
 last_name: Selden Jr.
 number: 1
-order: 01
+order: 1
 position: Guard
 slug: 2014-selden-jr-wayne
 status: active

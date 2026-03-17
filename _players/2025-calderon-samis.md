@@ -7,7 +7,7 @@ hometown: Espirito Santo, Brazil
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2025/6/11/Calderon_Samis.jpg
 last_name: Calderon
 number: '6'
-order: 06
+order: 6
 position: Forward
 slug: 2025-calderon-samis
 url: /sports/mens-basketball/roster

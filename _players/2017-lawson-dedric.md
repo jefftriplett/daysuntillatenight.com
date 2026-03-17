@@ -10,7 +10,7 @@ last_name: Lawson
 notes: <a href="http://www.commercialappeal.com/story/sports/columnists/geoff-calkins/2017/04/10/calkins-lawsons-kansas----and-keelon-lawson-explain-why/100291042/">Junior,
   Transfer from Memphis</a><br>Eligible Fall 2018
 number: 1
-order: 01
+order: 1
 position: Forward
 projected: ''
 slug: 2017-lawson-dedric

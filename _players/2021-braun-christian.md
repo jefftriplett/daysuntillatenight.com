@@ -9,7 +9,7 @@ image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidear
 last_name: Braun
 notes: ''
 number: 2
-order: 02
+order: 2
 position: Guard
 projected: ''
 slug: 2021-braun-christian

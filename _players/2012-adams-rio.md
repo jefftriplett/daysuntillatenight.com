@@ -7,7 +7,7 @@ hometown: Seattle, Wash.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/7960457.jpeg
 last_name: Adams
 number: 2
-order: 02
+order: 2
 position: Guard
 slug: 2012-adams-rio
 url: https://kuathletics.com/sports/mbball/roster/season/2012-13/player/rio-adams/

@@ -9,7 +9,7 @@ image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidear
 last_name: Yesufu
 notes: ''
 number: 1
-order: 01
+order: 1
 position: Guard
 projected: ''
 slug: 2021-yesufu-joseph

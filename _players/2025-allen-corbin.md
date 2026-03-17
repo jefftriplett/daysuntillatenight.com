@@ -7,7 +7,7 @@ hometown: Kansas City, Mo.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2025/6/11/Allen_Corbin.jpg
 last_name: Allen
 number: '2'
-order: 02
+order: 2
 position: Guard
 slug: 2025-allen-corbin
 url: /sports/mens-basketball/roster

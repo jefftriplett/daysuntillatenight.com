@@ -7,7 +7,7 @@ hometown: Durham, N.C.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Bobby-Pettiford-0a.jpg
 last_name: Pettiford Jr.
 number: 0
-order: 00
+order: 0
 position: Guard
 slug: 2021-pettiford-jr-bobby
 status: active

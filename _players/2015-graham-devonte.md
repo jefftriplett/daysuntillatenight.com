@@ -9,7 +9,7 @@ image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidear
 last_name: Graham
 notes: ''
 number: 4
-order: 04
+order: 4
 position: Guard
 projected: ''
 slug: 2015-graham-devonte

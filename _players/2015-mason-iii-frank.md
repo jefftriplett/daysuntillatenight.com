@@ -7,7 +7,7 @@ hometown: Petersburg, Va.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/12/Mason_Frank_09012016.jpg
 last_name: Mason III
 number: 0
-order: 00
+order: 0
 position: Guard
 slug: 2015-mason-iii-frank
 status: active

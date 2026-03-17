@@ -7,7 +7,7 @@ hometown: Greensboro, N.C.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/7/31/Moore_Shak_1794.JPG
 last_name: Moore
 number: '0'
-order: 00
+order: 0
 position: Guard
 slug: 2024-moore-shakeel
 url: /sports/mens-basketball/roster/shakeel-moore/15495

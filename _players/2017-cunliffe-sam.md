@@ -10,7 +10,7 @@ last_name: Cunliffe
 notes: <a href="http://www.kansascity.com/sports/college/big-12/university-of-kansas/article125174569.html">Sophomore
   (redshirt), Transfer from Arizona State</a>
 number: 3
-order: 03
+order: 3
 position: Guard
 projected: ''
 slug: 2017-cunliffe-sam

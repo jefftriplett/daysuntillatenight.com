@@ -9,7 +9,7 @@ image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidear
 last_name: Moore
 notes: <br>Eligible Fall 2018
 number: 5
-order: 05
+order: 5
 position: Guard
 projected: ''
 slug: 2017-moore-charlie
