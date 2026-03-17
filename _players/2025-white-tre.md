@@ -10,6 +10,6 @@ number: '3'
 position: Guard
 slug: 2025-white-tre
 url: /sports/mens-basketball/roster
-weight: '210'
+weight: '215'
 year: 2025
 ---

@@ -1,7 +1,7 @@
 ---
 class: Sr.
 first_name: Jayden
-height: 6-4
+height: 6-5
 high_school: Omaha Central HS
 hometown: Omaha, Neb.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2025/6/11/Dawson_Jayden.jpg
@@ -10,6 +10,6 @@ number: '1'
 position: Guard
 slug: 2025-dawson-jayden
 url: /sports/mens-basketball/roster
-weight: '195'
+weight: '205'
 year: 2025
 ---
