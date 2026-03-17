@@ -7,6 +7,7 @@ hometown: Rancho Mirage, Calif.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/6/18/2023_07_McCarthy_Charlie_2023.jpg
 last_name: McCarthy
 number: null
+order: 99
 position: Guard
 slug: 2023-mccarthy-charlie
 url: /sports/mens-basketball/roster/charlie-mccarthy/986
