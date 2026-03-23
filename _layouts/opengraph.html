@@ -1,0 +1,47 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400,800">
+    <link rel="stylesheet" href="/css/tailwind.css">
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        width: 1200px;
+        height: 630px;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="flex flex-col items-center justify-center w-[1200px] h-[630px] bg-gradient-to-br from-[#002de5] via-[#0034c7] to-[#003bb8] p-12">
+      <div class="flex flex-col items-center justify-center gap-6 w-full h-full">
+        <div class="p-8 rounded-3xl text-center text-white bg-gradient-to-r from-[#E8000D] to-[#ff1a2e] shadow-2xl w-full">
+          <div id="heading-days" class="text-[120px] font-bold text-yellow-100 drop-shadow-lg leading-none"></div>
+          <div class="text-5xl font-light mt-2">Days Until Late Night</div>
+        </div>
+        <div class="p-6 rounded-3xl text-white text-center text-3xl bg-gradient-to-r from-[#E8000D] to-[#ff1a2e] shadow-xl border-2 border-yellow-400/30 w-full">
+          {{ page.when | default:"TBD" }}
+        </div>
+        <div class="text-yellow-300 text-xl">daysuntillatenight.com &middot; {{ page.season }}</div>
+      </div>
+    </div>
+    <script>
+      (function() {
+        var el = document.getElementById('heading-days');
+        var when = '{{ page.when }}';
+        if (el && when) {
+          var target = new Date(when);
+          var now = new Date();
+          var diff = Math.ceil((target - now) / (1000 * 60 * 60 * 24));
+          el.textContent = diff > 0 ? diff : 0;
+        }
+      })();
+    </script>
+  </body>
+</html>
