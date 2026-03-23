@@ -39,7 +39,9 @@
           var target = new Date(when);
           var now = new Date();
           var diff = Math.ceil((target - now) / (1000 * 60 * 60 * 24));
-          el.textContent = diff > 0 ? diff : 0;
+          if (diff > 0) {
+            el.textContent = diff;
+          }
         }
       })();
     </script>
