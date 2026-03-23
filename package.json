@@ -4,11 +4,15 @@
   "description": "# Development",
   "main": "index.js",
   "dependencies": {
-    "dayjs": "^1.8.12",
-    "tailwindcss": "^2.1.1",
-    "tailwindcss-debug-screens": "^2.0.0"
+    "dayjs": "^1.8.12"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "@tailwindcss/typography": "^0.5.10",
+    "tailwindcss-debug-screens": "^2.2.1"
   },
   "scripts": {
+    "build:css": "tailwindcss build --config ./src/tailwind.config.js --input ./src/styles.css --output ./css/tailwind.css --minify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
