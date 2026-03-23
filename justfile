@@ -1,5 +1,3 @@
-TAILWIND_CSS_VERSION := "latest"
-
 # --------------------------------------------------------------------------------
 
 @_default:
@@ -96,16 +94,11 @@ TAILWIND_CSS_VERSION := "latest"
     just bootstrap
 
 @static:
-    JEKYLL_ENV=production \
-    npx -p tailwindcss@{{ TAILWIND_CSS_VERSION }} tailwindcss build \
+    bunx tailwindcss build \
         --config ./src/tailwind.config.js \
         --input ./src/styles.css \
-        --output ./css/tailwind.css
-
-    npx -p tailwindcss@{{ TAILWIND_CSS_VERSION }} tailwindcss build \
-        --config ./src/tailwind.config.js \
-        --input ./src/styles.css \
-        --output ./css/development.css
+        --output ./css/tailwind.css \
+        --minify
 
 @start +ARGS="--detach":
     just server {{ ARGS }}
