@@ -18,8 +18,10 @@
     <div class="container py-8 px-4 mx-auto max-w-7xl">
       <header class="mb-12 text-center">
         <h1 class="mb-6 p-6 rounded-3xl text-3xl sm:text-7xl font-bold text-white bg-gradient-to-r from-[#E8000D] to-[#ff1a2e] shadow-2xl transform hover:scale-105 transition-transform duration-300">
-          <span id="heading-days" class="block text-yellow-100 drop-shadow-lg"></span>
-          <span class="block mt-2 text-2xl font-light sm:text-5xl">Days Until Late Night</span>
+          <a href="/" class="no-underline text-inherit">
+            <span id="heading-days" class="block text-yellow-100 drop-shadow-lg"></span>
+            <span class="block mt-2 text-2xl font-light sm:text-5xl">Days Until Late Night</span>
+          </a>
         </h1>
         <div class="relative">
           <div id="date" class="p-6 rounded-3xl text-white text-center text-xl sm:text-4xl bg-gradient-to-r from-[#E8000D] to-[#ff1a2e] shadow-xl border-2 border-yellow-400/30">
@@ -48,9 +50,14 @@
         <h2 class="mb-4 text-lg font-semibold text-white sm:text-xl">Previous Years</h2>
         <div class="flex flex-wrap gap-3 justify-center">
           {% assign sorted_years = site.latenights | sort: "current_year" | reverse %}
+          {% assign most_recent = sorted_years | first %}
           {% for year in sorted_years %}
-            {% if year.current_year != page.current_year %}
+            {% if year.current_year != most_recent.current_year %}
+              {% if year.current_year == page.current_year %}
+            <a class="py-2 px-4 text-white rounded-full shadow-lg transition-all duration-200 hover:scale-110 bg-yellow-400/40 ring-2 ring-yellow-400" href="{{ year.url }}">{{ year.current_year }}</a>
+              {% else %}
             <a class="py-2 px-4 text-white rounded-full shadow-lg transition-all duration-200 hover:scale-110 bg-white/20 hover:bg-white/30" href="{{ year.url }}">{{ year.current_year }}</a>
+              {% endif %}
             {% endif %}
           {% endfor %}
         </div>
