@@ -36,12 +36,18 @@
           <div class="absolute -inset-1 bg-gradient-to-r from-yellow-400 to-orange-500 rounded-3xl opacity-30 blur -z-10"></div>
         </div>
       </header>
+      {% if page.estimated %}
+      <div class="p-4 mb-8 rounded-3xl text-center text-yellow-100 bg-gradient-to-r from-[#E8000D]/80 to-[#ff1a2e]/80 text-sm sm:text-lg italic shadow-lg">
+        This date is an estimate. We'll update it once the official date is confirmed.
+      </div>
+      {% endif %}
       <main id="roster" class="flex flex-col gap-8">
         {{ content }}
       </main>
       <nav class="mt-12 rounded-3xl p-6 text-center bg-gradient-to-r from-[#E8000D] to-[#ff1a2e] shadow-xl" aria-label="Previous years navigation">
         <h2 class="mb-4 text-lg font-semibold text-white sm:text-xl">Previous Years</h2>
         <div class="flex flex-wrap gap-3 justify-center">
+          <a class="py-2 px-4 text-white rounded-full shadow-lg transition-all duration-200 hover:scale-110 bg-white/20 hover:bg-white/30" href="{% link _latenights/2026.md %}">2026</a>
           <a class="py-2 px-4 text-white rounded-full shadow-lg transition-all duration-200 hover:scale-110 bg-white/20 hover:bg-white/30" href="{% link _latenights/2025.md %}">2025</a>
           <a class="py-2 px-4 text-white rounded-full shadow-lg transition-all duration-200 hover:scale-110 bg-white/20 hover:bg-white/30" href="{% link _latenights/2024.md %}">2024</a>
           <a class="py-2 px-4 text-white rounded-full shadow-lg transition-all duration-200 hover:scale-110 bg-white/20 hover:bg-white/30" href="{% link _latenights/2023.md %}">2023</a>
@@ -72,5 +78,17 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="/js/plugins.js"></script>
     <script src="/js/ga.js"></script>
+    <script>
+      (function() {
+        var el = document.getElementById('heading-days');
+        var timeEl = document.querySelector('#date time-until, #date time-ago');
+        if (el && timeEl) {
+          var target = new Date(timeEl.getAttribute('datetime'));
+          var now = new Date();
+          var diff = Math.ceil((target - now) / (1000 * 60 * 60 * 24));
+          el.textContent = diff > 0 ? diff : 0;
+        }
+      })();
+    </script>
   </body>
 </html>
