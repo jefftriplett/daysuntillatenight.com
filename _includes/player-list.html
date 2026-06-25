@@ -42,13 +42,19 @@
             <h3 class="text-xl font-bold text-white sm:text-2xl drop-shadow-lg">
               {{ player.first_name }} {{ player.last_name }}
             </h3>
-            <div class="flex gap-2 justify-center text-sm">
-              <span class="py-1 px-3 font-medium text-white rounded-full bg-white/20">{{ player.class }}</span>
-              <span class="py-1 px-3 font-medium text-white rounded-full bg-white/20">{{ player.position }}</span>
-            </div>
-            <div class="text-sm font-medium text-white/90">{{ player.hometown }}</div>
-            {% if player.height %}
-              <div class="text-sm text-white/80">{{ player.height }} • {{ player.weight }}lbs</div>
+            {% if player.class or player.position %}
+              <div class="flex gap-2 justify-center text-sm">
+                {% if player.class %}<span class="py-1 px-3 font-medium text-white rounded-full bg-white/20">{{ player.class }}</span>{% endif %}
+                {% if player.position %}<span class="py-1 px-3 font-medium text-white rounded-full bg-white/20">{{ player.position }}</span>{% endif %}
+              </div>
+            {% endif %}
+            {% if player.hometown %}
+              <div class="text-sm font-medium text-white/90">{{ player.hometown }}</div>
+            {% endif %}
+            {% if player.height or player.weight %}
+              <div class="text-sm text-white/80">
+                {{ player.height }}{% if player.height and player.weight %} • {% endif %}{% if player.weight %}{{ player.weight }}lbs{% endif %}
+              </div>
             {% endif %}
           </div>
         </div>
