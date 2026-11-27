@@ -19,6 +19,7 @@
     <meta property="og:image:height" content="630">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://thumb.im/https://daysuntillatenight.com/opengraph/">
+    <script defer src="https://uma.cog.gs/script.js" data-website-id="ab6f8a98-f9fe-4b13-b1a9-fd005e750081"></script>
   </head>
   <body class="bg-gradient-to-br from-[#002de5] via-[#0034c7] to-[#003bb8] min-h-screen">
     <div class="container py-8 px-4 mx-auto max-w-7xl">
@@ -45,9 +46,9 @@
         </div>
       </header>
       {% if page.estimated %}
-      <div class="p-4 mb-8 rounded-3xl text-center text-yellow-100 bg-gradient-to-r from-[#E8000D]/80 to-[#ff1a2e]/80 text-sm sm:text-lg italic shadow-lg">
-        This date is an estimate. We'll update it once the official date is confirmed.
-      </div>
+        <div class="p-4 mb-8 rounded-3xl text-center text-yellow-100 bg-gradient-to-r from-[#E8000D]/80 to-[#ff1a2e]/80 text-sm sm:text-lg italic shadow-lg">
+          This date is an estimate. We'll update it once the official date is confirmed.
+        </div>
       {% endif %}
       <main id="roster" class="flex flex-col gap-8">
         {{ content }}
@@ -60,9 +61,9 @@
           {% for year in sorted_years %}
             {% if year.current_year != most_recent.current_year %}
               {% if year.current_year == page.current_year %}
-            <a class="py-2 px-4 text-white rounded-full shadow-lg transition-all duration-200 hover:scale-110 bg-yellow-400/40 ring-2 ring-yellow-400" href="{{ year.url }}">{{ year.current_year }}</a>
+                <a class="py-2 px-4 text-white rounded-full ring-2 ring-yellow-400 shadow-lg transition-all duration-200 hover:scale-110 bg-yellow-400/40" href="{{ year.url }}">{{ year.current_year }}</a>
               {% else %}
-            <a class="py-2 px-4 text-white rounded-full shadow-lg transition-all duration-200 hover:scale-110 bg-white/20 hover:bg-white/30" href="{{ year.url }}">{{ year.current_year }}</a>
+                <a class="py-2 px-4 text-white rounded-full shadow-lg transition-all duration-200 hover:scale-110 bg-white/20 hover:bg-white/30" href="{{ year.url }}">{{ year.current_year }}</a>
               {% endif %}
             {% endif %}
           {% endfor %}
