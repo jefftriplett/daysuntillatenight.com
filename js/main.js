@@ -1,4 +1,4 @@
-var latenight = new Date('10/16/2026 6:30 PM'),
+var latenight = new Date('10/15/2027 6:30 PM'),
     _yyyy = latenight.getFullYear()+'',
     _yy = latenight.getFullYear()-1999+'',
     _yearspan = _yyyy+'-'+_yy,
