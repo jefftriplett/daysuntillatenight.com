@@ -2,8 +2,8 @@
 class: So.
 first_name: Leroy
 height: 6-1
-high_school: 
-hometown: Bronx, New York
+high_school: Detroit Jesuit HS
+hometown: Detroit, Mich.
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2026/6/22/Blyden_Leroy.jpg
 last_name: Blyden Jr.
 number: '2'

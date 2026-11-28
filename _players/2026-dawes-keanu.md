@@ -2,8 +2,8 @@
 class: Sr.
 first_name: Keanu
 height: 6-9
-high_school: 
-hometown: 
+high_school: Stratford HS
+hometown: Houston, Texas
 image: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2026/6/22/Dawes_Keanu.jpg
 last_name: Dawes
 number: '8'
